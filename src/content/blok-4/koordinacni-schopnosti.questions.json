@@ -2,7 +2,7 @@
   {
     "id": "koordinacni-schopnosti-q01",
     "question": "Co jsou koordinační schopnosti a podle čeho posuzujeme jejich míru?",
-    "modelAnswer": "Koordinační schopnosti (obratnost) umožňují vykonávat pohybovou činnost tak, aby průběh pohybů těla nebo jeho částí měl z hlediska pohybového úkolu co nejúčelnější **časovou, prostorovou a dynamickou strukturu**.\n\nMíru koordinace určují čtyři ukazatele:\n\n- **koordinační složitost** pohybu, tedy složitost, kterou proband ještě zvládne,\n- **přesnost** pohybu,\n- **dobu trvání** pohybu,\n- **ekonomičnost** pohybu.\n\nKoordinační schopnosti tedy nejsou jen o přesnosti, ale o tom, jak efektivně a v jakém čase je pohyb proveden. Čím složitější pohyb proband zvládne a čím přesněji, rychleji a úsporněji ho provede, tím vyšší je jeho úroveň koordinačních schopností.",
+    "modelAnswer": "Koordinační schopnosti (obratnost) umožňují vykonávat pohybovou činnost tak, aby průběh pohybů těla nebo jeho částí měl z hlediska pohybového úkolu co nejúčelnější **časovou, prostorovou a dynamickou strukturu**.\n\nMíru koordinace určují čtyři ukazatele:\n\n- **koordinační složitost** pohybu, tedy složitost, kterou proband ještě zvládne,\n- **přesnost** pohybu,\n- **dobu trvání** pohybu,\n- **ekonomičnost** pohybu.\n\nO průběhu pohybu rozhoduje CNS, která pohyb kontroluje prostřednictvím analyzátorů a regulátorů.",
     "keyPoints": [
       "Koordinační schopnosti umožňují účelnou časovou, prostorovou a dynamickou strukturu pohybu",
       "Míra koordinace: koordinační složitost, přesnost, doba trvání a ekonomičnost pohybu",
@@ -24,7 +24,7 @@
   {
     "id": "koordinacni-schopnosti-q03",
     "question": "Jaký je biologický základ koordinačních schopností? Popište analyzátory I. a II. druhu.",
-    "modelAnswer": "Koordinační schopnosti mají biologický základ v analyzátorech, které přijímají informace pro řízení pohybu.\n\n**Analyzátory I. druhu** přijímají informace z prostředí. Patří mezi ně:\n\n- **zrakový** – zraková ostrost a prostorové (hloubkové) vidění, důležité ve sportovních hrách,\n- **sluchový** – kvalita zadaného úkolu a zpětné vazby,\n- **vestibulární** – poloha a pohyby hlavy, důležitý pro rovnováhu,\n- **kinestetický** – rozlišování silových, prostorových a časových parametrů pohybu,\n- **somatosenzorický** – tlakový, dotykový a tepelný senzor v kůži,\n- **časový** – časoměrná funkce CNS.\n\n**Analyzátory II. druhu** mají vyšší rozlišovací schopnost a působí na principu servomechanismu ve spojení se zadními kořeny míšními. Jsou to svalová vřeténka, Golgiho šlachová tělíska, Ruffiniho tělíska v kolenním kloubu a Pacciniho tělíska v kloubních vazech.",
+    "modelAnswer": "Koordinační schopnosti mají biologický základ v analyzátorech, které přijímají informace pro řízení pohybu.\n\n**Analyzátory I. druhu** slouží k vnímání podnětů. Patří mezi ně:\n\n- **zrakový** – zraková ostrost, důležitá především ve sportovní střelbě, a prostorové (hloubkové) vidění, důležité ve sportovních hrách,\n- **sluchový** – kvalita zadaného úkolu a zpětné vazby,\n- **vestibulární** – poloha a pohyby hlavy, důležitý pro rovnováhu,\n- **kinestetický** – rozlišování silových, prostorových a časových parametrů pohybu,\n- **somatosenzorický** – tlakový, dotykový a tepelný senzor v kůži,\n- **časový** – časoměrná funkce CNS.\n\n**Analyzátory II. druhu** mají vyšší rozlišovací schopnost a působí na principu servomechanismu ve spojení se zadními kořeny míšními. Jsou to svalová vřeténka, Golgiho šlachová tělíska, Ruffiniho tělíska v kolenním kloubu a Pacciniho tělíska v kloubních vazech.",
     "keyPoints": [
       "Analyzátory I. druhu přijímají informace z prostředí (zrakový, sluchový, vestibulární, kinestetický, somatosenzorický, časový)",
       "Zrakový analyzátor: zraková ostrost a prostorové vidění",
@@ -48,7 +48,7 @@
   {
     "id": "koordinacni-schopnosti-q05",
     "question": "Co je regulace svalového napětí a proč je důležitá pro koordinaci?",
-    "modelAnswer": "Regulace svalového napětí je **základní faktor koordinačních schopností**. Nedostatečné uvolnění svalů vede k nástupu únavy.\n\nRozlišujeme tři typy svalového napětí:\n\n- **tonické napětí** – klidové napětí, které se zvyšuje únavou; odstraňuje se pomalými pohyby na uvolnění nebo masáží,\n- **rychlostní napětí** – neschopnost uvolnit sval při zvýšené frekvenci pohybů,\n- **koordinační napětí** – projev nižší úrovně koordinačních schopností; napínají se svaly, které k vykonání pohybu nepotřebujeme, a klouby jsou fixovány.\n\nDobrá regulace napětí umožňuje, aby se zapojovaly jen svaly potřebné pro daný pohyb. Tím se zvyšuje přesnost a hospodárnost pohybu.",
+    "modelAnswer": "Regulace svalového napětí je **základní faktor koordinačních schopností**. Nedostatečné uvolnění svalů vede k nástupu únavy.\n\nRozlišujeme tři typy svalového napětí:\n\n- **tonické napětí** – klidové napětí, které se zvyšuje únavou; odstraňuje se pomalými pohyby na uvolnění nebo masáží,\n- **rychlostní napětí** – neschopnost uvolnit sval při zvýšené frekvenci pohybů,\n- **koordinační napětí** – projev nižší úrovně koordinačních schopností; napínají se svaly, které k vykonání pohybu nepotřebujeme, a klouby jsou fixovány.\n\nDobrá regulace napětí umožňuje, aby se zapojovaly jen svaly potřebné pro daný pohyb.",
     "keyPoints": [
       "Regulace svalového napětí je základní faktor koordinačních schopností",
       "Nedostatečné uvolnění svalů vede k nástupu únavy",
@@ -60,7 +60,7 @@
   {
     "id": "koordinacni-schopnosti-q06",
     "question": "Jaké jsou obecné zásady rozvoje koordinačních schopností (obratnosti)?",
-    "modelAnswer": "Rozvoj obratnosti se řídí těmito zásadami:\n\n1. **Vysoký objem opakování** při přiměřené intenzitě a kvalitativně vysoké úrovni provedení.\n2. **Od nejjednodušších ke složitějším** cvičením, například od kotoulu k dvojnému saltu.\n3. **Od stálých podmínek k proměnlivým**, tedy cvičit uvnitř, venku nebo na různých prvcích.\n4. **Různé obměny** cvičení, například kotoul na sto způsobů.\n5. **Kombinace** dříve osvojených a dokonale zvládnutých prvků, tzv. vazby.\n6. Cvičení **pod tlakem**, například s časovou tísní, drilováním nebo při zautomatizovaných procesech.\n7. Cvičení **s dodatečnými informacemi**, kdy se omezuje nebo naopak zdůrazňuje funkce jednoho z analyzátorů, například cvičení se zavázanýma očima.\n\nZásady se uplatňují postupně a navzájem se doplňují.",
+    "modelAnswer": "Rozvoj obratnosti se řídí těmito zásadami:\n\n1. **Vysoký objem opakování** při přiměřené intenzitě a kvalitativně vysoké úrovni provedení.\n2. **Od nejjednodušších ke složitějším** cvičením, například od kotoulu k dvojnému saltu.\n3. **Od stálých podmínek k proměnlivým**, tedy cvičit uvnitř, venku nebo na různých prvcích.\n4. **Různé obměny** cvičení, například kotoul na sto způsobů.\n5. **Kombinace** dříve osvojených a dokonale zvládnutých prvků, tzv. vazby.\n6. Cvičení **pod tlakem**, například s časovou tísní, drilováním nebo při zautomatizovaných procesech.\n7. Cvičení **s dodatečnými informacemi**, kdy se omezuje nebo naopak zdůrazňuje funkce jednoho z analyzátorů, například cvičení se zavázanýma očima.",
     "keyPoints": [
       "Vysoký objem opakování při přiměřené intenzitě a kvalitě",
       "Postup od nejjednodušších ke složitějším cvičením a od stálých k proměnlivým podmínkám",
@@ -84,13 +84,13 @@
   {
     "id": "koordinacni-schopnosti-q08",
     "question": "Vysvětlete rozdíl mezi schopností a dovedností a uveďte vlastnosti pohybové soustavy, které ovlivňují koordinaci.",
-    "modelAnswer": "**Schopnost** je vrozený, geneticky daný předpoklad pro pohyb. **Dovednost** je naučený způsob provedení pohybu, který získáme motorickým učením; jde o techniku. Schopnosti tvoří předpoklad, na jehož základě se dovednosti osvojují.\n\nNa koordinaci mají vliv také vlastnosti pohybové soustavy:\n\n- **svalová síla** – je nutným prostředkem pro provedení většiny obratnostních cvičení,\n- **kloubní pohyblivost** – optimální rozsah pohybu v kloubech je nutným předpokladem správného provedení většiny obratnostně zaměřených úkolů,\n- **složení těla** – délkové, šířkové a další parametry těla.\n\nKoordinační schopnosti je tedy nutné rozvíjet společně s pohyblivostí a silou, které jsou pro jejich projev zásadní.",
+    "modelAnswer": "**Schopnost** je vrozený, geneticky daný předpoklad pro pohyb. **Dovednost** je naučený způsob provedení pohybu, který získáme motorickým učením; jde o techniku. \n\nNa koordinaci mají vliv také vlastnosti pohybové soustavy:\n\n- **svalová síla** – je nutným prostředkem pro provedení většiny obratnostních cvičení,\n- **kloubní pohyblivost** – optimální rozsah pohybu v kloubech je nutným předpokladem správného provedení většiny obratnostně zaměřených úkolů,\n- **složení těla** – délkové, šířkové a další parametry těla.",
     "keyPoints": [
       "Schopnost je vrozený, geneticky daný předpoklad",
       "Dovednost je získaná motorickým učením, tedy technika",
       "Svalová síla je nutná pro většinu obratnostních cvičení",
       "Kloubní pohyblivost je nutným předpokladem správného provedení",
-      "Složení těla ovlivňuje délkové a šířkové parametry pohybu"
+      "Složení těla – délkové, šířkové a další parametry těla"
     ]
   }
 ]

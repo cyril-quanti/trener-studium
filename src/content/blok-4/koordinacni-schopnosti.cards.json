@@ -7,17 +7,17 @@
   {
     "id": "koordinacni-schopnosti-c02",
     "front": "Jaké jsou čtyři ukazatele míry koordinace?",
-    "back": "- koordinační složitost pohybu\n- přesnost pohybu\n- doba trvání pohybu\n- ekonomičnost pohybu"
+    "back": "koordinační složitost pohybu; přesnost pohybu; doba trvání pohybu; ekonomičnost pohybu"
   },
   {
     "id": "koordinacni-schopnosti-c03",
     "front": "Jak se dělí koordinační schopnosti?",
-    "back": "- rovnováhové\n- prostorově-orientační\n- kinesteticko-diferenciační\n- regulace rytmu a frekvence pohybu\n- motorická učenlivost (docilita)"
+    "back": "rovnováhové; prostorově-orientační; kinesteticko-diferenciační; regulace rytmu a frekvence pohybu; motorická učenlivost (docilita)"
   },
   {
     "id": "koordinacni-schopnosti-c04",
     "front": "Co ovlivňuje úroveň koordinačních schopností?",
-    "back": "- úroveň analyzátorů\n- CNS (řídicí a regulační procesy)\n- stav pohybové soustavy\n- regulace svalového napětí"
+    "back": "úroveň analyzátorů; CNS (řídicí a regulační procesy); stav pohybové soustavy; regulace svalového napětí"
   },
   {
     "id": "koordinacni-schopnosti-c05",
@@ -32,7 +32,7 @@
   {
     "id": "koordinacni-schopnosti-c07",
     "front": "Čím se liší statická a dynamická rovnováha?",
-    "back": "- **statická**: těžiště musí zůstat nad místem opory (např. stoj na rukou)\n- **dynamická**: těžiště je během pohybu vychýleno mimo místo opory a vrací se nad ni (např. sjezdové lyžování, cyklistika)"
+    "back": "Statická: těžiště musí zůstat nad místem opory (např. stoj na rukou).\nDynamická: těžiště je během pohybu vychýleno mimo místo opory a vrací se nad ni (např. sjezdové lyžování, cyklistika)."
   },
   {
     "id": "koordinacni-schopnosti-c08",
@@ -52,26 +52,41 @@
   {
     "id": "koordinacni-schopnosti-c11",
     "front": "Jaký je rozdíl mezi schopností a dovedností?",
-    "back": "- **Schopnost**: vrozený, geneticky daný předpoklad\n- **Dovednost**: získaná motorickým učením, technika"
+    "back": "Schopnost: vrozený, geneticky daný předpoklad.\nDovednost: získaná motorickým učením, technika."
   },
   {
     "id": "koordinacni-schopnosti-c12",
-    "front": "Které analyzátory I. druhu zná zrakový analyzátor a co zachycuje?",
+    "front": "Co zachycuje zrakový analyzátor (analyzátor I. druhu)?",
     "back": "Zrakový analyzátor zachycuje zrakovou ostrost (statickou a pohybovou) a prostorové (hloubkové) vidění. Ostatní analyzátory I. druhu jsou sluchový, vestibulární, kinestetický, somatosenzorický a časový."
   },
   {
     "id": "koordinacni-schopnosti-c13",
     "front": "Které jsou analyzátory II. druhu?",
-    "back": "- svalová vřeténka\n- Golgiho šlachová tělíska\n- Ruffiniho tělíska v kolenním kloubu\n- Pacciniho tělíska v kloubních vazech"
+    "back": "svalová vřeténka; Golgiho šlachová tělíska; Ruffiniho tělíska v kolenním kloubu; Pacciniho tělíska v kloubních vazech"
   },
   {
     "id": "koordinacni-schopnosti-c14",
     "front": "Jaké jsou tři typy svalového napětí?",
-    "back": "- **tonické** – klidové napětí, zvyšuje se únavou; řeší se pomalými pohyby a masáží\n- **rychlostní** – neschopnost uvolnit sval při zvýšené frekvenci pohybů\n- **koordinační** – napětí svalů, které k pohybu nepotřebujeme (fixace kloubů); důsledek nižší koordinační schopnosti"
+    "back": "Tonické: klidové napětí, zvyšuje se únavou; řeší se pomalými pohyby a masáží.\nRychlostní: neschopnost uvolnit sval při zvýšené frekvenci pohybů.\nKoordinační: napětí svalů, které k pohybu nepotřebujeme (fixace kloubů); důsledek nižší koordinační schopnosti."
   },
   {
     "id": "koordinacni-schopnosti-c15",
     "front": "Jaké jsou vlastnosti pohybové soustavy ovlivňující koordinaci?",
-    "back": "- svalová síla (nutná pro většinu obratnostních cvičení)\n- kloubní pohyblivost (optimální rozsah pohybu v kloubech)\n- složení těla (délkové, šířkové a další parametry)"
+    "back": "svalová síla (nutná pro většinu obratnostních cvičení); kloubní pohyblivost (optimální rozsah pohybu v kloubech); složení těla (délkové, šířkové a další parametry)"
+  },
+  {
+    "id": "koordinacni-schopnosti-c16",
+    "front": "Jaké části obsahuje regulační obvod pohybu?",
+    "back": "pokyn CNS → analyzátory → paměťová oblast → regulátory → centra CNS → mícha → pohybová soustava → regulovaný pohyb. Průběh pohybu je velice složitý děj."
+  },
+  {
+    "id": "koordinacni-schopnosti-c17",
+    "front": "Jak se testuje obratnost (Denisiukův test) a koordinace dolních končetin (Fleischmannův test)?",
+    "back": "Denisiukův test: obratnostní test, měří se dráha a záznam času. Fleischmannův test: koordinace dolních končetin (přeskok složeného švihadla, šíře ramen, jen vpřed); počítá se počet úspěšných pokusů."
+  },
+  {
+    "id": "koordinacni-schopnosti-c18",
+    "front": "Jaké specifické testy se používají v jednotlivých sportech?",
+    "back": "Odbíjená: odbíjení jednoruč na zdi, počítá se počet správných odbití. Plavání: 50 m, hodnotí se minimální počet tempů. Sporty kanoistika, basket, fotbal a atletika mají vlastní testy. Účel: výběr talentů, kontrola techniky, přijímací zkoušky (talentovky)."
   }
 ]

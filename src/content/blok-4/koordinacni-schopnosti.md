@@ -38,13 +38,21 @@ Podle stupně zvládnutí pohybu (fáze motorického učení) se postupně proje
 - schopnost řešit **prostorovou strukturu** pohybu,
 - schopnost řešit **časovou strukturu** pohybu.
 
+## Regulační obvod
+
+Průběh pohybu lze znázornit jako regulační obvod, jehož prvky jsou:
+
+pokyn CNS → analyzátory → paměťová oblast → regulátory → centra CNS → mícha → pohybová soustava → regulovaný pohyb
+
+> **Pozor:** Průběh pohybu je velice složitý děj.
+
 ## Biologický základ
 
 ### Analyzátory I. druhu
 
 | Analyzátor | Význam |
 |---|---|
-| **zrakový** | zraková ostrost (statická, pohybová) – důležitá ve sportovní střelbě; **prostorové (hloubkové) vidění** – důležité ve sportovních hrám |
+| **zrakový** | zraková ostrost (statická, pohybová) – důležitá především ve sportovní střelbě; **prostorové (hloubkové) vidění** – důležité ve sportovních hrách |
 | **sluchový** | kvalita přenosu zadaného úkolu, zpětné vazby a verbálních informací během pohybu |
 | **vestibulární** | poloha a pohyby hlavy v prostoru; důležitý pro rovnováhovou schopnost |
 | **kinestetický** | rozlišování silových, prostorových a časových parametrů pohybu v CNS |
@@ -147,9 +155,18 @@ Celkové testování se provádí hodnocením provedení složitějších pohybo
 | Pohyblivost | Výkrut paží (úchop v cm, index I = d/l) | vzdálenost úchopu v cm |
 | Pohyblivost | Hluboký předklon na zvýšené ploše | hodnota lepšího pokusu v cm |
 | Pohyblivost | Dotyk prstů za zády | chybějící či překrývající se cm |
+| Pohyblivost (dynamická flexibilita) | Předklon – otáčení a dotyk na zeď | nejasné v podkladu |
+| Obratnost | Denisiukův test | dráha, záznam času |
+| Koordinace dolních končetin | Fleischmannův test (přeskok složeného švihadla, šíře ramen, jen vpřed) | počet úspěšných pokusů |
+| Kinestetická diferenciace | Testy kinestetické diferenciace (odhady času, pohybu předmětu, síly, výskok) | nejasné v podkladu |
 
 ## Specifické testy
 
-Specifické testy jsou zaměřeny na konkrétní sport, například odbíjenou (odbití na zdi, počet správných odbití) nebo speciální testy s 10× přes hlavu o zeď, 20× jednoruč o stěnu nebo podběh a odbití zpět.
+Specifické testy jsou zaměřeny na konkrétní sport:
 
-> **Zapamatuj si:** Testy slouží také k výběru talentů, kontrole techniky a přijímacím zkouškám.
+- **odbíjená** – odbíjení jednoruč na zdi (čára ve výšce sítě, 3 m od zdi); měří se počet správných odbití,
+- **plavání** – 50 m; hodnotí se minimální počet tempů,
+- **speciální testy** – například 10× přes hlavu o zeď (1 m od zdi), 20× jednoruč o stěnu, podběh a odbití zpět,
+- sporty **kanoistika, basket, fotbal, atletika** – každý sport má vlastní testy pro potřebu trenérů.
+
+> **Zapamatuj si:** Testy slouží také k výběru talentů, kontrole techniky a přijímacím zkouškám (talentovkám).
