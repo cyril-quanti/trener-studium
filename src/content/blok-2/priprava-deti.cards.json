@@ -6,13 +6,13 @@
   },
   {
     "id": "priprava-deti-c02",
-    "front": "Jaké je rozdělení dětského věku podle zdrojového textu?",
-    "back": "Dětský věk je **6–15 let**. Dělí se na:\n- **mladší školní věk** (6–10 let)\n- **starší školní věk** (11–15 let)"
+    "front": "Jaké je rozdělení dětského věku?",
+    "back": "Dětský věk je 6–15 let. Dělí se na:\n- mladší školní věk (6–10 let)\n- starší školní věk (11–15 let; v jiném podkladu 12–14 let)"
   },
   {
     "id": "priprava-deti-c03",
     "front": "Co je označováno jako „zlatý věk motoriky“ a kdy nastává?",
-    "back": "Období **8–10 let** (mladší školní věk). Pohybové dovednosti se v něm učí nejsnadněji; stačí perfektní ukázka."
+    "back": "Období 8–10 let (mladší školní věk). Pohybové dovednosti se v něm učí nejsnadněji; stačí perfektní ukázka."
   },
   {
     "id": "priprava-deti-c04",
@@ -27,51 +27,61 @@
   {
     "id": "priprava-deti-c06",
     "front": "Jaký je rozdíl mezi kalendářním a biologickým věkem?",
-    "back": "- **kalendářní věk** je dán datem narození\n- **biologický věk** je dán stupněm biologického vývoje\n\nTyto dva věky spolu nemusí souhlasit."
+    "back": "- kalendářní věk je dán datem narození\n- biologický věk je dán stupněm biologického vývoje\n\nTyto dva věky spolu nemusí souhlasit."
   },
   {
     "id": "priprava-deti-c07",
     "front": "Co znamenají pojmy akcelerace a retardace?",
-    "back": "- **akcelerace** – biologický věk předstihuje kalendářní věk\n- **retardace** – biologický věk zaostává za kalendářním věkem"
+    "back": "- akcelerace – biologický věk předstihuje kalendářní věk\n- retardace – biologický věk zaostává za kalendářním věkem"
   },
   {
     "id": "priprava-deti-c08",
-    "front": "Jaké dvě odlišné cesty dlouhodobé koncepce zdrojový text uvádí?",
-    "back": "- **raná specializace** (co nejdříve vysoký výkon)\n- **trénink odpovídající vývoji** (výkonnost přiměřená věku, nejvyšší výkon jako perspektivní cíl)"
+    "front": "Jaké dvě odlišné cesty dlouhodobé koncepce tréninku existují?",
+    "back": "- raná specializace (co nejdříve vysoký výkon)\n- trénink odpovídající vývoji (výkonnost přiměřená věku, nejvyšší výkon jako perspektivní cíl)"
   },
   {
     "id": "priprava-deti-c09",
     "front": "Co říká pravidlo 10 let (Simon–Chase 1973)?",
-    "back": "Minimální doba pro expertní úroveň je **10 let** (přibližně **10 000 opakování**). Rozdíly mezi experty a začátečníky jsou dány mimo jiné dovedností rozpoznat situaci, kterou lze získat cvičením."
+    "back": "Minimální doba pro expertní úroveň je 10 let (přibližně 10 000 opakování). Rozdíly mezi experty a začátečníky jsou dány mimo jiné dovedností rozpoznat situaci, kterou lze získat cvičením (i když existuje i genetická podmíněnost)."
   },
   {
     "id": "priprava-deti-c10",
     "front": "Je raná specializace nutná pro dosažení vrcholové výkonnosti?",
-    "back": "**Není nutná.** Zdrojový text uvádí jako důkaz Hill (1993)."
+    "back": "Není nutná (např. Hill 1993)."
   },
   {
     "id": "priprava-deti-c11",
-    "front": "Jaké důvody zdrojový text uvádí pro všestrannost v dětském tréninku?",
+    "front": "Jaké důvody podporují všestrannost v dětském tréninku?",
     "back": "- zdravotní aspekt (jednostranné zatížení, nevratné změny)\n- riziko vyhoření a předčasného ukončení kariéry (drop out)\n- vyčerpání adaptační kapacity\n- monotónnost\n- sociální vývoj\n- dozrání"
   },
   {
     "id": "priprava-deti-c12",
-    "front": "Jak dlouho smí být drilové cvičení u dětí podle zdrojového textu?",
-    "back": "Drilová cvičení jen tak dlouho, **kolik je dětem let** (ADM 2010, monotónnost)."
+    "front": "Jak dlouho smí být drilové cvičení u dětí?",
+    "back": "Drilová cvičení jen tak dlouho, kolik je dětem let (ADM 2010, monotónnost)."
   },
   {
     "id": "priprava-deti-c13",
     "front": "Jaký je poměr pochval a kritiky a jaká je zásada hodnocení „sendvič“ (K-K-K)?",
-    "back": "- poměr pochval a kritiky **3–4 : 1**\n- **K-K-K sendvič:** motivace – konstatování (co se stalo, proč) – kritika – jak napravit – motivace"
+    "back": "- poměr pochval a kritiky 3–4 : 1\n- sendvič (K-K-K): Motivace (něco pozitivního) – Kritika (konstatování: co se stalo, proč) – Motivace (jak napravit)"
   },
   {
     "id": "priprava-deti-c14",
-    "front": "Jaké tři fáze náboru dětí zdrojový text uvádí?",
-    "back": "1. **oslovení**\n2. **příchod**\n3. **setrvání**"
+    "front": "Jaké tři fáze náboru dětí existují?",
+    "back": "1. oslovení\n2. příchod\n3. setrvání"
   },
   {
     "id": "priprava-deti-c15",
     "front": "Jaké jsou čtyři kroky učení se novým dovednostem?",
     "back": "1. představení dovednosti\n2. demonstrace a krátké vysvětlení podstaty\n3. začátky nácviku\n4. zpětná vazba pro korekci chyb"
+  },
+  {
+    "id": "priprava-deti-c16",
+    "front": "Jak dlouhá je tréninková jednotka dětí a z jakých částí se skládá?",
+    "back": "- trvá 45–50 minut\n- úvodní část (psychologická stránka, příprava organismu, průprava na hlavní část)\n- hlavní část (koordinační cvičení, rozvoj rychlosti, síly a vytrvalosti)\n- závěrečná část (dynamická a statická)"
+  },
+  {
+    "id": "priprava-deti-c17",
+    "front": "Jaký je u dětí poměr speciálních pohybů a dovednostních her?",
+    "back": "70 : 30 (zásada všestrannosti s důrazem na všeobecné pohybové schopnosti)."
   }
 ]

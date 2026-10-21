@@ -21,8 +21,6 @@ Na základě znalostí a zkušeností lze v dlouhodobém tréninku vysledovat dv
 | **Velikost zatížení** | Jít až na hranici únosnosti; neúměrné nároky na ještě nevyzrálé jedince | Zřetel na stupeň individuálního vývoje; postupné a pozvolné stupňování nároků na sportovce |
 | **Psychologické rysy tréninku** | Tvrdost, cílevědomost; psychické momenty charakteristické pro práci dospělých: napětí, vážnost, vyhraněná racionalizace, tlak na výkon | Trénink odpovídající mentalitě věkového stupně, omezování tlaku na výkon; radost, hravost, uvolněnost, bohatství prožitků, přiměřené ocenění |
 
-> **Zapamatuj si:** Raná specializace není nutná pro dosažení vrcholové výkonnosti. Trénink odpovídající vývoji počítá s **přiměřeným podílem všestrannosti**.
-
 ## Typy cyklů ve sportovním tréninku
 
 | Cyklus | Délka |
@@ -31,7 +29,7 @@ Na základě znalostí a zkušeností lze v dlouhodobém tréninku vysledovat dv
 | **Makrocyklus** | 1–3 (6) měsíců |
 | **Mezocyklus** | 2–4 týdny |
 | **Mikrocyklus** | 2–10 dnů, obvykle 1 týden |
-| **Tréninková jednotka** | nejkratší jednotka tréninkového procesu |
+| **Tréninková jednotka** | základní prvek tréninkového procesu |
 
 ### Roční tréninkový cyklus
 

@@ -29,7 +29,7 @@ Dětský věk je **6–15 let** a dělí se na dvě období:
 | Období | Věk | Charakteristika |
 |---|---|---|
 | **Mladší školní věk** | 6–10 let | všeobecně šťastné období, dobrá ovladatelnost |
-| **Starší školní věk** | 11–15 let | nerovnoměrný vývoj, přechod od dětství k dospělosti |
+| **Starší školní věk** | 11–15 let (v jiném podkladu 12–14 let) | nerovnoměrný vývoj, přechod od dětství k dospělosti |
 
 #### Mladší školní věk
 
@@ -98,7 +98,7 @@ V dlouhodobém tréninku existují **dvě odlišné cesty**:
 
 ### Proč raná specializace – argumenty a jejich kritika
 
-Zdrojový text uvádí tyto argumenty: „deliberate practice“ (Ericsson 1993), **pravidlo 10 let** (10 000 opakování, Simon–Chase 1973) a **zákon síly opakování** (Newel–Rosenblom 1981).
+Argumenty pro všestrannost a pozdní specializaci: „deliberate practice“ (Ericsson 1993), **pravidlo 10 let** (10 000 opakování, Simon–Chase 1973) a **zákon síly opakování** (Newel–Rosenblom 1981).
 
 - **Pravidlo 10 let** – rozdíly mezi experty a začátečníky jsou dány více než fyzickou úrovní, a to dovednostmi rozpoznat situaci. Tyto dovednosti jsou podmíněny cvičením. Minimální doba pro expertní úroveň je 10 let (10 000 opakování).
 - **Zákon síly opakování** – přímý vztah mezi časem věnovaným drilovým cvičením a dosaženou úrovní. Zároveň platí, že čím více se cvičí, tím hůře se bude výkon dále rozvíjet.
@@ -141,6 +141,18 @@ Vývoj mozku:
 
 Pro přehled etap viz studijní text „Etapy a cykly ve sportovním tréninku“ (blok 2).
 
+## Tréninková jednotka dětí
+
+- **Délka:** 45–50 minut
+- **Části tréninkové jednotky:**
+  1. **úvodní část** – psychologická stránka, příprava organismu, průprava na hlavní část
+  2. **hlavní část** – koordinace, rychlost, síla, vytrvalost
+  3. **závěrečná část** – cvičení dynamická a statická
+- **Sociálně interakční formy:** hromadná, skupinová, individuální
+- **Fair play:** pro dítě je důležité osvojení principů fair play
+- **Motivace:** hry, hravost, soupeřivost a soutěže; není důležité, kdo a kolikrát zvítězil
+- **Zásada všestrannosti:** důraz na rozvoj všeobecných pohybových schopností; poměr cvičení speciálních pohybů a dovednostních her **70 : 30**
+
 ## Obecné zásady sportovní přípravy dětí
 
 Kvalita tréninkového procesu je dána:
@@ -156,7 +168,7 @@ Kvalita tréninkového procesu je dána:
 - **dobrý vztah k dětem** – pozitivní motivace, atmosféra pohody; sport **není** „pracovní tábor“; pochvalovat a povzbuzovat; negativní kritika bere dětem chuť
   - poměr pochval a kritiky **3–4 : 1**
   - hodnocení konkrétní, ne obecné fráze
-  - kritika nejprve pozitivní, poté negativní – **„sendvič“ (K-K-K)**: motivace – konstatování (co se stalo, proč se to stalo) – kritika – jak napravit – motivace
+  - kritika nejprve pozitivní, poté negativní – **„sendvič“**: motivace (něco pozitivního) – kritika (konstatování: co se stalo, proč se to stalo) – motivace (jak napravit)
 - **zájem o školu** – pro budoucnost dětí není důležitý jen sport; trenér sleduje prospěch a chování a zajímá se o školní problémy, ale nemá místo trénování sledovat školní výsledky
 
 ### Využití času tréninku
@@ -167,7 +179,7 @@ Kvalita tréninkového procesu je dána:
 
 **Skupinové vyučování** – problémem je různá úroveň dovedností; děti se rozdělí do skupin podle výkonnostních kritérií (obvykle dovedností); skupiny jsou na sobě relativně nezávislé; možné jsou přechody mezi skupinami (kde je tempo nižší a naopak).
 
-**Asistenti** – potřeba individuální práce (opravování, korigování); důležité je dostatečné zapojení asistentů; možný a relativně dostupný poměr **8–10 : 1** (8 dětí na jednoho asistenta). Asistenti jsou tři skupiny: profesionální trenéři, aktivní sportovci, rodiče a příbuzní dětí v družstvu. Hlavní je dohled, na který stačí málo.
+**Asistenti** – potřeba individuální práce (opravování, korigování); důležité je dostatečné zapojení asistentů; možný a relativně dostupný poměr **8–10 : 1**. Asistenti jsou tři skupiny: profesionální trenéři, aktivní sportovci, rodiče a příbuzní dětí v družstvu. Hlavní je dohled, na který stačí málo.
 
 ### Kvalita jednotlivých cvičení
 
