@@ -1,0 +1,92 @@
+[
+  {
+    "id": "vytrvalostni-schopnosti-q01",
+    "question": "Vymezte pojem vytrvalostní schopnost a popište, jaké předpoklady zahrnuje.",
+    "modelAnswer": "**Vytrvalostní schopnost (V.S.)** je schopnost provádět opakovaně pohybovou činnost submaximální, střední a mírné intenzity bez snížení její efektivity. Intenzita je dána pohybovým úkolem.\n\nZahrnuje dva předpoklady:\n\n- **a)** provádět cvičení určitou nižší intenzitou co nejdéle,\n- **b)** provádět cvičení stanovenou dobu (vzdálenost) co nejvyšší intenzitou.\n\nTo znamená, že vytrvalost se projevuje buď jako délka trvání při mírné zátěži, nebo jako výkon v daném čase či na dané vzdálenosti při vysoké intenzitě.",
+    "keyPoints": [
+      "Vytrvalostní schopnost je opakovaná pohybová činnost bez snížení efektivity",
+      "Intenzita je submaximální, střední až mírná a je dána pohybovým úkolem",
+      "Předpoklad a): nižší intenzita co nejdéle",
+      "Předpoklad b): stanovená doba nebo vzdálenost co nejvyšší intenzitou"
+    ]
+  },
+  {
+    "id": "vytrvalostni-schopnosti-q02",
+    "question": "Jak se vytrvalostní schopnosti dělí podle doby trvání a jaký energetický zdroj je u jednotlivých druhů hlavní?",
+    "modelAnswer": "Podle doby trvání rozlišujeme sedm druhů:\n\n- **rychlostní** (0–20 s) – ATP–CP systém,\n- **krátkodobou** (20 s – 2 min) – LA systém (anaerobní glykolýza),\n- **střednědobou** (2–10 min) – O₂ systém (aerobní glykolýza),\n- **dlouhodobou I** (10–35 min) – glykogen,\n- **dlouhodobou II** (35–90 min) – glykogen a tuky,\n- **dlouhodobou III** (90 min – 6 h) – tuky,\n- **dlouhodobou IV** (nad 6 h) – bílkoviny.\n\nS rostoucí dobou trvání se tedy mění energetický zdroj: od rychle dostupného ATP a CP přes glykolýzu a glykogen až po tuky a nakonec bílkoviny.",
+    "keyPoints": [
+      "Rychlostní vytrvalost: 0–20 s, ATP–CP systém",
+      "Krátkodobá vytrvalost: 20 s – 2 min, LA systém",
+      "Střednědobá vytrvalost: 2–10 min, O₂ systém",
+      "Dlouhodobé I–IV: postupný přechod od glykogenu přes tuky k bílkovinám",
+      "Se zvyšující se dobou trvání se mění energetický zdroj"
+    ]
+  },
+  {
+    "id": "vytrvalostni-schopnosti-q03",
+    "question": "Popište tři energetické systémy, které zajišťují vytrvalostní výkon, a jejich produkty.",
+    "modelAnswer": "Vytrvalostní výkon zajišťují tři energetické systémy:\n\n1. **Kreatinfosfátový systém (ATP–CP)** – poskytuje zásobu na 2–20 kontrakcí.\n2. **Anaerobní glykolýza (LA systém)** – tvoří ATP a **laktát**.\n3. **Aerobní glykolýza (O₂ systém)** – tvoří ATP, **CO₂** a **H₂O**.\n\nAerobní glykolýza (O₂ systém) odpovídá střednědobé vytrvalosti (2–10 min).",
+    "keyPoints": [
+      "ATP–CP systém: zásoba na 2–20 kontrakcí",
+      "Anaerobní glykolýza (LA systém): tvorba ATP a laktátu",
+      "Aerobní glykolýza (O₂ systém): tvorba ATP, CO₂ a H₂O"
+    ]
+  },
+  {
+    "id": "vytrvalostni-schopnosti-q04",
+    "question": "Jaké energetické zásoby má organismus k dispozici a jak se liší jejich množství?",
+    "modelAnswer": "Organismus má k dispozici několik energetických zásob s výrazně rozdílnou kapacitou:\n\n- **ATP** přímo ve svalových buňkách: 20–30 kJ,\n- **glykogen** ve svalstvu a v játrech: 6 000–7 500 kJ,\n- **tuky** v podkoží: 200 000 kJ (200 MJ).\n\nNejmenší zásobou je ATP. Glykogen představuje střední zásobu a tuková zásoba je nejvyšší.",
+    "keyPoints": [
+      "ATP: 20–30 kJ přímo ve svalových buňkách",
+      "Glykogen: 6 000–7 500 kJ ve svalstvu a játrech",
+      "Tuky: 200 000 kJ (200 MJ) v podkoží",
+      "Největší je tuková zásoba, nejmenší ATP"
+    ]
+  },
+  {
+    "id": "vytrvalostni-schopnosti-q05",
+    "question": "Jaké faktory ovlivňují biologický základ vytrvalostní schopnosti a které z nich lze tréninkem ovlivnit?",
+    "modelAnswer": "Z biologického hlediska jde při vytrvalostním výkonu o plynulé dodávání kyslíku a energie svalovým buňkám a o odvod zplodin látkové výměny.\n\nFaktorem je **dědičnost**, která určuje poměr rychlých a pomalých svalových vláken. Dále je to **kardiopulmonární soustava**, jejíž činnost lze tréninkem dobře ovlivnit. Zahrnuje:\n\n- **dýchací systém** – příjem kyslíku závisí na minutové ventilaci (dechový objem × dechová frekvence) a na využití kyslíku ze vzduchu,\n- **oběhový systém** – přenos kyslíku do svalu závisí na minutovém objemu srdečním (srdeční objem × srdeční frekvence),\n- **cévní zásobení** – počet kapilár obklopujících svalové vlákno.\n\nVětšinu těchto faktorů lze ovlivnit tréninkem, proto je vytrvalostní schopnost poměrně dobře trénovatelná.",
+    "keyPoints": [
+      "Dědičnost: poměr rychlých a pomalých svalových vláken",
+      "Kardiopulmonární soustava je dobře ovlivnitelná tréninkem",
+      "Dýchací systém: minutová ventilace a využití kyslíku",
+      "Oběhový systém: minutový objem srdeční",
+      "Cévní zásobení: počet kapilár kolem vlákna"
+    ]
+  },
+  {
+    "id": "vytrvalostni-schopnosti-q06",
+    "question": "Jak se provádí laboratorní a terénní diagnostika vytrvalostní schopnosti?",
+    "modelAnswer": "Diagnostika vytrvalostní schopnosti se provádí dvěma způsoby.\n\n**V laboratoři** se používají standardizované zátěžové testy. Vychází z předpokladu, že čím menší funkční změny vyvolá stejná zátěž, tím je testovaná osoba vytrvalejší.\n\n**V terénu** se používají výkonové testy v podobě dlouhodobého cyklického zatížení. Zaznamenává se vnější projev pohybu, ne vnitřní odezva organismu. U většiny těchto testů byla prokázána korelace s aerobním výkonem zjištěným laboratorně.\n\nPro testování obecné vytrvalosti musí být splněny tři podmínky: zapojení velkých svalových skupin, dostatečná intenzita a dostatečná délka činnosti (kolem 10 minut, kdy dominují aerobní procesy).",
+    "keyPoints": [
+      "Laboratoř: standardizované zátěžové testy, menší funkční změny = vyšší vytrvalost",
+      "Terén: dlouhodobé cyklické zatížení, hodnotí se vnější projev pohybu",
+      "Terénní testy korelují s laboratorním aerobním výkonem",
+      "Podmínky: velké svalové skupiny, dostatečná intenzita, délka kolem 10 min"
+    ]
+  },
+  {
+    "id": "vytrvalostni-schopnosti-q07",
+    "question": "Popište dva motorické testy obecné vytrvalosti a způsob jejich vyhodnocení.",
+    "modelAnswer": "Motorické testy obecné vytrvalosti se hodnotí podle času, uběhnuté vzdálenosti nebo času do přerušení pro únavu.\n\n**Cooperův test** spočívá v běhu bez přerušení na atletické dráze po dobu 12 minut. Po zvukovém signálu se testovaná osoba (TO) zastaví a vrátí na místo, kde byl při výstřelu. Zaznamenává se vzdálenost s přesností na 10 m; test má vysokou stabilitu (r_stab = 0,92).\n\n**Légerův test** je stupňovaný člunkový běh mezi čarami vzdálenými 20 m. Rytmus je dán časovými signály z magnetofonového pásku. Počáteční rychlost je 8,5 km/h a zvyšuje se o 0,5 km/h; interval se zkracuje každou minutu, dokud testovaná osoba (TO) nestihne signál dvakrát. Hodnotí se počet dokončených fází.",
+    "keyPoints": [
+      "Cooperův test: běh 12 minut na dráze, vzdálenost zaznamenána s přesností na 10 m",
+      "Cooperův test: r_stab = 0,92",
+      "Légerův test: stupňovaný člunkový běh na 20 m",
+      "Légerův test: počáteční rychlost 8,5 km/h, zvyšuje se o 0,5 km/h; interval se zkracuje každou minutu",
+      "Légerův test: hodnotí se počet dokončených fází"
+    ]
+  },
+  {
+    "id": "vytrvalostni-schopnosti-q08",
+    "question": "Popište zátěžové testy používané k diagnostice vytrvalosti a vysvětlete, na jakých dvou předpokladech jsou založeny.",
+    "modelAnswer": "Zátěžové testy vycházejí ze dvou předpokladů.\n\nPrvní předpoklad říká, že čím je testovaná osoba (TO) vytrvalejší, tím menší funkční změny vyvolá stejné pohybové zatížení a tím rychleji se tyto funkce vracejí do normálu. Využívají se **submaximální zátěže**, např. 1,5 W/kg. Příkladem testů reakce organismu na zátěž jsou **Harvardský step-test** a **test W170**.\n\nDruhý předpoklad říká, že čím je TO vytrvalejší, tím vyšší jsou stropy fyziologických funkcí zajišťujících aerobní metabolismus. Využívají se **maximální zátěže**, např. při přímém měření **VO₂max**, kdy se zátěž zvyšuje každou minutu a maxima musí být dosaženo do 5 minut.",
+    "keyPoints": [
+      "První předpoklad: menší funkční změny a rychlejší návrat k normálu",
+      "Submaximální zátěže, např. 1,5 W/kg",
+      "Druhý předpoklad: vyšší stropy funkcí aerobního metabolismu",
+      "Maximální zátěže, např. přímé měření VO₂max"
+    ]
+  }
+]
