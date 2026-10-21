@@ -88,5 +88,20 @@
     "id": "regenerace-c18",
     "front": "Při jaké ztrátě tekutin v procentech hmotnosti výkon klesá?",
     "back": "- Ztráta nad 2 % hmotnosti snižuje výkon, zejména vytrvalostní schopnosti u netrénovaných\n- Ztráta nad 4 % vždy snižuje výkon; doplnění trvá asi 8 hodin"
+  },
+  {
+    "id": "regenerace-c19",
+    "front": "Jaké možnosti terapeutického ovlivnění rozsahu pohybu uvádějí podklady?",
+    "back": "- Strečink (balistický/dynamický, statický)\n- PFI (postfacilitační inhibice)\n- PIR (postizometrická relaxace)\n- AGR (antigravitační relaxace; odpor terapeuta nahrazen gravitací)\n- Spray and stretch"
+  },
+  {
+    "id": "regenerace-c20",
+    "front": "Jaké jsou principy autogenního tréninku, Schulzovy metody a Jacobsonovy relaxace?",
+    "back": "- Schulzova metoda: zklidňující účinek, relaxace svalů, cvičení v klidu se zavřenýma očima\n- Autogenní trénink: 2 min nahradí 60 min spánku\n- Jacobsonova svalová relaxace: autorecepce svalového tonusu a systematická relaxace svalů; nácvik trvá déle"
+  },
+  {
+    "id": "regenerace-c21",
+    "front": "Jaké skupiny farmakologických prostředků regenerace uvádějí podklady?",
+    "back": "- Energetický metabolismus\n- Mikrovýživové látky\n- Ochranné buněčné látky\n- Antioxidanty\n- Antikatabolické látky\n- Imunostimulátory\n- Rostlinná psychofarmaka"
   }
 ]

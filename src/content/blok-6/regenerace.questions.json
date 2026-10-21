@@ -2,7 +2,7 @@
   {
     "id": "regenerace-q01",
     "question": "Vysvětlete pojem regenerace a její místo v cyklu práce, únavy a zotavení.",
-    "modelAnswer": "**Regenerace** je veškerá činnost, která vede k plnému a rychlému zotavení tělesných i duševních procesů. Jejich klidová rovnováha byla předchozí činností narušena a posunuta do určitého stupně **únavy**.\n\nRegenerace je součástí cyklu: práce vyvolá únavu, po níž následuje zotavování a teprve pak nová práce a sportovní výkon. Únava je fyziologický obranný mechanismus a reverzibilní stav, při němž tkáně reagují slaběji na podněty stejné intenzity.\n\nRegenerace se dělí na **pasivní** (návrat rovnováhy k výchozím hodnotám, případně superkompenzace) a **aktivní** (plánovité zásahy, které pasivní regeneraci urychlují). Jejím cílem je zkrátit dobu zotavení a připravit organismus na další zatížení.",
+    "modelAnswer": "**Regenerace** je veškerá činnost, která vede k plnému a rychlému zotavení tělesných i duševních procesů, jejichž klidová rovnováha byla narušena předchozí činností a posunuta do určitého stupně **únavy**.\n\nRegenerace je součástí cyklu: práce vyvolá únavu, po níž následuje zotavování a teprve pak nová práce a sportovní výkon. Únava je fyziologický obranný mechanismus a reverzibilní stav, při němž tkáně reagují slaběji na podněty stejné intenzity.\n\nRegenerace se dělí na **pasivní** (návrat rovnováhy k výchozím hodnotám, případně superkompenzace) a **aktivní** (plánovité zásahy, které pasivní regeneraci urychlují). Aktivní regenerace tedy slouží k urychlení pasivní regenerace.",
     "keyPoints": [
       "regenerace je činnost vedoucí k zotavení tělesných i duševních procesů",
       "únava je fyziologický obranný mechanismus a reverzibilní stav",
@@ -25,7 +25,7 @@
   {
     "id": "regenerace-q03",
     "question": "Jak se liší patologická akutní a chronická únava a co znamená přetrénování?",
-    "modelAnswer": "**Patologická únava** vzniká, když únava překročí fyziologickou mez.\n\nU **akutní** patologické únavy rozlišujeme dva stupně. Lehčí stupeň je **přetížení**: prohlubují se příznaky fyziologické únavy, objevují se křeče, nauzea, bledost, rychlý a mělký tep a dech, pocení a proteinurie. Těžký stupeň je **schvácení**, které může vést až ke smrti.\n\n**Chronická** únava je vždy patologická. Lehčí stupeň se projevuje poklesem výkonu, úbytkem hmotnosti, sníženou obranyschopností, poruchami trávení a spánku, nechutenstvím a podrážděností nebo apatií.\n\nTěžší stupeň chronické únavy se nazývá **přetrénování**. Vzniká dlouhodobým nerespektováním regeneračních procesů. Vede k trvalému poklesu výkonnosti a k ireverzibilním změnám pohybového aparátu a atrofii svalových vláken.",
+    "modelAnswer": "**Patologická únava** se dělí na **akutní** a **chronickou**.\n\nU **akutní** patologické únavy rozlišujeme dva stupně. Lehčí stupeň je **přetížení**: prohlubují se příznaky fyziologické únavy, objevují se křeče, nauzea, bledost, rychlý a mělký tep a dech, pocení a proteinurie. Těžký stupeň je **schvácení**, které může vést až ke smrti.\n\n**Chronická** únava je vždy patologická. Lehčí stupeň se projevuje poklesem výkonu, úbytkem hmotnosti, sníženou obranyschopností, poruchami trávení a spánku, nechutenstvím a podrážděností nebo apatií.\n\nTěžší stupeň chronické únavy se nazývá **přetrénování**. Vzniká dlouhodobým nerespektováním regeneračních procesů. Vede k trvalému poklesu výkonnosti a k ireverzibilním změnám pohybového aparátu a atrofii svalových vláken.",
     "keyPoints": [
       "přetížení jako lehčí stupeň akutní patologické únavy",
       "schvácení jako těžký stupeň akutní únavy s možností smrti",
@@ -61,7 +61,7 @@
   {
     "id": "regenerace-q06",
     "question": "Jaké prostředky regenerace existují a jak působí psychologické prostředky?",
-    "modelAnswer": "Prostředky regenerace dělíme do čtyř skupin: **pedagogické**, **psychologické**, **biologické** a **farmakologické**.\n\nPedagogické prostředky zahrnují metodiku tréninku, individualizaci, variabilitu zatížení, tréninkový plán a výchovu sportovce k dennímu režimu. Psychologické prostředky jsou s pedagogickými propojeny a hlavní roli v nich má trenér.\n\nMezi psychologické prostředky patří řízení emočního napětí, hospodaření s časem, udržování duševní rovnováhy, redukce vnitřních konfliktů, péče o kolektiv a zvládání deprese. Patří sem také autogenní trénink, sugesce a hudba. Biologické prostředky tvoří výživa, pitný režim, regenerace pohybem a fyzikální prostředky.",
+    "modelAnswer": "Prostředky regenerace dělíme do čtyř skupin: **pedagogické**, **psychologické**, **biologické** a **farmakologické**.\n\nPedagogické prostředky zahrnují metodiku tréninku, individualizaci, variabilitu zatížení, tréninkový plán a výchovu sportovce k dennímu režimu. Psychologické prostředky jsou s pedagogickými propojeny a hlavní roli v nich má trenér. Podklady je uvádějí jako výčet a jejich mechanismus blíže nerozvádějí.\n\nMezi psychologické prostředky patří řízení emočního napětí, hospodaření s časem, udržování duševní rovnováhy, redukce vnitřních konfliktů, péče o kolektiv a zvládání deprese. Patří sem také autogenní trénink, sugesce a hudba. Biologické prostředky tvoří výživa, pitný režim, regenerace pohybem a fyzikální prostředky.",
     "keyPoints": [
       "čtyři skupiny prostředků regenerace",
       "pedagogické prostředky, například individualizace a tréninkový plán",
@@ -72,7 +72,7 @@
   {
     "id": "regenerace-q07",
     "question": "Vysvětlete význam výživy a energetické bilance pro regeneraci sportovce.",
-    "modelAnswer": "Základní složkou regenerace je **obnova energetických zdrojů**. Neexistuje žádná dieta, která by specificky vedla ke zvýšení výkonu. Výživa je součástí tréninkového procesu a nesprávná výživa prodlužuje dobu zotavení.\n\nSacharidy jsou nejobjemnější složkou potravy. Jsou uloženy jako glykogen v játrech a ve svalech, celková zásoba je cca 350 g a úplná obnova trvá až 24 hodin. Tuky jsou hlavním zdrojem energie při dlouhodobých výkonech a je třeba zajistit esenciální tuky. Bílkoviny mají u vytrvalostních sportů 1,2 až 1,4 g/kg, u silových sportů 1,4 až 1,8 g/kg.\n\nOrganismus je v **dynamické rovnováze**. Denní bilance není nutná, důležité jsou několikadenní cykly. Převaha výdeje vede ke katabolismu a přetrénování, převaha příjmu k anabolismu.",
+    "modelAnswer": "Základní složkou regenerace je **obnova energetických zdrojů**. Neexistuje žádná dieta, která by specificky vedla ke zvýšení výkonu. Výživa je součástí tréninkového procesu a nesprávná výživa prodlužuje dobu zotavení.\n\nSacharidy jsou nejobjemnější složkou potravy. Jsou uloženy jako glykogen v játrech a ve svalech, celková zásoba je cca 350 g a úplná obnova trvá až 24 hodin. Tuky jsou hlavním zdrojem energie při dlouhodobých výkonech a je třeba zajistit esenciální tuky. Bílkoviny mají u vytrvalostních sportů 1,2 až 1,4 g/kg, u silových sportů 1,4 až 1,8 g/kg.\n\nOrganismus je v **dynamické rovnováze**. Denní bilance není nutná, důležité jsou několikadenní cykly. Převažuje-li výdej energie dlouhodobě o 10 %, dochází k poklesu tělesné hmotnosti a výkonu, prodloužení regenerace, přetížení a přetrénování, tedy ke katabolismu.",
     "keyPoints": [
       "obnova energetických zdrojů jako základ regenerace",
       "neexistuje dieta, která specificky zvyšuje výkon",
@@ -84,13 +84,25 @@
   {
     "id": "regenerace-q08",
     "question": "Jak souvisí pitný režim a hydratace s regenerací a výkonem?",
-    "modelAnswer": "**Hematokrit** je poměr mezi tekutou složkou krve a pevnými částicemi. Čím méně vody, tím vyšší hodnota. U mužů je 40 až 52 %, u žen 37 až 47 %. Chronický nedostatek tekutin snižuje produkci erytropoetinu, tlumí krvetvorbu a snižuje výkon.\n\nZtráta tekutin nad 2 % hmotnosti snižuje výkon, zejména vytrvalostní schopnosti netrénovaných. Ztráta nad 4 % vždy snižuje výkon a doplnění trvá asi 8 hodin. Během výkonu lze uhradit pouze 60 % ztrát.\n\nNápoj během výkonu má být **hypotonický**, mírně kyselý, **slaný** (1 g soli na 1 l) a bez dráždivých látek, jako je CO₂. Alkohol v časné fázi regenerace nepijeme. Kontrolu hydratace provádíme barvou moči a vážením před a po výkonu.",
+    "modelAnswer": "**Hematokrit** je poměr mezi tekutou složkou krve a pevnými částicemi. Čím méně vody, tím vyšší hodnota. U mužů je 40 až 52 %, u žen 37 až 47 %. Chronické přetížení a soustavný nedostatek tekutin snižují produkci erytropoetinu, tlumí krvetvorbu a snižuje výkon.\n\nZtráta tekutin nad 2 % hmotnosti snižuje výkon, zejména vytrvalostní schopnosti netrénovaných. Ztráta nad 4 % vždy snižuje výkon a doplnění trvá asi 8 hodin. Během výkonu lze uhradit pouze 60 % ztrát.\n\nNápoj během výkonu má být **hypotonický**, mírně kyselý, **slaný** (1 g soli na 1 l) a bez dráždivých látek, jako je CO₂. Alkohol v časné fázi regenerace nepijeme. Kontrolu hydratace provádíme barvou moči a vážením před a po výkonu.",
     "keyPoints": [
       "hematokrit jako poměr tekuté složky a pevných částic krve",
       "ztráta nad 2 % snižuje výkon, nad 4 % vždy",
       "během výkonu lze uhradit jen 60 % ztrát",
       "vlastnosti nápoje během výkonu",
       "kontrola hydratace barvou moči a vážením"
+    ]
+  },
+  {
+    "id": "regenerace-q09",
+    "question": "Jaké pohybové a farmakologické prostředky regenerace uvádějí podklady?",
+    "modelAnswer": "**Pohybové prostředky** slouží k terapeutickému ovlivnění rozsahu pohybu a svalového oslabení. Mezi kompenzační cvičení na rozsah pohybu patří **strečink** (balistický nebo dynamický, statický; krajním vyjádřením statického strečinku je redresní polohování), protažení s využitím svalové inhibice metodou **PFI**, **PIR** (postizometrická relaxace), **AGR** (antigravitační relaxace, kde je odpor terapeuta nahrazen gravitací) a **spray and stretch**. Proti svalovému oslabení se používá cvičení na posilovacích zařízeních, izometrická cvičení, progresivní odporová cvičení, cvičení s biologickou zpětnou vazbou a elektrostimulace během kontrakce.\n\n**Farmakologické prostředky** jsou látky podporující regeneraci organismu. Podklady je dělí na energetický metabolismus, mikrovýživové látky, ochranné buněčné látky, antioxidanty, antikatabolické látky, imunostimulátory a rostlinná psychofarmaka, například třezalku.",
+    "keyPoints": [
+      "strečink dělený na balistický/dynamický a statický",
+      "PFI, PIR, AGR a spray and stretch jako možnosti ovlivnění rozsahu pohybu",
+      "cvičení proti svalovému oslabení, například izometrie a odporová cvičení",
+      "farmakologické prostředky jsou látky podporující regeneraci",
+      "skupiny farmakologických prostředků, například antioxidanty a imunostimulátory"
     ]
   }
 ]

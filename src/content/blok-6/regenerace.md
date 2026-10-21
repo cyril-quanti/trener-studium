@@ -7,7 +7,7 @@ Cyklus: práce → únava → zotavování → práce (a opět sportovní výkon
 ### Únava
 
 - **Únava** je fyziologický obranný mechanismus a **reverzibilní stav**.
-- Je to komplex dějů, při kterém nastává snížená odpověď různých tkání buď na podněty stejné intenzity, nebo je k získání stejné odpovědi třeba vyšší intensity podnětu.
+- Je to komplex dějů, při kterém nastává snížená odpověď různých tkání buď na podněty stejné intenzity, nebo je k získání stejné odpovědi třeba vyšší intenzity podnětu.
 
 #### Druhy únavy podle vzniku
 
@@ -248,6 +248,7 @@ Prostředky jsou v podkladech pouze vyjmenovány (viz přednáška), jejich vý�
 **1. Sacharidy (cukry)**
 
 - Nejobjemnější část potravy, jednodušší metabolismus.
+- Polysacharidy se nevstřebávají.
 - Uloženy jako glykogen v játrech a ve svalech; glukóza v krvi.
 - Celková zásoba: cca **350 g**.
 - Resyntéza glykogenu se v období regenerace výrazně zpomaluje u stravy bohaté na tuky.
