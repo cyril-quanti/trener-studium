@@ -1,0 +1,94 @@
+[
+  {
+    "id": "pravo-trestni-q01",
+    "question": "Co je trestný čin a jaké zavinění je k trestní odpovědnosti třeba?",
+    "modelAnswer": "Trestným činem je protiprávní čin, který trestní zákon označuje za trestný a který vykazuje znaky uvedené v tomto zákoně (§ 13 odst. 1). Protiprávnost je tedy první podmínkou a musí být současně naplněna skutková podstata stanovená zákonem.\n\nK trestní odpovědnosti je třeba úmyslného zavinění. Výjimkou je případ, kdy trestní zákon výslovně stanoví, že postačí zavinění z nedbalosti (§ 13 odst. 2). Zavinění je tedy hlavním kritériem, podle kterého se posuzuje odpovědnost pachatele za jeho čin.",
+    "keyPoints": [
+      "trestný čin je protiprávní čin označený zákonem za trestný",
+      "musí vykazovat znaky uvedené v trestním zákoně",
+      "k odpovědnosti je třeba úmyslného zavinění",
+      "výjimku tvoří případy, kdy zákon výslovně připouští nedbalost"
+    ]
+  },
+  {
+    "id": "pravo-trestni-q02",
+    "question": "Jak se dělí trestné činy na přečiny a zločiny?",
+    "modelAnswer": "Trestné činy se dělí na přečiny a zločiny (§ 14 odst. 1). Přečiny jsou všechny nedbalostní trestné činy a ty úmyslné, na něž zákon stanoví trest odnětí svobody s horní hranicí trestní sazby do pěti let (§ 14 odst. 2).\n\nZločiny jsou všechny trestné činy, které nejsou přečiny (§ 14 odst. 3). Zvlášť závažné zločiny jsou úmyslné trestné činy, na něž zákon stanoví trest odnětí svobody s horní hranicí trestní sazby nejméně deset let. Rozlišení je důležité, protože určuje závažnost trestného činu a s ní spojené důsledky.",
+    "keyPoints": [
+      "dělení na přečiny a zločiny (§ 14 odst. 1)",
+      "přečiny: všechny nedbalostní a úmyslné s horní sazbou do pěti let",
+      "zločiny: všechny ostatní trestné činy",
+      "zvlášť závažné zločiny: úmyslné s horní sazbou nejméně deset let"
+    ]
+  },
+  {
+    "id": "pravo-trestni-q03",
+    "question": "Jak trestní zákoník vymezuje úmysl a nedbalost?",
+    "modelAnswer": "Trestný čin je spáchán úmyslně, jestliže pachatel chtěl porušit nebo ohrozit chráněný zájem, nebo věděl, že jeho jednání může takové porušení nebo ohrožení způsobit, a pro případ, že je způsobí, byl s tím srozuměn (§ 15 odst. 1). Srozuměním se rozumí i smíření pachatele s takovým následkem (§ 15 odst. 2).\n\nTrestný čin je spáchán z nedbalosti, jestliže pachatel věděl, že může chráněný zájem porušit, ale bez přiměřených důvodů spoléhal, že to nezpůsobí. Nebo nevěděl o možnosti porušení, ač o ní vzhledem k okolnostem a svým osobním poměrům měl a mohl vědět (§ 16 odst. 1). Hrubá nedbalost nastává, je-li přístup pachatele k požadavku náležité opatrnosti projevem zřejmé bezohlednosti (§ 16 odst. 2).",
+    "keyPoints": [
+      "úmysl: pachatel chtěl porušení, nebo věděl a byl srozuměn (§ 15)",
+      "srozumění zahrnuje i smíření s následkem",
+      "vědomá nedbalost: spoléhání bez přiměřených důvodů",
+      "nevědomá nedbalost: měl a mohl vědět (§ 16 odst. 1)",
+      "hrubá nedbalost: zřejmá bezohlednost k chráněným zájmům (§ 16 odst. 2)"
+    ]
+  },
+  {
+    "id": "pravo-trestni-q04",
+    "question": "Od kterého věku je pachatel trestně odpovědný a jaký vliv má duševní porucha na trestní odpovědnost?",
+    "modelAnswer": "Kdo v době spáchání činu nedovršil čtrnáctý rok věku, není trestně odpovědný (§ 25). Věk je tedy objektivní hranicí, pod kterou trestní odpovědnost neexistuje.\n\nKdo pro duševní poruchu v době činu nemohl rozpoznat jeho protiprávnost nebo ovládat své jednání, není trestně odpovědný (§ 26). Pokud pro duševní poruchu měl podstatně sníženou schopnost rozpoznat protiprávnost nebo ovládat jednání, je zmenšeně příčetný (§ 27). Rozhodující je tedy stav v době spáchání činu.",
+    "keyPoints": [
+      "věková hranice: nedovršených 14 let (§ 25)",
+      "nepříčetnost pro duševní poruchu (§ 26)",
+      "rozpoznání protiprávnosti nebo ovládání jednání",
+      "zmenšená příčetnost při podstatně snížené schopnosti (§ 27)",
+      "rozhodující je stav v době spáchání činu"
+    ]
+  },
+  {
+    "id": "pravo-trestni-q05",
+    "question": "Vysvětlete krajní nouzi a nutnou obranu jako okolnosti vylučující protiprávnost.",
+    "modelAnswer": "Krajní nouze (§ 28) je situace, kdy někdo činem jinak trestným odvrací nebezpečí přímo hrozící zájmu chráněnému trestním zákonem. Takový čin není trestným činem. Nejde však o krajní nouzi, bylo-li možno nebezpečí odvrátit jinak, nebo je-li způsobený následek zřejmě stejně závažný nebo závažnější, případně byl-li ohrožený povinen nebezpečí snášet.\n\nNutná obrana (§ 29) je obdobná, ale odpovídá na přímo hrozící nebo trvající útok na chráněný zájem. Čin, kterým se útok odvrací, není trestným činem. Nejde však o nutnou obranu, byla-li obrana zcela zjevně nepřiměřená způsobu útoku.",
+    "keyPoints": [
+      "krajní nouze: odvrácení nebezpečí přímo hrozícího chráněnému zájmu (§ 28 odst. 1)",
+      "krajní nouze nenastává, lze-li nebezpečí odvrátit jinak nebo je následek stejně či více závažný",
+      "nutná obrana: odvrácení přímo hrozícího nebo trvajícího útoku (§ 29 odst. 1)",
+      "nutná obrana nenastává, je-li obrana zcela zjevně nepřiměřená"
+    ]
+  },
+  {
+    "id": "pravo-trestni-q06",
+    "question": "Kdy může svolení poškozeného vyloučit trestnost činu a jaké jsou jeho limity?",
+    "modelAnswer": "Trestný čin nespáchá, kdo jedná na základě svolení osoby, která může o dotčených zájmech bez omezení oprávněně rozhodovat (§ 30 odst. 1). Svolení musí být dáno předem nebo současně s jednáním, dobrovolně, určitě, vážně a srozumitelně. Je-li dáno až po činu, je pachatel beztrestný, mohl-li důvodně předpokládat, že by poškozený souhlas udělil (§ 30 odst. 2).\n\nLimitem je, že za svolení se nepovažuje souhlas k ublížení na zdraví nebo usmrcení (§ 30 odst. 3). Výjimku tvoří lékařské zákroky, které jsou v souladu s právním řádem a poznatky lékařské vědy a praxe.",
+    "keyPoints": [
+      "svolení osoby oprávněné rozhodovat o dotčeném zájmu (§ 30 odst. 1)",
+      "svolení dané předem nebo současně, dobrovolně, určitě, vážně a srozumitelně",
+      "svolení dané až po činu (§ 30 odst. 2)",
+      "souhlas k ublížení na zdraví nebo usmrcení se nepovažuje za svolení",
+      "výjimka: lékařské zákroky v souladu s právním řádem a lékařskou vědou"
+    ]
+  },
+  {
+    "id": "pravo-trestni-q07",
+    "question": "Co je přípustné riziko a kdy se jeho uplatnění vylučuje?",
+    "modelAnswer": "Trestný čin nespáchá, kdo v souladu s dosaženým stavem poznání a s informacemi, které měl při rozhodování, vykonává v rámci svého zaměstnání, povolání, postavení nebo funkce společensky prospěšnou činnost, která ohrozí nebo poruší chráněný zájem. Podmínkou je, že společensky prospěšného výsledku nelze dosáhnout jinak (§ 31 odst. 1).\n\nNejde však o přípustné riziko, jestliže činnost ohrozí život nebo zdraví člověka bez jeho souhlasu daného podle jiného předpisu. Stejně tak tomu je, zcela zřejmě neodpovídá-li výsledek míře rizika, nebo zřejmě odporuje-li činnost požadavkům jiného předpisu, veřejnému zájmu, zásadám lidskosti nebo dobrým mravům (§ 31 odst. 2).",
+    "keyPoints": [
+      "společensky prospěšná činnost v rámci zaměstnání, povolání nebo funkce",
+      "jednání v souladu s dosaženým stavem poznání",
+      "společensky prospěšného výsledku nelze dosáhnout jinak",
+      "vylučuje se ohrožení života nebo zdraví bez souhlasu",
+      "vylučuje se zjevný nepoměr rizika, odpor k předpisům, veřejnému zájmu nebo dobrým mravům"
+    ]
+  },
+  {
+    "id": "pravo-trestni-q08",
+    "question": "Jak trestní zákoník upravuje oprávněné použití zbraně?",
+    "modelAnswer": "Podle § 32 trestního zákoníku trestný čin nespáchá, kdo použije zbraně v mezích stanovených jiným právním předpisem. Oprávněné použití zbraně je tedy okolností vylučující protiprávnost.\n\nTrestní zákoník sám meze použití zbraně nevymezuje, odkazuje na jiný právní předpis. Podmínkou beztrestnosti je proto dodržení těchto mezí. Samotné použití zbraně bez ohledu na tyto meze v trestním zákoníku upraveno není, a proto o něm tento výklad nic neříká.",
+    "keyPoints": [
+      "oprávněné použití zbraně vylučuje trestnost (§ 32)",
+      "podmínkou je použití v mezích stanovených jiným právním předpisem",
+      "meze nejsou určeny v trestním zákoníku, ale v jiném předpise",
+      "trestní zákoník sám meze blíže nevymezuje"
+    ]
+  }
+]
