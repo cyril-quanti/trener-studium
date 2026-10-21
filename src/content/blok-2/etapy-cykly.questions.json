@@ -1,0 +1,97 @@
+[
+  {
+    "id": "etapy-cykly-q01",
+    "question": "Popište etapy dlouhodobého sportovního tréninku.",
+    "modelAnswer": "Dlouhodobý sportovní trénink prochází čtyřmi etapami:\n\n1. **Etapa seznámení se sportem** – první kontakt sportovce s daným sportem a získání základních pohybových zkušeností.\n2. **Etapa základního tréninku** – rozvoj všestranných pohybových schopností a osvojování základních dovedností.\n3. **Etapa specializovaného tréninku** – zaměření na konkrétní sportovní disciplínu a na její specifické nároky.\n4. **Etapa vrcholového tréninku** – maximální zatížení a příprava na nejvyšší sportovní výkony.\n\nDlouhodobý trénink tedy vede od prvního seznámení se sportem až k vrcholové úrovni. Jednotlivé etapy se liší obsahem, objemem i intenzitou tréninku, který je přizpůsoben věku a výkonnosti sportovce.",
+    "keyPoints": [
+      "Čtyři etapy: seznámení se sportem, základní trénink, specializovaný trénink, vrcholový trénink",
+      "Etapa seznámení se sportem je první etapou dlouhodobého tréninku",
+      "Etapa základního tréninku následuje po seznámení se sportem",
+      "Dlouhodobý trénink vede od seznámení se sportem až k vrcholové úrovni"
+    ]
+  },
+  {
+    "id": "etapy-cykly-q02",
+    "question": "Porovnejte raný specializovaný trénink a trénink odpovídající vývoji.",
+    "modelAnswer": "V dlouhodobé koncepci tréninku existují dvě odlišné cesty.\n\n**Raná specializace** si klade za cíl dosáhnout vysokého výkonu co nejdříve. Obsah tréninku je úzce zaměřen na specializaci, což vede k jednostrannosti. Zatížení jde až na hranici únosnosti, i když jsou sportovci ještě nevyzrálí. Psychicky se trénink blíží práci dospělých, je tvrdý a klade velký tlak na výkon.\n\n**Trénink odpovídající vývoji** počítá s výkonností přiměřenou věku. Nejvyšší výkon je perspektivním cílem a dětství a mládí jsou přípravnou etapou. Obsah tréninku zahrnuje odpovídající podíl všestrannosti. Nároky na sportovce se stupňují postupně a s ohledem na individuální vývoj. Trénink přináší radost, hravost a přiměřené ocenění a omezuje tlak na výkon.\n\nPodstatný rozdíl je v tom, zda je cílem rychlý úspěch, nebo dlouhodobý rozvoj.",
+    "keyPoints": [
+      "Raná specializace směřuje k rychlému dosažení vysokého výkonu",
+      "Raná specializace vede k jednostrannosti a zatížení jde až na hranici únosnosti",
+      "Trénink odpovídající vývoji počítá s přiměřeným podílem všestrannosti",
+      "Trénink odpovídající vývoji stupňuje nároky postupně s ohledem na vývoj",
+      "Trénink odpovídající vývoji omezuje tlak na výkon a přináší radost"
+    ]
+  },
+  {
+    "id": "etapy-cykly-q03",
+    "question": "Vysvětlete strukturu ročního tréninkového cyklu.",
+    "modelAnswer": "Roční tréninkový cyklus trvá jeden rok a dělí se na čtyři období.\n\nPrvním je **přípravné období**, které má dvě etapy. V první etapě převládá **objem**, tedy obecná příprava. Ve druhé etapě převládá **intenzita**, tedy speciální příprava. Přípravné období tvoří základ pro celou sezónu.\n\nDruhým obdobím je **předzávodní období**, které slouží k ladění sportovní formy před soutěžemi.\n\nTřetím obdobím je **hlavní období**, ve kterém sportovec dosahuje vrcholu své formy a soutěží.\n\nČtvrtým obdobím je **přechodné období**, které slouží k odpočinku a regeneraci po hlavní části sezóny.\n\nRoční cyklus je nejdelším cyklem tréninkového procesu a ostatní cykly jsou jeho částmi.",
+    "keyPoints": [
+      "Roční cyklus má čtyři období: přípravné, předzávodní, hlavní a přechodné",
+      "Přípravné období má dvě etapy: objem (obecná příprava) a intenzita (speciální příprava)",
+      "Předzávodní období slouží k ladění sportovní formy",
+      "Hlavní období je třetím obdobím ročního cyklu",
+      "Přechodné období je čtvrtým obdobím ročního cyklu"
+    ]
+  },
+  {
+    "id": "etapy-cykly-q04",
+    "question": "Jaké jsou délky jednotlivých tréninkových cyklů a jak spolu souvisejí?",
+    "modelAnswer": "Tréninkový proces je členěn do několika cyklů různé délky, které spolu tvoří hierarchický celek.\n\nNejdelší je **roční tréninkový cyklus**, který trvá jeden rok. Jeho součástí jsou makrocykly.\n\n**Makrocyklus** trvá 1 až 3 (6) měsíců. Jeho součástí jsou mezocykly.\n\n**Mezocyklus** trvá 2 až 4 týdny.\n\nNejkratším cyklem je **mikrocyklus**, který trvá 2 až 10 dnů, obvykle jeden týden.\n\nSamostatným základním prvkem tréninkového procesu je **tréninková jednotka**. Ta je součástí mikrocyklu. Délky cyklů se tedy od ročního cyklu po mikrocyklus postupně zkracují.",
+    "keyPoints": [
+      "Roční tréninkový cyklus trvá jeden rok",
+      "Makrocyklus trvá 1–3 (6) měsíců",
+      "Mezocyklus trvá 2–4 týdny",
+      "Mikrocyklus trvá 2–10 dnů, obvykle 1 týden",
+      "Tréninková jednotka je základním prvkem tréninkového procesu"
+    ]
+  },
+  {
+    "id": "etapy-cykly-q05",
+    "question": "Jaké typy mikrocyklů se používají a k čemu slouží?",
+    "modelAnswer": "Mikrocyklus je nejkratší cyklus tréninkového procesu. Trvá 2–10 dnů, obvykle jeden týden. Mikrocykly se rozlišují podle svého zaměření na těchto sedm typů:\n\n- **všeobecně rozvíjející** – rozvoj všeobecných pohybových schopností\n- **speciálně rozvíjející** – rozvoj schopností potřebných pro konkrétní sport\n- **vylaďovací** – jemné doladění sportovní formy\n- **stabilizační** – upevnění dosažené úrovně\n- **soutěžní** – příprava na soutěže a účast na nich\n- **regenerační** – odpočinek a obnova organismu po zatížení\n- **kontrolní** – ověření aktuální úrovně sportovce\n\nMikrocyklus je kratší než mezocyklus, který trvá 2–4 týdny, a delší než jednotlivá tréninková jednotka. Typ mikrocyklu se volí podle toho, v jaké fázi přípravy se sportovec nachází.",
+    "keyPoints": [
+      "Mikrocyklus trvá obvykle jeden týden",
+      "Existuje sedm typů mikrocyklů",
+      "Typy mikrocyklů jsou všeobecně rozvíjející a speciálně rozvíjející",
+      "Mezi typy patří regenerační mikrocyklus",
+      "Mezi typy patří soutěžní a kontrolní mikrocyklus"
+    ]
+  },
+  {
+    "id": "etapy-cykly-q06",
+    "question": "Z jakých částí se skládá tréninková jednotka dětí?",
+    "modelAnswer": "Tréninková jednotka pro děti trvá 45 až 50 minut. Skládá se ze tří částí.\n\n**Úvodní část** má psychologickou stránku, zahrnuje přípravu organismu a průpravu na hlavní část. Připravuje děti na zatížení a navozuje pozitivní naladění.\n\n**Hlavní část** obsahuje cvičení na rozvoj koordinace, rychlosti, síly a vytrvalosti. Je to nejdůležitější část jednotky.\n\n**Závěrečná část** obsahuje cvičení dynamická a statická, která pomáhají organismu zklidnit se po zatížení.\n\nSociálně interakční formy tréninkové jednotky jsou hromadná, skupinová a individuální. Využívají se podle cíle cvičení a počtu dětí v tréninku.",
+    "keyPoints": [
+      "Tréninková jednotka dětí trvá 45–50 minut",
+      "Úvodní část zahrnuje psychologickou přípravu, přípravu organismu a průpravu",
+      "Hlavní část rozvíjí koordinaci, rychlost, sílu a vytrvalost",
+      "Závěrečná část obsahuje cvičení dynamická a statická",
+      "Sociálně interakční formy jsou hromadná, skupinová a individuální"
+    ]
+  },
+  {
+    "id": "etapy-cykly-q07",
+    "question": "Jaký je poměr speciálních pohybových cvičení a herních dovednostních činností v tréninku dětí?",
+    "modelAnswer": "Ve sportovní přípravě dětí má zásadní význam vyvážený poměr mezi cvičením a hrou. Poměr je **70 : 30**, kde 70 % tvoří **speciální pohybová cvičení** a 30 % tvoří **herní dovednostní činnosti**.\n\nPoměr vychází ze zásady všestrannosti, která klade důraz na rozvoj všeobecných pohybových schopností.\n\nHerní činnosti podporují motivaci, protože pro děti je důležitá hravost a soupeřivost. Děti potřebují prožívat radost z toho, co dělají, a není podstatné, kdo a kolikrát zvítězil. Mezi obecnými zásadami sportovní přípravy dětí patří také herní princip v tréninku.",
+    "keyPoints": [
+      "Poměr speciálních pohybových cvičení a herních činností je 70 : 30",
+      "70 % tvoří speciální pohybová cvičení",
+      "30 % tvoří herní dovednostní činnosti",
+      "Herní činnosti podporují motivaci a hravost",
+      "Poměr vychází ze zásady všestrannosti"
+    ]
+  },
+  {
+    "id": "etapy-cykly-q08",
+    "question": "Co je zlatý věk motoriky a jaký význam má pro sportovní přípravu?",
+    "modelAnswer": "Zlatý věk motoriky je přibližně **8 až 10 let**. Označuje období, ve kterém se děti nejsnadněji učí pohybové dovednosti. Stačí perfektní ukázka a učení probíhá v podstatě samo.\n\nV tomto věku je trenér přirozenou autoritou, a proto jsou důležité příklad, optimismus, projevený zájem a elán. Období 8–10 let je senzitivním obdobím pro rozvoj pohybových schopností a učení je snadné i ve věku 10–12 let, tedy do nástupu puberty.\n\nObecný věkový rozsah dětí je 6 až 15 let. Údaj o zlatém věku je proto třeba číst v tomto širším rámci.",
+    "keyPoints": [
+      "Zlatý věk motoriky je období, kdy se děti nejsnadněji učí pohybové dovednosti",
+      "Zlatý věk motoriky trvá přibližně 8–10 let",
+      "Stačí perfektní ukázka a učení probíhá v podstatě samo",
+      "V tomto věku je trenér přirozenou autoritou",
+      "Obecný věkový rozsah dětí je 6–15 let"
+    ]
+  }
+]
