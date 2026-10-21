@@ -175,6 +175,8 @@ Kvalitu určují: počet dovedností, koordinační aspekt, herní princip, při
 
 **Herní princip** – veškerá činnost, nebo alespoň většina, formou hry; trénink bez psychického tlaku, s možností rozhodování dětí o činnosti či intenzitě. Hlavní aspekty: **prožitek – FLOW** a **implicitní učení**.
 
+**Typy her** (ze schématu v materiálu; vztahy mezi kategoriemi nejsou z textu jednoznačné): nácvičné, zábavné, stimulační, aplikační, soutěžní, spolupráce, komunikační, řešení problémů, kooperační, soutěžní role.
+
 **Zásady pro hry:**
 
 - prožitek
