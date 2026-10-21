@@ -56,6 +56,8 @@ Z biologického hlediska jde při vytrvalostním výkonu o **plynulé dodáván�
 | **2) Anaerobní glykolýza (LA systém)** | tvorba ATP a **laktátu** |
 | **3) Aerobní glykolýza (O₂ systém)** | tvorba ATP, **CO₂** a **H₂O** |
 
+> **Pozor:** Graf energetických systémů v podkladu je jen částečně čitelný (OCR). Čitelné jsou osy času 20 s, 90 s, 35 min, 90 min a názvy ATP–CP, LA, O₂ a tuky. Přiřazení jednotlivých křivek k časům v podkladu není jednoznačné, proto zde není rekonstruováno.
+
 ## Energetické zásoby
 
 | Zdroj | Umístění | Energie |
@@ -63,7 +65,7 @@ Z biologického hlediska jde při vytrvalostním výkonu o **plynulé dodáván�
 | **ATP** (fosfagen) | přímo ve svalových buňkách | 20–30 kJ |
 | **Glykogen** | svalstvo, játra | 6 000–7 500 kJ |
 | **Tuky** | podkoží | 200 000 kJ (200 MJ) |
-| **Bílkoviny** | – | v podkladu neuvedeno |
+| **Bílkoviny** | – | v podkladu označeno jako problém (bez hodnoty) |
 
 > **Zapamatuj si:** Zásoba ATP je velmi malá (20–30 kJ), zásoba tuků je řádově největší.
 
@@ -100,10 +102,10 @@ Výkonové testy lze hodnotit podle času, uběhnuté vzdálenosti nebo času do
 
 | Název testu | Zaměření | Popis | Poznámka |
 |---|---|---|---|
-| **Cooperův test** – běh po dobu 12 minut | obecná vytrvalost | TO běží bez přerušení na atletické dráze 12 minut. Po zvukovém signálu ukončujícím test se zastaví a vrátí na místo, kde byl v době výstřelu. | zaznamenáváme s přesností na 10 m; r_stab = 0,92 |
+| **Cooperův test** – běh po dobu 12 minut | obecná vytrvalost | testovaná osoba (TO) běží bez přerušení na atletické dráze 12 minut. Po zvukovém signálu ukončujícím test se zastaví a vrátí na místo, kde byl v době výstřelu. | zaznamenáváme s přesností na 10 m; r_stab = 0,92 |
 | **Běh po dobu 6, 9, 20 minut** | obecná vytrvalost | stejný princip jako běh po dobu 12 minut | zaznamenáváme s přesností na 10 m |
 | **Distanční běh** na 600, 800, 1000, 1500 nebo 2000 m | obecná vytrvalost | test se provádí na upravené běžecké trati, dráha změřená 15 cm od vnitřního okraje | zaznamenáváme s přesností na 1 s |
-| **Stupňovaný člunkový běh na 20 m – Légerův test** | obecná vytrvalost | běh mezi čarami vzdálenými 20 m, rytmus dán časovými signály na magnetofonové pásce; po každé minutě se interval zkracuje, dokud TO nestihne signál dvakrát | hodnotí se počet fází; počáteční rychlost 8,5 km/h, zvyšuje se po 0,5 km/h |
+| **Stupňovaný člunkový běh na 20 m – Légerův test** | obecná vytrvalost | běh mezi čarami vzdálenými 20 m, rytmus dán časovými signály na magnetofonové pásce; po každé minutě se interval zkracuje, dokud TO nestihne signál dvakrát | hodnotí se počet fází; počáteční rychlost 8,5 km/h, zvyšuje se o 0,5 km/h; interval se zkracuje každou minutu |
 | **Celostní motorický test – Jacíkův test** | obecná vytrvalost, obratnost, koordinace | vztyky z lehu po dobu 2 minut; jeden z mála testů, kde se neběhá | hodnotí se počet provedených cviků podle norem |
 
 ### Zátěžové testy
@@ -115,7 +117,7 @@ Vycházejí ze dvou předpokladů:
 
 | Název testu | Zaměření | Popis | Poznámka |
 |---|---|---|---|
-| **Harvardský step-test** | reakce organismu na zátěž | TO střídavě vystupuje na bednu (výška 50, 45 a 30 cm) stálou frekvencí 30 výstupů za minutu, celkem 5 minut. Po zatížení se měří tepová frekvence (TF) v časech 1:00–1:30, 2:00–2:30 a 3:00–3:30. | r_stab = 0,83 |
+| **Harvardský step-test** | reakce organismu na zátěž | TO střídavě vystupuje na bednu (výška 50, 45 a 30 cm) stálou frekvencí 30 výstupů za minutu, celkem 5 minut. Po zatížení se měří tepová frekvence (TF) v časech 1:00–1:30, 2:00–2:30 a 3:00–3:30 (každé měření trvá 30 s). | r_stab = 0,83 |
 | **Test W170** | reakce organismu na zátěž | TO jede na bicyklovém ergometru 3 nebo 2 zátěže (1; 1,5; 2 W/kg), každou po šesti minutách. V posledních 15 sekundách se měří TF. Výsledky se vynesou do grafu. Někdy se používají i testy W150, popř. W130. | výsledek udává velikost zátěže, která u TO vyvolá TF 170 tepů za minutu |
 | **Test VO₂max – přímé měření** | maximální příjem kyslíku do organismu | TO musí podstoupit zátěž do maxima (běhátko, bicyklový ergometr, step). Zátěž se zvyšuje každou minutu, maxima musí být dosaženo do 5 minut. | měří se složení dýchacích plynů a z něj se určí maximální spotřeba kyslíku |
 

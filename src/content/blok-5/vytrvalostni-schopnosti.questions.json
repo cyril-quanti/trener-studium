@@ -25,12 +25,11 @@
   {
     "id": "vytrvalostni-schopnosti-q03",
     "question": "Popište tři energetické systémy, které zajišťují vytrvalostní výkon, a jejich produkty.",
-    "modelAnswer": "Vytrvalostní výkon zajišťují tři energetické systémy:\n\n1. **Kreatinfosfátový systém (ATP–CP)** – poskytuje zásobu na 2–20 kontrakcí.\n2. **Anaerobní glykolýza (LA systém)** – tvoří ATP a **laktát**.\n3. **Aerobní glykolýza (O₂ systém)** – tvoří ATP, **CO₂** a **H₂O**.\n\nAerobní glykolýza (O₂ systém) se uplatňuje u střednědobé vytrvalosti (2–10 min), tedy u výkonu, při kterém organismus dodává kyslík.",
+    "modelAnswer": "Vytrvalostní výkon zajišťují tři energetické systémy:\n\n1. **Kreatinfosfátový systém (ATP–CP)** – poskytuje zásobu na 2–20 kontrakcí.\n2. **Anaerobní glykolýza (LA systém)** – tvoří ATP a **laktát**.\n3. **Aerobní glykolýza (O₂ systém)** – tvoří ATP, **CO₂** a **H₂O**.\n\nAerobní glykolýza (O₂ systém) odpovídá střednědobé vytrvalosti (2–10 min).",
     "keyPoints": [
       "ATP–CP systém: zásoba na 2–20 kontrakcí",
       "Anaerobní glykolýza (LA systém): tvorba ATP a laktátu",
-      "Aerobní glykolýza (O₂ systém): tvorba ATP, CO₂ a H₂O",
-      "Aerobní systém vyžaduje kyslík"
+      "Aerobní glykolýza (O₂ systém): tvorba ATP, CO₂ a H₂O"
     ]
   },
   {
@@ -70,22 +69,22 @@
   {
     "id": "vytrvalostni-schopnosti-q07",
     "question": "Popište dva motorické testy obecné vytrvalosti a způsob jejich vyhodnocení.",
-    "modelAnswer": "Motorické testy obecné vytrvalosti se hodnotí podle času, uběhnuté vzdálenosti nebo času do přerušení pro únavu.\n\n**Cooperův test** spočívá v běhu bez přerušení na atletické dráze po dobu 12 minut. Po zvukovém signálu se TO zastaví a vrátí na místo, kde byl při výstřelu. Zaznamenává se vzdálenost s přesností na 10 m; test má vysokou stabilitu (r_stab = 0,92).\n\n**Légerův test** je stupňovaný člunkový běh mezi čarami vzdálenými 20 m. Rytmus je dán časovými signály z magnetofonového pásku. Počáteční rychlost je 8,5 km/h a každou minutu se zvyšuje o 0,5 km/h, interval se zkracuje, dokud TO nestihne signál dvakrát. Hodnotí se počet dokončených fází.",
+    "modelAnswer": "Motorické testy obecné vytrvalosti se hodnotí podle času, uběhnuté vzdálenosti nebo času do přerušení pro únavu.\n\n**Cooperův test** spočívá v běhu bez přerušení na atletické dráze po dobu 12 minut. Po zvukovém signálu se testovaná osoba (TO) zastaví a vrátí na místo, kde byl při výstřelu. Zaznamenává se vzdálenost s přesností na 10 m; test má vysokou stabilitu (r_stab = 0,92).\n\n**Légerův test** je stupňovaný člunkový běh mezi čarami vzdálenými 20 m. Rytmus je dán časovými signály z magnetofonového pásku. Počáteční rychlost je 8,5 km/h a zvyšuje se o 0,5 km/h; interval se zkracuje každou minutu, dokud testovaná osoba (TO) nestihne signál dvakrát. Hodnotí se počet dokončených fází.",
     "keyPoints": [
       "Cooperův test: běh 12 minut na dráze, vzdálenost zaznamenána s přesností na 10 m",
       "Cooperův test: r_stab = 0,92",
       "Légerův test: stupňovaný člunkový běh na 20 m",
-      "Légerův test: počáteční rychlost 8,5 km/h, přírůstek 0,5 km/h za minutu",
+      "Légerův test: počáteční rychlost 8,5 km/h, zvyšuje se o 0,5 km/h; interval se zkracuje každou minutu",
       "Légerův test: hodnotí se počet dokončených fází"
     ]
   },
   {
     "id": "vytrvalostni-schopnosti-q08",
     "question": "Popište zátěžové testy používané k diagnostice vytrvalosti a vysvětlete, na jakých dvou předpokladech jsou založeny.",
-    "modelAnswer": "Zátěžové testy vycházejí ze dvou předpokladů.\n\nPrvní předpoklad říká, že čím je TO vytrvalejší, tím menší funkční změny vyvolá stejné pohybové zatížení a tím rychleji se tyto funkce vracejí do normálu. Využívají se **submaximální zátěže**, např. 1,5 W/kg. Příkladem je **Harvardský step-test**, při němž TO vystupuje na bednu stálou frekvencí a měří se tepová frekvence po zátěži, nebo **test W170**, který zjišťuje zátěž vyvolávající tepovou frekvenci 170 tepů za minutu.\n\nDruhý předpoklad říká, že čím je TO vytrvalejší, tím vyšší jsou stropy fyziologických funkcí zajišťujících aerobní metabolismus. Využívají se **maximální zátěže**, např. při přímém měření **VO₂max**, kdy se zátěž zvyšuje každou minutu a maxima musí být dosaženo do 5 minut.",
+    "modelAnswer": "Zátěžové testy vycházejí ze dvou předpokladů.\n\nPrvní předpoklad říká, že čím je testovaná osoba (TO) vytrvalejší, tím menší funkční změny vyvolá stejné pohybové zatížení a tím rychleji se tyto funkce vracejí do normálu. Využívají se **submaximální zátěže**, např. 1,5 W/kg. Příkladem testů reakce organismu na zátěž jsou **Harvardský step-test** a **test W170**.\n\nDruhý předpoklad říká, že čím je TO vytrvalejší, tím vyšší jsou stropy fyziologických funkcí zajišťujících aerobní metabolismus. Využívají se **maximální zátěže**, např. při přímém měření **VO₂max**, kdy se zátěž zvyšuje každou minutu a maxima musí být dosaženo do 5 minut.",
     "keyPoints": [
       "První předpoklad: menší funkční změny a rychlejší návrat k normálu",
-      "Submaximální zátěže, např. Harvardský step-test nebo test W170",
+      "Submaximální zátěže, např. 1,5 W/kg",
       "Druhý předpoklad: vyšší stropy funkcí aerobního metabolismu",
       "Maximální zátěže, např. přímé měření VO₂max"
     ]
