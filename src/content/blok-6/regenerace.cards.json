@@ -1,0 +1,107 @@
+[
+  {
+    "id": "regenerace-c01",
+    "front": "Co je regenerace?",
+    "back": "Veškerá činnost, která vede k plnému a rychlému zotavení tělesných i duševních procesů narušených předchozí činností a posunutých do určitého stupně únavy."
+  },
+  {
+    "id": "regenerace-c02",
+    "front": "Jaký je cyklus sportovního výkonu?",
+    "back": "práce → únava → zotavování → práce (a opět sportovní výkon)"
+  },
+  {
+    "id": "regenerace-c03",
+    "front": "Podle vzniku: jak se liší aerobní a anaerobní únava?",
+    "back": "- Aerobní: vzniká pomalu\n- Anaerobní: vzniká rychle"
+  },
+  {
+    "id": "regenerace-c04",
+    "front": "Podle průběhu: jaké druhy únavy rozlišujeme?",
+    "back": "- Podle doby trvání: akutní a chronická\n- Podle povahy: duševní a tělesná\n- Podle rozsahu: místní a celková"
+  },
+  {
+    "id": "regenerace-c05",
+    "front": "Co je chronická únava a jaký je její těžší stupeň?",
+    "back": "Chronická únava je vždy patologická. Těžší stupeň se nazývá přetrénování; vzniká dlouhodobým nerespektováním regeneračních procesů."
+  },
+  {
+    "id": "regenerace-c06",
+    "front": "Co je přetížení a co schvácení?",
+    "back": "- Přetížení: lehčí stupeň akutní patologické únavy\n- Schvácení: těžký stupeň akutní patologické únavy, může vést až ke smrti"
+  },
+  {
+    "id": "regenerace-c07",
+    "front": "Co je pasivní a co aktivní regenerace?",
+    "back": "- Pasivní regenerace: návrat vychýlené rovnováhy fyziologických funkcí k výchozím hodnotám, případně superkompenzace\n- Aktivní regenerace: plánovitě a cíleně použité zásahy, které pasivní regeneraci urychlují"
+  },
+  {
+    "id": "regenerace-c08",
+    "front": "Který způsob zotavení se používá u aerobní a který u anaerobní únavy?",
+    "back": "- Aerobní únava: vyloučení fyzické aktivity (pasivní odpočinek)\n- Anaerobní únava: pohybová aktivita (aktivní odpočinek)"
+  },
+  {
+    "id": "regenerace-c09",
+    "front": "Ve dvou fázích probíhá časná regenerace. Jak?",
+    "back": "- I. fáze: do 1 až 1,5 hodiny po zátěži\n- II. fáze: od konce I. fáze do začátku dalšího zatížení"
+  },
+  {
+    "id": "regenerace-c10",
+    "front": "Jaké jsou hlavní úkoly pozdní regenerace (rekondice)?",
+    "back": "- Udržet výkonnost na určitém stupni\n- Zotavit se z předcházející celoroční náročné fyzické činnosti\n- Psychická relaxace"
+  },
+  {
+    "id": "regenerace-c11",
+    "front": "Jaké jsou čtyři skupiny prostředků regenerace?",
+    "back": "- Pedagogické\n- Psychologické\n- Biologické (výživa, pitný režim, regenerace pohybem, fyzikální prostředky)\n- Farmakologické"
+  },
+  {
+    "id": "regenerace-c12",
+    "front": "Proč je hospodaření s časem významné pro regeneraci?",
+    "back": "Nedostatek času patří mezi nejvýznamnější stresory. Negativně ovlivňuje tréninkový efekt i výkon a urychluje rozvoj únavy. Správný denní režim je výraznou složkou regenerace."
+  },
+  {
+    "id": "regenerace-c13",
+    "front": "Co je sugesce?",
+    "back": "Nekritické přejímání myšlenky, které vniká do centrální nervové soustavy verbální komunikací i neverbálně."
+  },
+  {
+    "id": "regenerace-c14",
+    "front": "Existuje dieta, která specificky zvyšuje výkon?",
+    "back": "Neexistuje žádná dieta, která by specificky vedla ke zvýšení výkonu. Nesprávná výživa naopak prodlužuje dobu zotavení."
+  },
+  {
+    "id": "regenerace-c15",
+    "front": "Kolik sacharidů má tělo v zásobě a za jak dlouho se úplně obnoví?",
+    "back": "Celková zásoba je cca 350 g. Úplná obnova zásob trvá až 24 hodin."
+  },
+  {
+    "id": "regenerace-c16",
+    "front": "Jaká jsou doporučená množství bílkovin podle typu sportu?",
+    "back": "- Silové sporty: 1,4–1,8 g/kg\n- Vytrvalostní sporty: 1,2–1,4 g/kg"
+  },
+  {
+    "id": "regenerace-c17",
+    "front": "Co je hematokrit a jaké jsou jeho hodnoty u mužů a žen?",
+    "back": "Hematokrit je poměr mezi tekutou složkou krve a pevnými částicemi.\n- Muži: 40–52 %\n- Ženy: 37–47 %"
+  },
+  {
+    "id": "regenerace-c18",
+    "front": "Při jaké ztrátě tekutin v procentech hmotnosti výkon klesá?",
+    "back": "- Ztráta nad 2 % hmotnosti snižuje výkon, zejména vytrvalostní schopnosti u netrénovaných\n- Ztráta nad 4 % vždy snižuje výkon; doplnění trvá asi 8 hodin"
+  },
+  {
+    "id": "regenerace-c19",
+    "front": "Jaké možnosti terapeutického ovlivnění rozsahu pohybu existují?",
+    "back": "- Strečink (balistický/dynamický, statický)\n- PFI (postfacilitační inhibice)\n- PIR (postizometrická relaxace)\n- AGR (antigravitační relaxace; odpor terapeuta nahrazen gravitací)\n- Spray and stretch"
+  },
+  {
+    "id": "regenerace-c20",
+    "front": "Jaké jsou principy autogenního tréninku, Schulzovy metody a Jacobsonovy relaxace?",
+    "back": "- Schulzova metoda: zklidňující účinek, relaxace svalů, cvičení v klidu se zavřenýma očima\n- Autogenní trénink: 2 min nahradí 60 min spánku\n- Jacobsonova svalová relaxace: autorecepce svalového tonusu a systematická relaxace svalů; nácvik trvá déle"
+  },
+  {
+    "id": "regenerace-c21",
+    "front": "Jaké skupiny farmakologických prostředků regenerace existují?",
+    "back": "- Energetický metabolismus\n- Mikrovýživové látky\n- Ochranné buněčné látky\n- Antioxidanty\n- Antikatabolické látky\n- Imunostimulátory\n- Rostlinná psychofarmaka"
+  }
+]
