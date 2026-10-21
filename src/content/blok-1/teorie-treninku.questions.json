@@ -1,0 +1,95 @@
+[
+  {
+    "id": "teorie-treninku-q01",
+    "question": "Vysvětlete cíle a úkoly sportovního tréninku a jeho složky.",
+    "modelAnswer": "Cílem sportovního tréninku je dosažení individuálně co nejvyšší úrovně ve zvoleném tělovýchovném odvětví na základě všestranného rozvoje cvičence. Cíl má dvě složky: výkonnostní a občanský vývoj.\n\nÚkolem tréninku je osvojení techniky a taktiky příslušné disciplíny. Ta se osvojuje na základě rozvoje pohybových schopností a pohybových dovedností, a to v souladu s tělesným, psychickým a biologickým rozvojem sportovce.\n\nSportovní trénink se skládá ze čtyř složek:\n- **kondiční příprava** – rozvoj pohybových schopností,\n- **technická příprava** – nácvik a zdokonalování pohybových dovedností,\n- **taktická příprava** – nácvik vedení sportovního boje,\n- **psychologická příprava** – regulace psychických stavů.\n\nPohybové schopnosti jsou vrozené předpoklady (rychlostní, silové, vytrvalostní, obratnostní, pohyblivost), pohybové dovednosti jsou naučené předpoklady provádět pohyb správně, rychle a úsporně.",
+    "keyPoints": [
+      "cíl: individuálně co nejvyšší úroveň ve zvoleném odvětví na základě všestranného rozvoje",
+      "dvě složky cíle: výkonnostní a občanský vývoj",
+      "úkol: osvojení techniky a taktiky na základě rozvoje pohybových schopností a dovedností",
+      "čtyři složky: kondiční, technická, taktická a psychologická příprava",
+      "rozdíl mezi pohybovými schopnostmi (vrozené) a dovednostmi (naučené)"
+    ]
+  },
+  {
+    "id": "teorie-treninku-q02",
+    "question": "Co je sportovní výkon a sportovní výkonnost a na jakých faktorech závisí?",
+    "modelAnswer": "Sportovní výkon je aktuální projev specializovaných schopností jedince v určitém pohybovém úkolu vymezeném pravidly. Sportovní výkonnost je schopnost podávat daný výkon opakovaně na poměrně stabilní úrovni.\n\nSportovní výkon je výsledkem dlouhodobé adaptace a závisí na třech faktorech: na vrozených dispozicích, na vlivu sociálního prostředí a na vlivu tréninku.\n\nSportovní výkon lze dělit podle počtu faktorů, které na něj působí, na monofaktoriální a multifaktoriální. Podle způsobu provozování se dělí na individuální a týmový.\n\nPři analýze struktury výkonu si klademe otázky: na jakých faktorech výkon závisí, jaká je jejich podstata, jak jsou důležité, jaké jsou vztahy mezi nimi a zda jsou na sobě závislé či nezávislé. Faktory individuálního výkonu zahrnují technika, taktika, kondice, osobnost a somatické faktory.",
+    "keyPoints": [
+      "definice sportovního výkonu jako aktuálního projevu specializovaných schopností",
+      "definice výkonnosti jako opakovatelného podání výkonu na stabilní úrovni",
+      "výkon jako výsledek dlouhodobé adaptace",
+      "tři faktory: vrozené dispozice, sociální prostředí, trénink",
+      "dělení: monofaktoriální/multifaktoriální a individuální/týmový"
+    ]
+  },
+  {
+    "id": "teorie-treninku-q03",
+    "question": "Popište parametry zatížení a rozdíl mezi objemem a intenzitou zatížení.",
+    "modelAnswer": "Zatížení v tréninku popisujeme pomocí několika parametrů: doby trvání, počtu opakování, intenzity zatížení, délky odpočinku a charakteru odpočinku.\n\nObjem zatížení je kvantitativní ukazatel. Udává množství vykonané práce, například počet tun, počet kilometrů nebo dobu zatížení.\n\nIntenzita zatížení je kvalitativní ukazatel. Charakterizuje velikost úsilí a udává se v tepové frekvenci (TF), v procentech VO2max nebo v koncentraci laktátu v mmol·l⁻¹.\n\nObjem a intenzita se doplňují. Objem vypovídá o tom, kolik se trénuje, intenzita o tom, jak velké úsilí je při tréninku vynakládáno.",
+    "keyPoints": [
+      "pět parametrů zatížení: doba trvání, počet opakování, intenzita, délka a charakter odpočinku",
+      "objem jako kvantitativní ukazatel s příklady (tuny, kilometry, doba)",
+      "intenzita jako kvalitativní ukazatel velikosti úsilí",
+      "jednotky intenzity: TF, %VO2max, mmol·l⁻¹"
+    ]
+  },
+  {
+    "id": "teorie-treninku-q04",
+    "question": "Jak se získává energie pro resyntézu ATP?",
+    "modelAnswer": "ATP je zdrojem energie pro sval: při jeho štěpení na ADP a fosfát se uvolňuje energie, a ta se resyntézou ATP obnovuje.\n\nEnergie pro resyntézu ATP se získává dvěma způsoby štěpení látek: aerobně, za přístupu kyslíku, a anaerobně, bez přístupu kyslíku. Zdroji energie jsou CP, cukry a tuky.\n\nPodle doby trvání a zdroje rozlišujeme čtyři zóny energetického krytí:\n- **ATP–CP zóna** – anaerobně, z CP, do 15 s,\n- **LA zóna** – anaerobně, z cukrů, 2–3 min,\n- **LA–O2 zóna** – aerobně, z cukrů, 5–10 min,\n- **O2 zóna** – aerobně, z cukrů a tuků, hodiny.\n\nZóny se vzájemně prolínají a nelze přesně určit začátek a konec jejich aktivace.",
+    "keyPoints": [
+      "ATP jako zdroj energie pro sval a princip jeho resyntézy",
+      "dva způsoby štěpení: aerobní a anaerobní",
+      "tři zdroje: CP, cukry, tuky",
+      "čtyři zóny s dobou trvání (ATP–CP, LA, LA–O2, O2)",
+      "prolínání zón bez ostré hranice"
+    ]
+  },
+  {
+    "id": "teorie-treninku-q05",
+    "question": "Co je anaerobní práh a jak se projevuje v tepové frekvenci a laktátu?",
+    "modelAnswer": "Anaerobní práh je stav dynamické rovnováhy mezi produkcí a odbouráváním laktátu. Nastává při přechodu od aerobního k anaerobnímu způsobu štěpení cukrů.\n\nOrientační hodnoty anaerobního prahu jsou tepová frekvence 160–180 tepů·min⁻¹ a koncentrace laktátu 4–6 mmol·l⁻¹ (u rychlostních typů).\n\nLaktátová křivka popisuje závislost koncentrace laktátu na intenzitě zatížení a rozlišuje aerobní a anaerobní oblast.",
+    "keyPoints": [
+      "definice jako stav dynamické rovnováhy produkce a odbourávání laktátu",
+      "přechod od aerobního k anaerobnímu štěpení cukrů",
+      "orientační TF 160–180 tepů·min⁻¹",
+      "orientační laktát 4–6 mmol·l⁻¹ u rychlostních typů"
+    ]
+  },
+  {
+    "id": "teorie-treninku-q06",
+    "question": "Vysvětlete superkompenzaci a druhy a fáze zotavení.",
+    "modelAnswer": "Superkompenzace je přechodné zvýšení aktuálního energetického potenciálu organismu, které nastane po zátěži a zotavení. Doba jejího nástupu závisí na energetickém zdroji a na době trvání zátěže.\n\nPři krátkých zátěžích z ATP–CP je nástup superkompenzace rychlý, například 4–5 minut po zátěži 5 sekund. U dlouhodobější zátěže z kyslíkového zdroje, například 5 hodin, nastupuje až za 4–5 dnů.\n\nZotavení probíhá průběžně, bezprostředně nebo dlouhodobě. Z hlediska fází rozlišujeme zotavení pomalé a rychlé.",
+    "keyPoints": [
+      "definice superkompenzace jako přechodného zvýšení energetického potenciálu",
+      "závislost doby nástupu na energetickém zdroji a délce zátěže",
+      "příklad: krátká zátěž ATP–CP má rychlý nástup, dlouhá O2 zátěž pomalý",
+      "druhy zotavení: průběžné, bezprostřední, dlouhodobé",
+      "fáze zotavení: pomalá a rychlá"
+    ]
+  },
+  {
+    "id": "teorie-treninku-q07",
+    "question": "Popište cykly ve sportovním tréninku a části tréninkové jednotky.",
+    "modelAnswer": "Sportovní trénink je členěn do cyklů. Nejdelší je roční tréninkový cyklus, který se dělí na přípravné období (s etapou objemovou a intenzitní), předzávodní období zaměřené na ladění formy, hlavní období a přechodné období.\n\nKratší cykly jsou makrocyklus (1–3 nebo 6 měsíců), mezocyklus (2–4 týdny) a mikrocyklus (2–10 dnů, obvykle týden). Nejmenší jednotkou je tréninková jednotka.\n\nMikrocykly mohou být všeobecně nebo speciálně rozvíjející, vylaďovací, stabilizační, soutěžní, regenerační nebo kontrolní.\n\nTréninková jednotka má úvodní část (psychologická příprava, rozcvičení a průprava na hlavní část), hlavní část (koordinační cvičení a cvičení na rozvoj rychlosti, síly a vytrvalosti) a závěrečnou část s dynamickými a statickými cviky.",
+    "keyPoints": [
+      "čtyři období ročního tréninkového cyklu",
+      "délky makrocyklu, mezocyklu a mikrocyklu",
+      "příklady typů mikrocyklů (např. soutěžní, regenerační)",
+      "tři části tréninkové jednotky a jejich obsah"
+    ]
+  },
+  {
+    "id": "teorie-treninku-q08",
+    "question": "Jaké jsou požadavky na trenéra, styly vedení a význam trenérské filosofie?",
+    "modelAnswer": "Práce trenéra je práce s lidmi, ve skupině a za fyzické, psychické a sociální zátěže. Předpokládá podávání maximálních výkonů a klade vysoké nároky na psychickou odolnost.\n\nTeorie vedení popisují ideální trenérskou osobnost buď jako soubor vlastností, nebo jako soubor chování, anebo jako schopnost přizpůsobit se měnícím se podmínkám. Trenér potřebuje odborné znalosti, praktické dovednosti a vhodné osobnostní vlastnosti, například emoční stabilitu a komunikační schopnosti.\n\nPodle způsobu nakládání s mocí rozlišujeme styl autokratický (direktivní), demokratický (podporující, participativní) a liberální. Autokratický styl se uplatňuje u nízké motivace a malých zkušeností, liberální u velmi zkušených a samostatných sportovců.\n\nKaždý trenér má vlastní trenérskou filosofii, která vychází z životní filosofie. Prakticky se projevuje v přístupu k hráčům a ve způsobu jejich vedení. Základní postoje k lidem vznikají v dětství, ale lze je měnit rozvojem sebereflexe.",
+    "keyPoints": [
+      "nároky trenérské práce (práce s lidmi, psychická odolnost)",
+      "tři teorie vedení: osobnostní, behaviorální, interakční",
+      "tři styly vedení: autokratický, demokratický, liberální",
+      "trenérská filosofie jako součást životní a sportovní filosofie",
+      "změnitelnost postojů a význam sebereflexe"
+    ]
+  }
+]
