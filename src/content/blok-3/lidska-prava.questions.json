@@ -1,0 +1,97 @@
+[
+  {
+    "id": "lidska-prava-q01",
+    "question": "Vysvětlete princip účinné (sebe)obrany podle českého právního řádu a jeho limity.",
+    "modelAnswer": "Český právní řád respektuje základní podmínku účinné (sebe)obrany: aby byla obrana účinná, musí být důraznější než útok. Obranná akce přitom směřuje k likvidaci útoku, nikoliv k likvidaci útočníka. Právě tato podmínka je základní limitující podmínkou pro zákonnost v sebeobraně.\n\nZákladním limitem je přiměřenost. Nejde o nutnou obranu, byla-li obrana zcela zjevně nepřiměřená způsobu útoku, jak stanoví § 29 odst. 2 trestního zákoníku. Obrana tedy musí být účinná, ale zároveň nesmí být zjevně nepřiměřená.",
+    "keyPoints": [
+      "obrana musí být účinná a důraznější než útok",
+      "cílem obranné akce je likvidace útoku, nikoliv útočníka",
+      "je to základní limitující podmínka zákonnosti sebeobrany",
+      "obrana zcela zjevně nepřiměřená způsobu útoku není nutnou obranou (§ 29 odst. 2)"
+    ]
+  },
+  {
+    "id": "lidska-prava-q02",
+    "question": "Na jaké právní předpisy a dokumenty se opírá právo občana bránit se?",
+    "modelAnswer": "Občan má právo postavit se na odpor každému, kdo by ohrožoval nebo porušoval lidská práva a základní svobody. Toto právo vychází z Ústavy České republiky a z Listiny základních práv a svobod. Dále vychází z ratifikovaných a vyhlášených mezinárodních smluv o lidských právech, jimiž je Česká republika vázána.\n\nKonkrétně čl. 23 Listiny stanoví, že občané mají právo postavit se na odpor proti každému, kdo by odstraňoval demokratický řád lidských práv a základních svobod. Podmínkou je, že činnost ústavních orgánů a účinné použití zákonných prostředků jsou znemožněny. Úmluva o ochraně lidských práv v čl. 5 odst. 1 zaručuje každému právo na svobodu a osobní bezpečnost.",
+    "keyPoints": [
+      "Ústava České republiky",
+      "Listina základních práv a svobod",
+      "ratifikované a vyhlášené mezinárodní smlouvy o lidských právech",
+      "čl. 23 Listiny a jeho podmínky",
+      "Úmluva o ochraně lidských práv, čl. 5 odst. 1"
+    ]
+  },
+  {
+    "id": "lidska-prava-q03",
+    "question": "Jaká základní práva chrání Listina a jak je chrání český právní řád?",
+    "modelAnswer": "Mezi nejdůležitější práva, která Listina základních práv a svobod shrnuje, patří právo na život (čl. 6 odst. 4), nedotknutelnost osoby a jejího soukromí (čl. 7), osobní svoboda (čl. 8) a nedotknutelnost obydlí (čl. 12).\n\nTato práva jsou v České republice chráněna trestním zákoníkem (zákon č. 40/2009 Sb.).",
+    "keyPoints": [
+      "právo na život (čl. 6 odst. 4)",
+      "nedotknutelnost osoby a soukromí (čl. 7)",
+      "osobní svoboda (čl. 8)",
+      "nedotknutelnost obydlí (čl. 12)",
+      "ochrana těchto práv trestním zákoníkem (zákon č. 40/2009 Sb.)"
+    ]
+  },
+  {
+    "id": "lidska-prava-q04",
+    "question": "Co říká čl. 8 Listiny o osobní svobodě?",
+    "modelAnswer": "Osobní svoboda je zaručena. Nikdo nesmí být stíhán nebo zbaven svobody jinak než z důvodů a způsobem, který stanoví zákon. Nikdo nesmí být zbaven svobody pouze pro neschopnost dostát smluvnímu závazku.\n\nObviněného nebo podezřelého lze zadržet jen v případech stanovených zákonem. Zadržená osoba musí být ihned seznámena s důvody zadržení a vyslechnuta. Nejpozději do 48 hodin musí být propuštěna, nebo odevzdána soudu. Soudce musí zadrženou osobu do 24 hodin vyslechnout a rozhodnout o vazbě, nebo ji propustit.\n\nZatčení obviněného je možné jen na písemný odůvodněný příkaz soudce. Zatčená osoba musí být do 24 hodin odevzdána soudu.",
+    "keyPoints": [
+      "osobní svoboda je zaručena",
+      "zbavit svobody lze jen z důvodů a způsobem stanoveným zákonem",
+      "nikdo nesmí být zbaven svobody pro neschopnost dostát smluvnímu závazku",
+      "zadržená osoba: seznámení s důvody, výslech, lhůta 48 hodin",
+      "soudce do 24 hodin; zatčení jen na písemný příkaz soudce"
+    ]
+  },
+  {
+    "id": "lidska-prava-q05",
+    "question": "Kdo smí zadržet podezřelou osobu a jak má policejní orgán postupovat?",
+    "modelAnswer": "Osobu podezřelou ze spáchání trestného činu může policejní orgán v naléhavých případech zadržet, je-li dán některý z důvodů vazby. K zadržení je třeba předchozí souhlas státního zástupce. Bez něj lze zadržení provést jen tehdy, nesnese-li věc odkladu a souhlasu nelze předem dosáhnout, zejména byla-li osoba přistižena při trestném činu nebo zastižena na útěku.\n\nZadržení smí provést policie. Civilní osoba smí podezřelou osobu pouze omezit na svobodě. Policejní orgán zadrženou osobu vyslechne a sepíše protokol. Pokud ji nepropustí, předá státnímu zástupci protokol a důkazní materiál tak, aby mohl podat návrh na vzetí do vazby. Osoba musí být odevzdána soudu nejpozději do 48 hodin, jinak musí být propuštěna.",
+    "keyPoints": [
+      "zadržet smí policie, civilní osoba jen omezit na svobodě",
+      "důvody vazby (§ 67) a naléhavost případu",
+      "předchozí souhlas státního zástupce, výjimka při přistižení",
+      "výslech a protokol o zadržení",
+      "předání státnímu zástupci a lhůta 48 hodin"
+    ]
+  },
+  {
+    "id": "lidska-prava-q06",
+    "question": "Kdo a za jakých podmínek může omezit osobní svobodu přistižené osoby?",
+    "modelAnswer": "Osobní svobodu osoby, která byla přistižena při trestném činu nebo bezprostředně poté, smí omezit kdokoli. Musí to být nutné ke zjištění její totožnosti, k zamezení útěku nebo k zajištění důkazů.\n\nTaková osoba musí být ihned předána policejnímu orgánu. Příslušníka ozbrojených sil lze předat i nejbližšímu útvaru ozbrojených sil nebo správci posádky. Nelze-li osobu ihned předat, je třeba některému z těchto orgánů omezení osobní svobody bez odkladu oznámit. Civilní osoba tedy může osobu omezit pouze v uvedeném rozsahu a musí ji předat dále.",
+    "keyPoints": [
+      "kdokoli, ne jen policie",
+      "osoba přistižená při činu nebo bezprostředně poté",
+      "účely: zjištění totožnosti, zamezení útěku, zajištění důkazů",
+      "povinnost předat osobu ihned policejnímu orgánu",
+      "oznámení omezení svobody, nelze-li předat ihned"
+    ]
+  },
+  {
+    "id": "lidska-prava-q07",
+    "question": "Jaká práva má zadržená osoba a jak musí být poučena?",
+    "modelAnswer": "Zadržená osoba má právo zvolit si obhájce a hovořit s ním bez přítomnosti třetí osoby. Může se s ním radit již v průběhu zadržení. Má také právo požadovat, aby byl obhájce přítomen jejímu výslechu, ledaže je obhájce v lhůtě 48 hodin nedosažitelný.\n\nO těchto právech musí být podezřelý poučen a musí mu být poskytnuta plná možnost jejich uplatnění. Tato práva vyplývají z § 76 odst. 6 trestního řádu.",
+    "keyPoints": [
+      "právo zvolit si obhájce",
+      "důvěrný rozhovor s obhájcem bez třetí osoby",
+      "možnost radit se již během zadržení",
+      "přítomnost obhájce při výslechu, výjimka nedosažitelnosti",
+      "povinnost poučit a poskytnout plnou možnost uplatnění"
+    ]
+  },
+  {
+    "id": "lidska-prava-q08",
+    "question": "Za jakých podmínek smí občan postavit se na odpor a jaké jsou hranice tohoto práva?",
+    "modelAnswer": "Občan má právo postavit se na odpor každému, kdo by ohrožoval nebo porušoval lidská práva a základní svobody. Podle čl. 23 Listiny je v případě odstraňování demokratického řádu oprávněn postavit se na odpor, jestliže činnost ústavních orgánů a účinné použití zákonných prostředků jsou znemožněny.\n\nPrávo na obranu má však své hranice. Obrana musí být účinná a důraznější než útok, jejím cílem je likvidace útoku, nikoliv útočníka. Pokud je obrana zcela zjevně nepřiměřená způsobu útoku, nejde o nutnou obranu.",
+    "keyPoints": [
+      "právo postavit se na odpor proti ohrožení lidských práv",
+      "čl. 23 Listiny a jeho podmínky",
+      "obrana musí být účinná a důraznější než útok",
+      "cílem je likvidace útoku, nikoliv útočníka",
+      "zjevná nepřiměřenost není nutnou obranou"
+    ]
+  }
+]
