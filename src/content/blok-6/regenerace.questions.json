@@ -1,0 +1,96 @@
+[
+  {
+    "id": "regenerace-q01",
+    "question": "Vysvětlete pojem regenerace a její místo v cyklu práce, únavy a zotavení.",
+    "modelAnswer": "**Regenerace** je veškerá činnost, která vede k plnému a rychlému zotavení tělesných i duševních procesů. Jejich klidová rovnováha byla předchozí činností narušena a posunuta do určitého stupně **únavy**.\n\nRegenerace je součástí cyklu: práce vyvolá únavu, po níž následuje zotavování a teprve pak nová práce a sportovní výkon. Únava je fyziologický obranný mechanismus a reverzibilní stav, při němž tkáně reagují slaběji na podněty stejné intenzity.\n\nRegenerace se dělí na **pasivní** (návrat rovnováhy k výchozím hodnotám, případně superkompenzace) a **aktivní** (plánovité zásahy, které pasivní regeneraci urychlují). Jejím cílem je zkrátit dobu zotavení a připravit organismus na další zatížení.",
+    "keyPoints": [
+      "regenerace je činnost vedoucí k zotavení tělesných i duševních procesů",
+      "únava je fyziologický obranný mechanismus a reverzibilní stav",
+      "cyklus práce → únava → zotavování → práce",
+      "rozdíl mezi pasivní a aktivní regenerací"
+    ]
+  },
+  {
+    "id": "regenerace-q02",
+    "question": "Charakterizujte druhy únavy podle vzniku, průběhu a rozsahu.",
+    "modelAnswer": "Únavu lze třídit podle několika hledisek. Podle vzniku rozlišujeme **aerobní** únavu, která vzniká pomalu, a **anaerobní** únavu, která vzniká rychle.\n\nPodle průběhu rozlišujeme únavu **akutní** a **chronickou**. Podle povahy jde o únavu **duševní** nebo **tělesnou**. Podle rozsahu je **místní** (postihuje malé svalové skupiny, projevuje se svalovou bolestí a sníženou silou) nebo **celková** (častější; zhoršuje koordinaci, kvalitu pohybových návyků a dynamických stereotypů).\n\nAkutní tělesná únava je fyziologická a projevuje se poklesem výkonu, nechutí pokračovat, nedostatkem dechu a bolestmi svalů. Pokud se prohlubuje, přechází v patologickou formu.",
+    "keyPoints": [
+      "aerobní únava vzniká pomalu, anaerobní rychle",
+      "akutní a chronická únava podle doby trvání",
+      "místní a celková únava podle rozsahu",
+      "duševní a tělesná únava podle povahy",
+      "projevy akutní fyziologické únavy, například pokles výkonu a bolesti svalů"
+    ]
+  },
+  {
+    "id": "regenerace-q03",
+    "question": "Jak se liší patologická akutní a chronická únava a co znamená přetrénování?",
+    "modelAnswer": "**Patologická únava** vzniká, když únava překročí fyziologickou mez.\n\nU **akutní** patologické únavy rozlišujeme dva stupně. Lehčí stupeň je **přetížení**: prohlubují se příznaky fyziologické únavy, objevují se křeče, nauzea, bledost, rychlý a mělký tep a dech, pocení a proteinurie. Těžký stupeň je **schvácení**, které může vést až ke smrti.\n\n**Chronická** únava je vždy patologická. Lehčí stupeň se projevuje poklesem výkonu, úbytkem hmotnosti, sníženou obranyschopností, poruchami trávení a spánku, nechutenstvím a podrážděností nebo apatií.\n\nTěžší stupeň chronické únavy se nazývá **přetrénování**. Vzniká dlouhodobým nerespektováním regeneračních procesů. Vede k trvalému poklesu výkonnosti a k ireverzibilním změnám pohybového aparátu a atrofii svalových vláken.",
+    "keyPoints": [
+      "přetížení jako lehčí stupeň akutní patologické únavy",
+      "schvácení jako těžký stupeň akutní únavy s možností smrti",
+      "chronická únava je vždy patologická",
+      "přetrénování vzniká dlouhodobým nerespektováním regenerace",
+      "trvalý pokles výkonnosti a morfologické změny při přetrénování"
+    ]
+  },
+  {
+    "id": "regenerace-q04",
+    "question": "Popište způsoby zotavení a doby obnovy energetických zdrojů.",
+    "modelAnswer": "Způsob zotavení volíme podle druhu únavy. Při **aerobní** únavě má převládat **vyloučení fyzické aktivity**, tedy pasivní odpočinek. Resyntéza svalového glykogenu trvá až 2 dny, jaterního až 3 dny, a je žádoucí vyšší dodávka cukrů.\n\nPři **anaerobní** únavě se používá **pohybová aktivita**, tedy aktivní odpočinek. Zachovává průtok krve ve svalech, což lépe odstraňuje katabolity a slouží k odstranění místní nebo rychle vznikající únavy.\n\nDoby obnovy se liší podle zdroje. Obnova fosfagenu trvá 2 až 3 minuty. Obnova glykogenu při kontinuální zátěži trvá 10 až 46 hodin, při intermitentní 5 až 24 hodin. Laktát se aktivní obnovou odstraní za 30 minut až 1 hodinu, pasivní obnovou za 1 až 2 hodiny.",
+    "keyPoints": [
+      "aerobní únava vyžaduje vyloučení fyzické aktivity",
+      "anaerobní únava vyžaduje pohybovou aktivitu",
+      "resyntéza svalového glykogenu trvá až 2 dny, jaterního až 3 dny",
+      "doba obnovy fosfagenu 2–3 minuty",
+      "odstranění laktátu aktivní a pasivní obnovou"
+    ]
+  },
+  {
+    "id": "regenerace-q05",
+    "question": "Rozlište časnou a pozdní regeneraci a uveďte jejich cíle.",
+    "modelAnswer": "Regeneraci dělíme podle času na **časnou** a **pozdní**.\n\n**Časná regenerace** je součástí každodenního režimu. Prolíná tréninkovým procesem nebo na něj navazuje. Jejím cílem je rychlá likvidace akutní únavy. Probíhá ve dvou fázích: I. fáze do 1 až 1,5 hodiny po zátěži a II. fáze od konce I. fáze do začátku dalšího zatížení.\n\n**Pozdní regenerace**, nazývaná **rekondice**, je součástí přechodného období. Představuje celkovou psychickou a fyzickou regeneraci. Nejde o úplný klid, ale o aktivní formu, například relaxační lázeňský pobyt. Hlavní úkoly jsou udržet výkonnost na určitém stupni, zotavit se z předcházející celoroční náročné fyzické činnosti a dosáhnout psychické relaxace.",
+    "keyPoints": [
+      "časná regenerace je součástí každodenního režimu a cílí na akutní únavu",
+      "dvě fáze časné regenerace, první do 1 až 1,5 hodiny po zátěži",
+      "pozdní regenerace je rekondice v přechodném období",
+      "rekondice není úplný klid, ale aktivní forma",
+      "hlavní úkoly rekondice včetně psychické relaxace"
+    ]
+  },
+  {
+    "id": "regenerace-q06",
+    "question": "Jaké prostředky regenerace existují a jak působí psychologické prostředky?",
+    "modelAnswer": "Prostředky regenerace dělíme do čtyř skupin: **pedagogické**, **psychologické**, **biologické** a **farmakologické**.\n\nPedagogické prostředky zahrnují metodiku tréninku, individualizaci, variabilitu zatížení, tréninkový plán a výchovu sportovce k dennímu režimu. Psychologické prostředky jsou s pedagogickými propojeny a hlavní roli v nich má trenér.\n\nMezi psychologické prostředky patří řízení emočního napětí, hospodaření s časem, udržování duševní rovnováhy, redukce vnitřních konfliktů, péče o kolektiv a zvládání deprese. Patří sem také autogenní trénink, sugesce a hudba. Biologické prostředky tvoří výživa, pitný režim, regenerace pohybem a fyzikální prostředky.",
+    "keyPoints": [
+      "čtyři skupiny prostředků regenerace",
+      "pedagogické prostředky, například individualizace a tréninkový plán",
+      "psychologické prostředky jsou propojeny s pedagogickými a hlavní roli má trenér",
+      "biologické prostředky: výživa, pitný režim, pohyb, fyzikální prostředky"
+    ]
+  },
+  {
+    "id": "regenerace-q07",
+    "question": "Vysvětlete význam výživy a energetické bilance pro regeneraci sportovce.",
+    "modelAnswer": "Základní složkou regenerace je **obnova energetických zdrojů**. Neexistuje žádná dieta, která by specificky vedla ke zvýšení výkonu. Výživa je součástí tréninkového procesu a nesprávná výživa prodlužuje dobu zotavení.\n\nSacharidy jsou nejobjemnější složkou potravy. Jsou uloženy jako glykogen v játrech a ve svalech, celková zásoba je cca 350 g a úplná obnova trvá až 24 hodin. Tuky jsou hlavním zdrojem energie při dlouhodobých výkonech a je třeba zajistit esenciální tuky. Bílkoviny mají u vytrvalostních sportů 1,2 až 1,4 g/kg, u silových sportů 1,4 až 1,8 g/kg.\n\nOrganismus je v **dynamické rovnováze**. Denní bilance není nutná, důležité jsou několikadenní cykly. Převaha výdeje vede ke katabolismu a přetrénování, převaha příjmu k anabolismu.",
+    "keyPoints": [
+      "obnova energetických zdrojů jako základ regenerace",
+      "neexistuje dieta, která specificky zvyšuje výkon",
+      "sacharidy: zásoba cca 350 g, obnova do 24 hodin",
+      "doporučené množství bílkovin podle typu sportu",
+      "energetická bilance a několikadenní cykly, katabolismus a anabolismus"
+    ]
+  },
+  {
+    "id": "regenerace-q08",
+    "question": "Jak souvisí pitný režim a hydratace s regenerací a výkonem?",
+    "modelAnswer": "**Hematokrit** je poměr mezi tekutou složkou krve a pevnými částicemi. Čím méně vody, tím vyšší hodnota. U mužů je 40 až 52 %, u žen 37 až 47 %. Chronický nedostatek tekutin snižuje produkci erytropoetinu, tlumí krvetvorbu a snižuje výkon.\n\nZtráta tekutin nad 2 % hmotnosti snižuje výkon, zejména vytrvalostní schopnosti netrénovaných. Ztráta nad 4 % vždy snižuje výkon a doplnění trvá asi 8 hodin. Během výkonu lze uhradit pouze 60 % ztrát.\n\nNápoj během výkonu má být **hypotonický**, mírně kyselý, **slaný** (1 g soli na 1 l) a bez dráždivých látek, jako je CO₂. Alkohol v časné fázi regenerace nepijeme. Kontrolu hydratace provádíme barvou moči a vážením před a po výkonu.",
+    "keyPoints": [
+      "hematokrit jako poměr tekuté složky a pevných částic krve",
+      "ztráta nad 2 % snižuje výkon, nad 4 % vždy",
+      "během výkonu lze uhradit jen 60 % ztrát",
+      "vlastnosti nápoje během výkonu",
+      "kontrola hydratace barvou moči a vážením"
+    ]
+  }
+]
