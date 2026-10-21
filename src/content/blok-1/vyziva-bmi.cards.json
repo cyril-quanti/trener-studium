@@ -2,27 +2,27 @@
     {
       "id": "vyziva-bmi-c01",
       "front": "Kolik energie přijme zdravý člověk s převážně sedavým zaměstnáním?",
-      "back": "Přibližně **8,5–12 MJ/den** (2000–2900 kcal/den)."
+      "back": "Přibližně 8,5–12 MJ/den (2000–2900 kcal/den)."
     },
     {
       "id": "vyziva-bmi-c02",
       "front": "Jaký energetický výdej uvádí zdroj u atletických disciplín v průběhu tréninku a závodů?",
-      "back": "**2–4 MJ/h**, podle stavu trénovanosti, trvání, typu a intenzity aktivity."
+      "back": "2–4 MJ/h, podle stavu trénovanosti, trvání, typu a intenzity aktivity."
     },
     {
       "id": "vyziva-bmi-c03",
       "front": "Jaký energetický výdej uvádí zdroj u špičkových profesionálních atletů?",
-      "back": "**6,5 MJ/h** (1600 kcal/h)."
+      "back": "6,5 MJ/h (1600 kcal/h)."
     },
     {
       "id": "vyziva-bmi-c04",
       "front": "Kolik energie vydávají cyklisté na Tour de France a při horských etapách?",
-      "back": "Průměrně **27 MJ/den** (6600 kcal/den); při horských etapách až **40 MJ/den** (9800 kcal/den)."
+      "back": "Průměrně 27 MJ/den (6600 kcal/den); při horských etapách až 40 MJ/den (9800 kcal/den)."
     },
     {
       "id": "vyziva-bmi-c05",
       "front": "Jaké čtyři zdroje energie pro pohyb zdroj uvádí?",
-      "back": "- **Fosfáty** (ATP)\n- **Glykogen**\n- **Tuky**\n- **Bílkoviny**"
+      "back": "- Fosfáty (ATP)\n- Glykogen\n- Tuky\n- Bílkoviny"
     },
     {
       "id": "vyziva-bmi-c06",
@@ -32,66 +32,66 @@
     {
       "id": "vyziva-bmi-c07",
       "front": "Od kdy se do hrazení energie zapojuje glykogen?",
-      "back": "Pokud aktivita trvá **déle než 10 vteřin**."
+      "back": "Pokud aktivita trvá déle než 10 vteřin."
     },
     {
       "id": "vyziva-bmi-c08",
       "front": "Jak dlouho vystačí zásoby glykogenu?",
-      "back": "Na souvislou činnost **střední intenzity po dobu 1–2 hodin**."
+      "back": "Na souvislou činnost střední intenzity po dobu 1–2 hodin."
     },
     {
       "id": "vyziva-bmi-c09",
       "front": "Co způsobuje náhlý pokles výkonu při běhu nebo jízdě na kole?",
-      "back": "Vyčerpání pohotovostních rezerv **glykogenu**. Pokud se cukr nedoplní, organismus získává energii převážně z tuku."
+      "back": "Vyčerpání pohotovostních rezerv glykogenu. Pokud se cukr nedoplní, organismus získává energii převážně z tuku."
     },
     {
       "id": "vyziva-bmi-c10",
       "front": "Kdy se do krytí energie zapojují tuky a jaká je jejich dodávka oproti glykogenu?",
-      "back": "Přibližně mezi **12. a 20. minutou**. Štěpení tuků probíhá pomaleji, dodávky energie jsou **poloviční** oproti glykogenu."
+      "back": "Přibližně mezi 12. a 20. minutou. Štěpení tuků probíhá pomaleji, dodávky energie jsou poloviční oproti glykogenu."
     },
     {
       "id": "vyziva-bmi-c11",
       "front": "Jaký je maximální podíl bílkovin na energii při výkonu?",
-      "back": "Nejvýše **15–20 %**, a to jen při dlouhodobých extrémních výkonech. Při běžném cvičení k tomu nedochází."
+      "back": "Nejvýše 15–20 %, a to jen při dlouhodobých extrémních výkonech. Při běžném cvičení k tomu nedochází."
     },
     {
       "id": "vyziva-bmi-c12",
       "front": "Jak se změní zásoby ATP a glykogenu při dlouhodobém cvičení?",
-      "back": "Zvýší se až na **dvojnásobek**; podíl tuků na hrazení energie vzroste a zapojují se dříve."
+      "back": "Zvýší se až na dvojnásobek; podíl tuků na hrazení energie vzroste a zapojují se dříve."
     },
     {
       "id": "vyziva-bmi-c13",
       "front": "Jaké hlavní nutriční cíle uvádí zdroj při sportovním výkonu?",
-      "back": "Zabránit **dehydrataci** a udržet **normální hladinu glukózy**."
+      "back": "Zabránit dehydrataci a udržet normální hladinu glukózy."
     },
     {
       "id": "vyziva-bmi-c14",
       "front": "Jak se kontroluje, zda člověk pije dostatečně?",
-      "back": "Barva moči má být **světle žlutá**. Větší množství vitamínu B nebo šťáva z červené řepy barvu moči změní."
+      "back": "Barva moči má být světle žlutá. Větší množství vitamínu B nebo šťáva z červené řepy barvu moči změní."
     },
     {
       "id": "vyziva-bmi-c15",
       "front": "Jak má vypadat výživa při regeneraci po vyčerpávajícím výkonu?",
-      "back": "První dávku sacharidů doplněných aminokyselinami zkonzumovat do **45 minut** po výkonu. Sacharidy s **10–20 g bílkovin** zlepší doplnění energie do svalů a omezí produkci kortizolu."
+      "back": "První dávku sacharidů doplněných aminokyselinami zkonzumovat do 45 minut po výkonu. Sacharidy s 10–20 g bílkovin zlepší doplnění energie do svalů a omezí produkci kortizolu."
     },
     {
       "id": "vyziva-bmi-c16",
       "front": "Jaké tempo snižování hmotnosti je podle zdroje bezpečné?",
-      "back": "Nejvýše **2 kg měsíčně**; rychlejší snižování může být zdraví škodlivé."
+      "back": "Nejvýše 2 kg měsíčně; rychlejší snižování může být zdraví škodlivé."
     },
     {
       "id": "vyziva-bmi-c17",
       "front": "Jaká je energetická bilance potřebná pro snížení hmotnosti o 2 kg měsíčně?",
-      "back": "Výdej energie musí být o **2000 kJ vyšší** než příjem."
+      "back": "Výdej energie musí být o 2000 kJ vyšší než příjem."
     },
     {
       "id": "vyziva-bmi-c18",
       "front": "Jak se vypočítá BMI?",
-      "back": "**BMI = hmotnost (kg) / výška² (m)**"
+      "back": "BMI = hmotnost (kg) / výška² (m)"
     },
     {
       "id": "vyziva-bmi-c19",
       "front": "Jaké BMI odpovídá normě a jaké obezitě 1. stupně?",
-      "back": "Norma: **18,5–24,9**. Obezita 1. stupně: **30,0–34,9**."
+      "back": "Norma: 18,5–24,9. Obezita 1. stupně: 30,0–34,9."
     }
 ]

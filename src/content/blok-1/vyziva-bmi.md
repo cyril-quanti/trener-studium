@@ -6,7 +6,7 @@
 
 | Kategorie | BMI | Zdravotní riziko |
 |---|---|---|
-| podváha | méně než 18,5 | vysoká (ověřit, viz poznámka) |
+| podváha | méně než 18,5 | vysoká |
 | norma | 18,5–24,9 | minimální |
 | nadváha | 25,0–29,9 | nízká až lehce vyšší |
 | obezita 1. stupně | 30,0–34,9 | zvýšená |
