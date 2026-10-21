@@ -7,6 +7,8 @@ import {
   type Question,
 } from "./schema";
 
+export type { Card, Question };
+
 export interface TopicContent {
   id: string;
   title: string;

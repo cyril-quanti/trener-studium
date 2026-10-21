@@ -1,6 +1,6 @@
 import type { ReactNode } from "react";
 import { Link, type LinkProps } from "react-router-dom";
-import { buttonClassName, type ButtonSize, type ButtonVariant } from "./Button";
+import { buttonClassName, type ButtonSize, type ButtonVariant } from "./button-styles";
 
 interface ButtonLinkProps extends LinkProps {
   variant?: ButtonVariant;
