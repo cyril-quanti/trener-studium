@@ -118,6 +118,8 @@ Schéma uvádí tyto faktory individuálního výkonu: **technika, taktika, kond
 | O2 | 2 hod | 2–3 dny |
 | O2 | 5 hod | 4–5 dnů |
 
+Průběh je na schématu rozdělen do fází: **fáze zatížení**, **fáze zotavení** a **fáze superkompenzace** (zvýšená úroveň nad výchozí hodnotou 100 %).
+
 ### Zotavení
 
 - **Druhy zotavení:** průběžné, bezprostřední, dlouhodobé.

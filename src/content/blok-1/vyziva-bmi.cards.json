@@ -83,5 +83,15 @@
       "id": "vyziva-bmi-c17",
       "front": "Jaká je energetická bilance potřebná pro snížení hmotnosti o 2 kg měsíčně?",
       "back": "Výdej energie musí být o **2000 kJ vyšší** než příjem."
+    },
+    {
+      "id": "vyziva-bmi-c18",
+      "front": "Jak se vypočítá BMI?",
+      "back": "**BMI = hmotnost (kg) / výška² (m)**"
+    },
+    {
+      "id": "vyziva-bmi-c19",
+      "front": "Jaké BMI odpovídá normě a jaké obezitě 1. stupně?",
+      "back": "Norma: **18,5–24,9**. Obezita 1. stupně: **30,0–34,9**."
     }
 ]

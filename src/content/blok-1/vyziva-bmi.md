@@ -1,3 +1,18 @@
+## Index tělesné hmotnosti (BMI)
+
+**BMI** se vypočítá jako hmotnost v kilogramech dělená výškou v metrech na druhou:
+
+> **BMI = hmotnost (kg) / výška² (m)**
+
+| Kategorie | BMI | Zdravotní riziko |
+|---|---|---|
+| podváha | méně než 18,5 | vysoká (ověřit, viz poznámka) |
+| norma | 18,5–24,9 | minimální |
+| nadváha | 25,0–29,9 | nízká až lehce vyšší |
+| obezita 1. stupně | 30,0–34,9 | zvýšená |
+| obezita 2. stupně (závažná) | 35,0–39,9 | vysoká |
+| obezita 3. stupně (těžká) | 40,0 a více | velmi vysoká |
+
 ## Energetický výdej
 
 - Člověk s převážně sedavým zaměstnáním přijme přibližně **8,5–12 MJ/den** (2000–2900 kcal/den).
