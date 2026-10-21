@@ -1,0 +1,96 @@
+[
+  {
+    "id": "koordinacni-schopnosti-q01",
+    "question": "Co jsou koordinační schopnosti a podle čeho posuzujeme jejich míru?",
+    "modelAnswer": "Koordinační schopnosti (obratnost) umožňují vykonávat pohybovou činnost tak, aby průběh pohybů těla nebo jeho částí měl z hlediska pohybového úkolu co nejúčelnější **časovou, prostorovou a dynamickou strukturu**.\n\nMíru koordinace určují čtyři ukazatele:\n\n- **koordinační složitost** pohybu, tedy složitost, kterou proband ještě zvládne,\n- **přesnost** pohybu,\n- **dobu trvání** pohybu,\n- **ekonomičnost** pohybu.\n\nKoordinační schopnosti tedy nejsou jen o přesnosti, ale o tom, jak efektivně a v jakém čase je pohyb proveden. Čím složitější pohyb proband zvládne a čím přesněji, rychleji a úsporněji ho provede, tím vyšší je jeho úroveň koordinačních schopností.",
+    "keyPoints": [
+      "Koordinační schopnosti umožňují účelnou časovou, prostorovou a dynamickou strukturu pohybu",
+      "Míra koordinace: koordinační složitost, přesnost, doba trvání a ekonomičnost pohybu",
+      "Koordinace se hodnotí nejen přesností, ale i časem a efektivitou pohybu"
+    ]
+  },
+  {
+    "id": "koordinacni-schopnosti-q02",
+    "question": "Jak dělíme koordinační schopnosti? Charakterizujte alespoň tři z nich.",
+    "modelAnswer": "Koordinační schopnosti dělíme na:\n\n- **rovnováhové** schopnosti,\n- **prostorově-orientační** schopnosti,\n- **kinesteticko-diferenciační** schopnosti,\n- schopnost **regulace rytmu a frekvence** pohybu,\n- **motorickou učenlivost (docilitu)**.\n\nKinesteticko-diferenciační schopnost je schopnost vnímání a rozlišování vlastního pohybu; rozvíjí se především v technicko-estetických sportech, například v moderní gymnastice, krasobruslení nebo skocích do vody.\n\nRovnováhová schopnost je schopnost udržet tělo stabilně v nestabilní poloze. Rozlišujeme rovnováhu statickou, kdy musí těžiště zůstat nad místem opory (stoj na rukou), a dynamickou, kdy je těžiště během pohybu vychýleno a vrací se nad místo opory (sjezdové lyžování, cyklistika).\n\nDocilita je schopnost rychle a přesně se učit nové dovednosti; zahrnuje rychlost získání a stálost uchování.",
+    "keyPoints": [
+      "Pět skupin: rovnováhové, prostorově-orientační, kinesteticko-diferenciační, regulace rytmu a frekvence, motorická učenlivost",
+      "Kinesteticko-diferenciační schopnost: vnímání a rozlišování vlastního pohybu",
+      "Statická rovnováha: těžiště nad místem opory",
+      "Dynamická rovnováha: těžiště vychýleno a vráceno nad místo opory",
+      "Docilita: rychlost získání a stálost uchování nové dovednosti"
+    ]
+  },
+  {
+    "id": "koordinacni-schopnosti-q03",
+    "question": "Jaký je biologický základ koordinačních schopností? Popište analyzátory I. a II. druhu.",
+    "modelAnswer": "Koordinační schopnosti mají biologický základ v analyzátorech, které přijímají informace pro řízení pohybu.\n\n**Analyzátory I. druhu** přijímají informace z prostředí. Patří mezi ně:\n\n- **zrakový** – zraková ostrost a prostorové (hloubkové) vidění, důležité ve sportovních hrách,\n- **sluchový** – kvalita zadaného úkolu a zpětné vazby,\n- **vestibulární** – poloha a pohyby hlavy, důležitý pro rovnováhu,\n- **kinestetický** – rozlišování silových, prostorových a časových parametrů pohybu,\n- **somatosenzorický** – tlakový, dotykový a tepelný senzor v kůži,\n- **časový** – časoměrná funkce CNS.\n\n**Analyzátory II. druhu** mají vyšší rozlišovací schopnost a působí na principu servomechanismu ve spojení se zadními kořeny míšními. Jsou to svalová vřeténka, Golgiho šlachová tělíska, Ruffiniho tělíska v kolenním kloubu a Pacciniho tělíska v kloubních vazech.",
+    "keyPoints": [
+      "Analyzátory I. druhu přijímají informace z prostředí (zrakový, sluchový, vestibulární, kinestetický, somatosenzorický, časový)",
+      "Zrakový analyzátor: zraková ostrost a prostorové vidění",
+      "Vestibulární analyzátor je důležitý pro rovnováhovou schopnost",
+      "Analyzátory II. druhu působí na principu servomechanismu",
+      "Analyzátory II. druhu: svalová vřeténka, Golgiho šlachová tělíska, Ruffiniho a Pacciniho tělíska"
+    ]
+  },
+  {
+    "id": "koordinacni-schopnosti-q04",
+    "question": "Popište průběh a řízení pohybu.",
+    "modelAnswer": "Pokyn pro pohyb vydá **centrální nervová soustava (CNS)** na základě analýzy vjemů analyzátorů a vlastního rozhodnutí.\n\nCNS se rozhodne pro některý naučený pohyb a aktivuje příslušné centrum v mozku, kde je uložen **program zvoleného pohybu** – sled v podstatě reflexních pohybů. Elektrický impulz vyslaný do kosterního svalstva spustí pohybový úkol jednotlivých svalových skupin. Ty jsou kontrolovány a dolaďovány **míšními centry**, zejména tonizací synergistů a antagonistů.\n\nPro zdárný průběh pohybu jsou zásadní dvě věci: stav pohybové soustavy, především pohyblivost a svalová síla, a důkladná kontrola CNS, která prostřednictvím analyzátorů a regulátorů pohyb dolaďuje.\n\nPodle stupně zvládnutí pohybu se postupně projevují dvě schopnosti: řešit prostorovou strukturu pohybu a řešit jeho časovou strukturu.",
+    "keyPoints": [
+      "CNS vydá pokyn pro pohyb na základě analýzy vjemů analyzátorů",
+      "Aktivuje se naučený program pohybu uložený v příslušném mozkovém centru",
+      "Míšní centra dolaďují pohyb tonizací synergistů a antagonistů",
+      "Pro průběh pohybu je zásadní stav pohybové soustavy a kontrola CNS",
+      "Postupně se projevují schopnost řešit prostorovou a časovou strukturu pohybu"
+    ]
+  },
+  {
+    "id": "koordinacni-schopnosti-q05",
+    "question": "Co je regulace svalového napětí a proč je důležitá pro koordinaci?",
+    "modelAnswer": "Regulace svalového napětí je **základní faktor koordinačních schopností**. Nedostatečné uvolnění svalů vede k nástupu únavy.\n\nRozlišujeme tři typy svalového napětí:\n\n- **tonické napětí** – klidové napětí, které se zvyšuje únavou; odstraňuje se pomalými pohyby na uvolnění nebo masáží,\n- **rychlostní napětí** – neschopnost uvolnit sval při zvýšené frekvenci pohybů,\n- **koordinační napětí** – projev nižší úrovně koordinačních schopností; napínají se svaly, které k vykonání pohybu nepotřebujeme, a klouby jsou fixovány.\n\nDobrá regulace napětí umožňuje, aby se zapojovaly jen svaly potřebné pro daný pohyb. Tím se zvyšuje přesnost a hospodárnost pohybu.",
+    "keyPoints": [
+      "Regulace svalového napětí je základní faktor koordinačních schopností",
+      "Nedostatečné uvolnění svalů vede k nástupu únavy",
+      "Tonické napětí: klidové, zvyšuje se únavou, odstraňuje se uvolněním a masáží",
+      "Rychlostní napětí: neschopnost uvolnit sval při vyšší frekvenci pohybů",
+      "Koordinační napětí: napínání svalů, které k pohybu nejsou potřeba"
+    ]
+  },
+  {
+    "id": "koordinacni-schopnosti-q06",
+    "question": "Jaké jsou obecné zásady rozvoje koordinačních schopností (obratnosti)?",
+    "modelAnswer": "Rozvoj obratnosti se řídí těmito zásadami:\n\n1. **Vysoký objem opakování** při přiměřené intenzitě a kvalitativně vysoké úrovni provedení.\n2. **Od nejjednodušších ke složitějším** cvičením, například od kotoulu k dvojnému saltu.\n3. **Od stálých podmínek k proměnlivým**, tedy cvičit uvnitř, venku nebo na různých prvcích.\n4. **Různé obměny** cvičení, například kotoul na sto způsobů.\n5. **Kombinace** dříve osvojených a dokonale zvládnutých prvků, tzv. vazby.\n6. Cvičení **pod tlakem**, například s časovou tísní, drilováním nebo při zautomatizovaných procesech.\n7. Cvičení **s dodatečnými informacemi**, kdy se omezuje nebo naopak zdůrazňuje funkce jednoho z analyzátorů, například cvičení se zavázanýma očima.\n\nZásady se uplatňují postupně a navzájem se doplňují.",
+    "keyPoints": [
+      "Vysoký objem opakování při přiměřené intenzitě a kvalitě",
+      "Postup od nejjednodušších ke složitějším cvičením a od stálých k proměnlivým podmínkám",
+      "Různé obměny cvičení a kombinace zvládnutých prvků (vazby)",
+      "Cvičení pod tlakem (časová tíseň, drilování, zautomatizované procesy)",
+      "Cvičení s dodatečnými informacemi, například omezením jednoho analyzátoru"
+    ]
+  },
+  {
+    "id": "koordinacni-schopnosti-q07",
+    "question": "Jak diagnostikujeme koordinační schopnosti?",
+    "modelAnswer": "Koordinační schopnosti se diagnostikují podle jednotlivých složek:\n\n- **Kinesteticko-diferenciační** schopnost se testuje metodou reprodukce stanoveného úkolu a hodnotí se přesnost jeho provedení.\n- **Rovnováhové** schopnosti se testují laboratorně (stabilometrie, pedografie), nebo motorickými testy, kde se hodnotí čas výdrže nebo trvání výkonu.\n- **Rytmická** schopnost se diagnostikuje odpovědí na verbální, vizuální nebo taktilní podněty, například rychlostí a přesností provádění neznámého pohybového vzorce.\n- **Orientační** schopnost se hodnotí přesností orientace v prostoru s vyloučením zrakové kontroly.\n\nPři celkovém testování se hodnotí provedení složitějších pohybových úkolů. Sleduje se složitost pohybu, přesnost, rychlost, učenlivost (docilita) a uchování (retence), tedy zda proband provede naučený pohyb znovu s časovým odstupem.",
+    "keyPoints": [
+      "Kinesteticko-diferenciační schopnost: reprodukce úkolu a hodnocení přesnosti",
+      "Rovnováha: laboratorně (stabilometrie, pedografie) nebo motorickými testy",
+      "Rytmická schopnost: odpovědi na verbální, vizuální nebo taktilní podněty",
+      "Orientační schopnost: přesnost orientace bez zrakové kontroly",
+      "Celkové testy sledují složitost, přesnost, rychlost, docilitu a retenci"
+    ]
+  },
+  {
+    "id": "koordinacni-schopnosti-q08",
+    "question": "Vysvětlete rozdíl mezi schopností a dovedností a uveďte vlastnosti pohybové soustavy, které ovlivňují koordinaci.",
+    "modelAnswer": "**Schopnost** je vrozený, geneticky daný předpoklad pro pohyb. **Dovednost** je naučený způsob provedení pohybu, který získáme motorickým učením; jde o techniku. Schopnosti tvoří předpoklad, na jehož základě se dovednosti osvojují.\n\nNa koordinaci mají vliv také vlastnosti pohybové soustavy:\n\n- **svalová síla** – je nutným prostředkem pro provedení většiny obratnostních cvičení,\n- **kloubní pohyblivost** – optimální rozsah pohybu v kloubech je nutným předpokladem správného provedení většiny obratnostně zaměřených úkolů,\n- **složení těla** – délkové, šířkové a další parametry těla.\n\nKoordinační schopnosti je tedy nutné rozvíjet společně s pohyblivostí a silou, které jsou pro jejich projev zásadní.",
+    "keyPoints": [
+      "Schopnost je vrozený, geneticky daný předpoklad",
+      "Dovednost je získaná motorickým učením, tedy technika",
+      "Svalová síla je nutná pro většinu obratnostních cvičení",
+      "Kloubní pohyblivost je nutným předpokladem správného provedení",
+      "Složení těla ovlivňuje délkové a šířkové parametry pohybu"
+    ]
+  }
+]
