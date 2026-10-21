@@ -1,0 +1,9 @@
+{
+  "id": "blok-1",
+  "number": 1,
+  "title": "Teorie sportovního tréninku",
+  "topics": [
+    { "id": "pohybove-schopnosti", "title": "Pohybové schopnosti" },
+    { "id": "zasady-treninku", "title": "Zásady sportovního tréninku" }
+  ]
+}
