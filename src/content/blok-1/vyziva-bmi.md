@@ -20,7 +20,7 @@
 - U špičkových profesionálních atletů dosahuje energetický výdej **6,5 MJ/h** (1600 kcal/h).
 - Cyklisté na Tour de France vydávají průměrně **27 MJ/den** (6600 kcal/den). Při horských etapách dosahuje výdej špičkových cyklistů až **40 MJ/den** (9800 kcal/den).
 
-> **Pozor:** Ve sportovní výživě se objevuje mnoho nutričních suplementů, kterým je připisována zázračná moc. Podklady upozorňují, že jde o dlouhou historii (např. býčí varlata v řecké Olympii).
+> **Pozor:** Ve sportovní výživě se objevuje mnoho nutričních suplementů, kterým je připisována zázračná moc. Podklady upozorňují, že jde o dlouhou historii (např. býčí varlata v řecké Olympii). Téměř každá olympiáda přinesla nějaký produkt, například sobí mléko v Montrealu, karnitin, kreatin a kreatin-fosfát.
 
 ## Zdroje energie pro pohyb
 

@@ -2,7 +2,7 @@
   {
     "id": "vyziva-bmi-q01",
     "question": "Jak se liší energetický výdej člověka s převážně sedavým zaměstnáním od výdeje sportovce při tréninku a závodech?",
-    "modelAnswer": "U zdravého člověka s převážně sedavým zaměstnáním je obvyklý příjem energie přibližně **8,5–12 MJ/den** (2000–2900 kcal/den). Sportovce zatěžuje výrazně více.\n\nU atletických disciplín během tréninku a závodů stoupá energetický výdej na **2–4 MJ/h**. Výsledná hodnota závisí na stavu trénovanosti, trvání, typu a intenzitě aktivity.\n\nU špičkových profesionálních atletů dosahuje výdej **6,5 MJ/h** (1600 kcal/h). Extrémním příkladem jsou cyklisté na Tour de France, kteří vydávají průměrně **27 MJ/den** (6600 kcal/den). Při horských etapách dosahuje výdej až **40 MJ/den** (9800 kcal/den).\n\nRozdíl mezi běžným životem a režimem sportovce je tedy především v tom, kolik energie musí organismus uhradit a jak tuto potřebu zajistit.",
+    "modelAnswer": "U zdravého člověka s převážně sedavým zaměstnáním je obvyklý příjem energie přibližně **8,5–12 MJ/den** (2000–2900 kcal/den).\n\nU atletických disciplín během tréninku a závodů stoupá energetický výdej na **2–4 MJ/h**. Výsledná hodnota závisí na stavu trénovanosti, trvání, typu a intenzitě aktivity.\n\nU špičkových profesionálních atletů dosahuje výdej **6,5 MJ/h** (1600 kcal/h). Extrémním příkladem jsou cyklisté na Tour de France, kteří vydávají průměrně **27 MJ/den** (6600 kcal/den). Při horských etapách dosahuje výdej až **40 MJ/den** (9800 kcal/den).\n\nRozdíl mezi běžným životem a režimem sportovce je tedy především v tom, kolik energie musí organismus uhradit a jak tuto potřebu zajistit.",
     "keyPoints": [
       "sedavý člověk přijme 8,5–12 MJ/den",
       "atletika při tréninku a závodech 2–4 MJ/h",
@@ -36,10 +36,10 @@
   {
     "id": "vyziva-bmi-q04",
     "question": "Jak se v klidu rozděluje energetická potřeba člověka mezi jednotlivé orgány?",
-    "modelAnswer": "Člověk potřebuje každý den tisíce kilojoulů, i když necvičí. Energie na udržení životních funkcí se nazývá bazální metabolismus.\n\nTabulka zdroje ukazuje příklad muže vážícího 75 kg, který celý den leží nehybně v posteli. Mozek spotřebuje 1500 kJ (21 %), srdce 760 kJ (9 %), ledviny 500 kJ (7 %), játra 2300 kJ (32 %), plíce 670 kJ (9 %) a ostatní orgány 1500 kJ (21 %).\n\nNejvíce energie tedy spotřebují játra, následovaná mozkem a ostatními orgány. Tato základní potřeba tvoří velkou část celkového energetického výdeje a je nutné ji počítat i při plánování výživy sportovce.",
+    "modelAnswer": "Člověk potřebuje každý den tisíce kilojoulů, i když necvičí. Tabulka uvádí rozdělení bazálního metabolismu mezi jednotlivé orgány.\n\nTabulka zdroje ukazuje příklad muže vážícího 75 kg, který celý den leží nehybně v posteli. Mozek spotřebuje 1500 kJ (21 %), srdce 760 kJ (9 %), ledviny 500 kJ (7 %), játra 2300 kJ (32 %), plíce 670 kJ (9 %) a ostatní orgány 1500 kJ (21 %).\n\nNejvíce energie tedy spotřebují játra, následovaná mozkem a ostatními orgány.",
     "keyPoints": [
       "bazální metabolismus: energie bez pohybu",
-      "příklad muže 75 kg: celkem 7 230 kJ/den",
+      "příklad muže 75 kg: rozdělení kJ podle orgánů",
       "játra 2300 kJ (32 %) jsou největším spotřebitelem",
       "mozek 1500 kJ (21 %), srdce 760 kJ (9 %), ledviny 500 kJ (7 %), plíce 670 kJ (9 %)"
     ]
@@ -71,7 +71,7 @@
   {
     "id": "vyziva-bmi-q07",
     "question": "Jak se má sportovec připravit na závod z hlediska odpočinku a formy?",
-    "modelAnswer": "Svalům je třeba dopřát dostatek času na odpočinek. Cílem je před závodem nebo soutěží zařadit nejméně jeden týden zaměřený na **vyladění formy**.\n\nV tomto týdnu se střídá den tréninkového volna s dnem lehkého tréninku.\n\nPřípravu doplňuje výživa. Dostatek tekutin a energie před, při i po výkonu pomáhá zabránit dehydrataci, která by mohla výkon snížit. Tento přístup zdroj shrnuje jako pravidla odpovídající sportovní výživy.",
+    "modelAnswer": "Svalům je třeba dopřát dostatek času na odpočinek. Cílem je před závodem nebo soutěží zařadit nejméně jeden týden zaměřený na **vyladění formy**.\n\nV tomto týdnu se střídá den tréninkového volna s dnem lehkého tréninku.\n\nPřípravu doplňuje výživa. Dostatek tekutin a energie před, při i po výkonu pomáhá zabránit dehydrataci. Tento přístup zdroj shrnuje jako pravidla odpovídající sportovní výživy.",
     "keyPoints": [
       "nejméně jeden týden zaměřený na vyladění formy",
       "střídání dne tréninkového volna a dne lehkého tréninku",
@@ -82,7 +82,7 @@
   {
     "id": "vyziva-bmi-q08",
     "question": "Jaké jsou historické a komerční souvislosti sportovní výživy a jak k nim přistupovat?",
-    "modelAnswer": "Sportovní zápolení, zejména spojené s výraznými komerčními vlivy, přináší do výživy sportovců mnoho tajemných až magických praktik. Používají se nutriční suplementy, kterým je připisována zázračná moc.\n\nKaždá olympiáda přinesla nějaký typický produkt, například sobí mléko v Montrealu nebo karnitin, kreatin a kreatin-fosfát v posledních letech.\n\nTato snaha je velmi stará. Již v období starověkých gladiátorů a atletů v řecké Olympii jedli býčí varlata, která jsou pravděpodobně prvním použitím anabolických steroidů ve sportu.\n\nSportovní výživa by se proto měla zakládat na přirozených a plnohodnotných zdrojích a na speciální sportovní výživu se nemá spoléhat jen. Doplňovat ji lze přírodními zdroji, například banánem, vodou nebo rozinkami.",
+    "modelAnswer": "Sportovní zápolení, zejména spojené s výraznými komerčními vlivy, přináší do výživy sportovců mnoho tajemných až magických praktik. Používají se nutriční suplementy, kterým je připisována zázračná moc.\n\nTéměř každá olympiáda přinesla nějaký typický produkt, například sobí mléko v Montrealu nebo karnitin, kreatin a kreatin-fosfát v posledních letech.\n\nTato snaha je velmi stará. Již v období starověkých gladiátorů a atletů v řecké Olympii jedli býčí varlata, která jsou pravděpodobně prvním použitím anabolických steroidů ve sportu.\n\nSportovní výživa by se proto měla zakládat na přirozených a plnohodnotných zdrojích a na speciální sportovní výživu se nemá spoléhat jen. Doplňovat ji lze přírodními zdroji, například banánem, vodou nebo rozinkami.",
     "keyPoints": [
       "komerční vlivy přinášejí zázračné suplementy",
       "příklady: sobí mléko (Montreal), karnitin, kreatin, kreatin-fosfát",

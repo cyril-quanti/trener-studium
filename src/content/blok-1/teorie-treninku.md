@@ -88,12 +88,12 @@ Schéma uvádí tyto faktory individuálního výkonu: **technika, taktika, kond
 
 | Zóna | Způsob štěpení | Zdroj | Doba trvání |
 |---|---|---|---|
-| **ATP–CP** | anaerobně | CP | do 15 s |
+| **ATP–CP** | anaerobně | CP | 15 s |
 | **LA** | anaerobně | cukry | 2–3 min |
 | **LA–O2** | aerobně | cukry | 5–10 min |
 | **O2** | aerobně | cukry, tuky | hodiny |
 
-> **Pozor:** Zdroje energie se nepřepínají ostře. Zóny s anaerobním i aerobním podílem se vzájemně prolínají.
+> **Pozor:** Podle grafu průběhu získávání energie se zóny vzájemně prolínají a nelze přesně určit začátek a konec aktivace jednotlivých systémů.
 
 ### Anaerobní práh a laktát
 
@@ -104,6 +104,8 @@ Schéma uvádí tyto faktory individuálního výkonu: **technika, taktika, kond
 |---|---|
 | Tepová frekvence (TF) | 160–180 tepů·min⁻¹ |
 | Laktát | 4–6 mmol·l⁻¹ |
+
+Laktátová křivka ve zdroji uvádí hodnoty LA 1,5 / 4 / 12 mmol·l⁻¹ a rozlišuje aerobní a anaerobní oblast.
 
 ### Superkompenzace
 
@@ -243,7 +245,7 @@ Podle způsobu nakládání s mocí rozlišujeme:
 
 | Styl | Charakteristika |
 |---|---|
-| **Autokratický** (direktivní) | vhodný při nízké motivaci, malých zkušenostech, u složitých a nejasných činností; vede spíše ke špatným výsledkům |
+| **Autokratický** (direktivní) | charakteristické jsou nízká motivace, malé zkušenosti, špatné výsledky a složité a nejasné činnosti |
 | **Demokratický** | *podporující* – u vytrvalostních, monotónních a frustrujících činností; *participativní* – při vysoké motivaci, vnitřním místě kontroly a zájmu na dosažení cíle |
 | **Liberální** | vhodný pro velmi zkušené, samostatné sportovce s vysokou motivací, kteří dosahují výborných výsledků |
 
