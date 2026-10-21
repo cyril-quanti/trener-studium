@@ -1,0 +1,15 @@
+{
+  "id": "blok-2",
+  "number": 2,
+  "title": "Etapy tréninku a příprava dětí",
+  "topics": [
+    {
+      "id": "etapy-cykly",
+      "title": "Etapy a cykly ve sportovním tréninku"
+    },
+    {
+      "id": "priprava-deti",
+      "title": "Sportovní příprava dětí"
+    }
+  ]
+}

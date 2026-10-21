@@ -1,0 +1,15 @@
+{
+  "id": "blok-1",
+  "number": 1,
+  "title": "Teorie sportovního tréninku a výživa",
+  "topics": [
+    {
+      "id": "teorie-treninku",
+      "title": "Teorie sportovního tréninku a psychologie sportu"
+    },
+    {
+      "id": "vyziva-bmi",
+      "title": "Výživa a BMI"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "blok-3",
+  "number": 3,
+  "title": "Právo a sebeobrana",
+  "topics": [
+    {
+      "id": "lidska-prava",
+      "title": "Lidská práva a základní svobody"
+    },
+    {
+      "id": "pravo-trestni",
+      "title": "Trestní zákoník – výběr"
+    }
+  ]
+}

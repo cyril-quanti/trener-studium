@@ -1,0 +1,12 @@
+node_modules/
+dist/
+coverage/
+.DS_Store
+*.local
+.env*
+# Source course materials must never be committed
+*.pdf
+sources/
+screenshots/tmp/
+test-results/
+playwright-report/
