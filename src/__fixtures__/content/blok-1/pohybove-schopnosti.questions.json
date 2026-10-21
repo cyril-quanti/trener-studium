@@ -1,0 +1,14 @@
+[
+  {
+    "id": "pohybove-schopnosti-q01",
+    "question": "Vysvětlete, co jsou pohybové schopnosti a jak se dělí.",
+    "modelAnswer": "Pohybové schopnosti jsou vrozené předpoklady k provádění pohybové činnosti. Dělíme je na **kondiční** (síla, rychlost, vytrvalost), **koordinační** (orientace, rovnováha, rytmus) a **hybridní**, které kombinují oba předchozí typy – typickým příkladem je rychlostní síla. Jejich úroveň je částečně geneticky daná, ale lze ji tréninkem rozvíjet až do individuálního stropu.",
+    "keyPoints": [
+      "vrozené předpoklady k pohybové činnosti",
+      "kondiční schopnosti – síla, rychlost, vytrvalost",
+      "koordinační schopnosti – řízení pohybu",
+      "hybridní schopnosti – kombinace obou typů",
+      "genetický strop rozvoje"
+    ]
+  }
+]

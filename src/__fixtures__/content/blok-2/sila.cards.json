@@ -1,0 +1,8 @@
+[
+  { "id": "sila-c01", "front": "Definujte sílu jako pohybovou schopnost.", "back": "Schopnost překonávat nebo udržovat odpor svalovou kontrakcí." },
+  { "id": "sila-c02", "front": "Co je maximální síla?", "back": "Nejvyšší síla, kterou je svalstvo schopno vyvinout při volní kontrakci." },
+  { "id": "sila-c03", "front": "Co je výbušná síla?", "back": "Schopnost vyvinout co nejvyšší sílu v co nejkratším čase." },
+  { "id": "sila-c04", "front": "Jaká zátěž se používá u metody maximálních úsilí?", "back": "90–100 % 1RM, 1–3 opakování." },
+  { "id": "sila-c05", "front": "Proč se u dětí nedoporučuje maximální silový trénink?", "back": "Riziko poškození růstových zón." },
+  { "id": "sila-c06", "front": "Co je vytrvalostní síla?", "back": "Schopnost udržet silový výkon po delší dobu." }
+]

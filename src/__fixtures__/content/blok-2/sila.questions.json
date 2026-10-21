@@ -1,0 +1,26 @@
+[
+  {
+    "id": "sila-q01",
+    "question": "Popište základní druhy síly a jejich využití v tréninku.",
+    "modelAnswer": "Sílu dělíme na **maximální**, **výbušnou (rychlou)** a **vytrvalostní**. Maximální síla je nejvyšší síla vyvinutelná při volní kontrakci a rozvíjí se metodou maximálních úsilí s vysokou zátěží (90–100 % 1RM) a nízkým počtem opakování. Výbušná síla umožňuje vyvinout vysokou sílu v krátkém čase a trénuje se nižší zátěží s maximální rychlostí provedení. Vytrvalostní síla se projevuje schopností opakovaně nebo dlouhodobě udržet silový výkon a rozvíjí se metodou opakovaných úsilí se středně vysokým počtem opakování.",
+    "keyPoints": [
+      "maximální síla – nejvyšší síla při volní kontrakci",
+      "výbušná síla – vysoká síla v krátkém čase",
+      "vytrvalostní síla – udržení výkonu po delší dobu",
+      "metoda maximálních úsilí – vysoká zátěž, málo opakování",
+      "metoda rychlostní – nízká zátěž, maximální rychlost"
+    ]
+  },
+  {
+    "id": "sila-q02",
+    "question": "Jaká jsou rizika silového tréninku u dětí a jak jim předcházet?",
+    "modelAnswer": "U dětí a mládeže hrozí při silovém tréninku s velkou zátěží poškození **růstových zón** (epifyzárních chrupavek), protože jejich kosterní soustava ještě není plně vyvinutá. Proto se v tomto věku upřednostňuje trénink s **vlastní vahou těla**, technicky správné provedení cviků a postupné, kontrolované zvyšování zátěže pod dohledem trenéra. Maximální silový trénink s těžkými váhami se do ukončení růstu nedoporučuje.",
+    "keyPoints": [
+      "riziko poškození růstových zón",
+      "nezralá kosterní soustava",
+      "preferovat trénink s vlastní vahou",
+      "důraz na správnou techniku",
+      "postupné a kontrolované zvyšování zátěže"
+    ]
+  }
+]
