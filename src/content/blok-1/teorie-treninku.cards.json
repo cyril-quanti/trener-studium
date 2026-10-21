@@ -1,0 +1,19 @@
+[
+  { "id": "teorie-treninku-c01", "front": "Jaký je cíl sportovního tréninku?", "back": "Dosažení individuálně co nejvyšší úrovně ve zvoleném tělovýchovném odvětví na základě všestranného rozvoje cvičence." },
+  { "id": "teorie-treninku-c02", "front": "Jaké dvě složky má cíl sportovního tréninku?", "back": "Výkonnostní vývoj a občanský vývoj." },
+  { "id": "teorie-treninku-c03", "front": "Co jsou pohybové schopnosti?", "back": "Vrozené předpoklady k provádění určité pohybové činnosti.\n- rychlostní\n- silové\n- vytrvalostní\n- obratnostní\n- pohyblivost" },
+  { "id": "teorie-treninku-c04", "front": "Co jsou pohybové dovednosti?", "back": "Učením získané předpoklady správně, rychle a úsporně provádět určitou pohybovou činnost." },
+  { "id": "teorie-treninku-c05", "front": "Jaké jsou složky sportovního tréninku?", "back": "- kondiční příprava – rozvoj pohybových schopností\n- technická příprava – nácvik a zdokonalování pohybových dovedností\n- taktická příprava – nácvik vedení sportovního boje\n- psychologická příprava – regulace psychických stavů" },
+  { "id": "teorie-treninku-c06", "front": "Co je sportovní výkon?", "back": "Aktuální projev specializovaných schopností jedince v určitém pohybovém úkolu vymezeném pravidly." },
+  { "id": "teorie-treninku-c07", "front": "Co je sportovní výkonnost?", "back": "Schopnost podávat daný výkon opakovaně na poměrně stabilní úrovni." },
+  { "id": "teorie-treninku-c08", "front": "Na jakých třech faktorech závisí sportovní výkon jako výsledek dlouhodobé adaptace?", "back": "- vrozené dispozice\n- vliv sociálního prostředí\n- vliv tréninku" },
+  { "id": "teorie-treninku-c09", "front": "Jak se dělí sportovní výkon?", "back": "- podle počtu faktorů: monofaktoriální, multifaktoriální\n- podle způsobu provozování: individuální, týmový" },
+  { "id": "teorie-treninku-c10", "front": "Co je objem zatížení?", "back": "Kvantitativní ukazatel, udává množství (počet tun, počet kilometrů, dobu zatížení ap.)." },
+  { "id": "teorie-treninku-c11", "front": "Co je intenzita zatížení a v čem se udává?", "back": "Kvalitativní ukazatel, charakterizuje velikost úsilí. Udává se v TF, %VO2max, mmol·l⁻¹." },
+  { "id": "teorie-treninku-c12", "front": "Jak se štěpí látky pro získání energie?", "back": "- aerobně – za přístupu kyslíku\n- anaerobně – bez přístupu kyslíku" },
+  { "id": "teorie-treninku-c13", "front": "Jaké jsou tři zdroje energie pro resyntézu ATP?", "back": "- CP\n- cukry\n- tuky" },
+  { "id": "teorie-treninku-c14", "front": "Co je anaerobní práh?", "back": "Stav dynamické rovnováhy mezi produkcí a odbouráváním laktátu při přechodu od aerobního k anaerobnímu štěpení cukrů." },
+  { "id": "teorie-treninku-c15", "front": "Jaké typy cyklů se rozlišují ve sportovním tréninku?", "back": "1. roční tréninkový cyklus\n2. makrocyklus (1–3 (6) měsíců)\n3. mezocyklus (2–4 týdny)\n4. mikrocyklus (2–10 dnů, obvykle 1 týden)\n5. tréninková jednotka" },
+  { "id": "teorie-treninku-c16", "front": "Jaké části má tréninková jednotka?", "back": "- úvodní část (psychologická stránka, příprava organismu, průprava na hlavní část)\n- hlavní část (koordinační cvičení, rozvoj rychlosti, síly, vytrvalosti)\n- závěrečná část (dynamická, statická)" },
+  { "id": "teorie-treninku-c17", "front": "Jaké jsou čtyři období ročního tréninkového cyklu?", "back": "1. přípravné období (1. etapa – objem, 2. etapa – intenzita)\n2. předzávodní období (ladění sportovní formy)\n3. hlavní období\n4. přechodné období" }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "id": "vyziva-bmi-q01",
+    "question": "Jak se liší energetický výdej člověka s převážně sedavým zaměstnáním od výdeje sportovce při tréninku a závodech?",
+    "modelAnswer": "U zdravého člověka s převážně sedavým zaměstnáním je obvyklý příjem energie přibližně **8,5–12 MJ/den** (2000–2900 kcal/den).\n\nU atletických disciplín během tréninku a závodů stoupá energetický výdej na **2–4 MJ/h**. Výsledná hodnota závisí na stavu trénovanosti, trvání, typu a intenzitě aktivity.\n\nU špičkových profesionálních atletů dosahuje výdej **6,5 MJ/h** (1600 kcal/h). Extrémním příkladem jsou cyklisté na Tour de France, kteří vydávají průměrně **27 MJ/den** (6600 kcal/den). Při horských etapách dosahuje výdej až **40 MJ/den** (9800 kcal/den).\n\nRozdíl mezi běžným životem a režimem sportovce je tedy především v tom, kolik energie musí organismus uhradit a jak tuto potřebu zajistit.",
+    "keyPoints": [
+      "sedavý člověk přijme 8,5–12 MJ/den",
+      "atletika při tréninku a závodech 2–4 MJ/h",
+      "špičkoví atleti 6,5 MJ/h",
+      "Tour de France průměrně 27 MJ/den, horské etapy až 40 MJ/den"
+    ]
+  },
+  {
+    "id": "vyziva-bmi-q02",
+    "question": "Jaké zdroje energie se zapojují při pohybu a jak se mění jejich použití s délkou a intenzitou cvičení?",
+    "modelAnswer": "Pohyb hradí energii ze čtyř zdrojů: **fosfátů (ATP)**, **glykogenu**, **tuků** a **bílkovin**. Jejich zapojení se mění s délkou a intenzitou cvičení.\n\n**ATP** se přímo účastní svalové kontrakce, ale je ho v organismu jen málo a zásoby se vyčerpají po několika vteřinách. Slouží tedy pro krátké vysoce intenzivní aktivity, jako jsou sprinty, hody, skoky nebo údery.\n\n**Glykogen** (uložený v játrech a svalech) se zapojuje, pokud aktivita trvá déle než 10 vteřin. Je velmi rychle použitelný a vystačí na souvislou činnost střední intenzity po dobu 1–2 hodin.\n\n**Tuky** se zapojují přibližně od 12. do 20. minuty. Štěpení probíhá pomaleji, takže dodávka energie je poloviční oproti glykogenu.\n\n**Bílkoviny** se využívají jen při dlouhodobých extrémních výkonech a podílejí se maximálně 15–20 %.\n\nZdroje spolu spolupracují a jejich začátek a konec nelze jednoznačně oddělit.",
+    "keyPoints": [
+      "čtyři zdroje: fosfáty (ATP), glykogen, tuky, bílkoviny",
+      "ATP pro krátké vysoce intenzivní aktivity, vyčerpání po několika vteřinách",
+      "glykogen od 10 s, vystačí na 1–2 h střední intenzity",
+      "tuky od přibližně 12. do 20. minuty, poloviční dodávka oproti glykogenu",
+      "bílkoviny maximálně 15–20 % jen při extrémních výkonech"
+    ]
+  },
+  {
+    "id": "vyziva-bmi-q03",
+    "question": "Co způsobuje náhlý pokles výkonu během dlouhé aktivity a jak mu lze předejít?",
+    "modelAnswer": "Náhlý pokles výkonu, kdy během několika minut ztratíme veškerou sílu, způsobuje **vyčerpání pohotovostních rezerv glykogenu**. Glykogen je uložen v játrech a svalech a jeho štěpením vzniká energie pro doplnění ATP.\n\nPokud se cukr nedoplní, organismus získává energii převážně z tuku. Tuk se však štěpí pomaleji, takže dodávka energie je poloviční oproti glykogenu. Aktivitu lze po vyčerpání glykogenu pokračovat, ale jen v nízké intenzitě.\n\nPředejít mu lze průběžným doplňováním sacharidů. Při výkonech delších než 60 minut je cílem udržet vyrovnanou bilanci příjmu a výdeje energie a tekutin. Sacharidy by se měly přijímat v množství odpovídajícím výdeji energie a je dobré si při tréninku ověřit, v jaké formě je snášíme.",
+    "keyPoints": [
+      "vyčerpání pohotovostních rezerv glykogenu",
+      "bez doplnění cukru organismus získává energii hlavně z tuku",
+      "tuk poskytuje poloviční dodávku energie a pokles intenzity",
+      "při výkonech nad 60 minut doplňovat sacharidy odpovídající výdeji"
+    ]
+  },
+  {
+    "id": "vyziva-bmi-q04",
+    "question": "Jak se v klidu rozděluje energetická potřeba člověka mezi jednotlivé orgány?",
+    "modelAnswer": "Člověk potřebuje každý den tisíce kilojoulů, i když necvičí. Tabulka uvádí rozdělení bazálního metabolismu mezi jednotlivé orgány.\n\nTabulka zdroje ukazuje příklad muže vážícího 75 kg, který celý den leží nehybně v posteli. Mozek spotřebuje 1500 kJ (21 %), srdce 760 kJ (9 %), ledviny 500 kJ (7 %), játra 2300 kJ (32 %), plíce 670 kJ (9 %) a ostatní orgány 1500 kJ (21 %).\n\nNejvíce energie tedy spotřebují játra, následovaná mozkem a ostatními orgány.",
+    "keyPoints": [
+      "bazální metabolismus: energie bez pohybu",
+      "příklad muže 75 kg: rozdělení kJ podle orgánů",
+      "játra 2300 kJ (32 %) jsou největším spotřebitelem",
+      "mozek 1500 kJ (21 %), srdce 760 kJ (9 %), ledviny 500 kJ (7 %), plíce 670 kJ (9 %)"
+    ]
+  },
+  {
+    "id": "vyziva-bmi-q05",
+    "question": "Jaké principy sportovní výživy zdroj doporučuje při výkonu, během něj a po něm?",
+    "modelAnswer": "Odpovídající sportovní výživa vyžaduje dostatečný příjem tekutin, sacharidů, bílkovin a tuků. Hlavním cílem při výkonu je zabránit dehydrataci a udržet normální hladinu glukózy.\n\nPrvním principem je každodenní příjem energie z co nejpřirozenějších a plnohodnotných zdrojů, ve kterých jsou zastoupeny všechny skupiny živin. Druhým je dostatečné pití před, při i po výkonu. Vhodnou kontrolou je barva moči, která má být světle žlutá.\n\nPři výkonech delších než 60 minut je cílem vyrovnaná bilance tekutin a energie. Pít je vhodné tolik, kolik člověk ztrácí potem. Sacharidy je dobré doplňovat i přírodními zdroji, například banánem, vodou, rozinkami nebo datlemi.\n\nPo vyčerpávajícím výkonu následuje regenerace. První dávku sacharidů s aminokyselinami je třeba zkonzumovat do 45 minut po výkonu. Sacharidy s 10–20 g bílkovin zlepší doplnění energie do svalů a omezí produkci kortizolu.",
+    "keyPoints": [
+      "hlavní cíl: zabránit dehydrataci a udržet normální hladinu glukózy",
+      "přirozené a plnohodnotné zdroje všech živin",
+      "pitný režim a kontrola barvy moči",
+      "při výkonu nad 60 minut vyrovnaná bilance tekutin a sacharidů",
+      "regenerace: sacharidy do 45 minut, 10–20 g bílkovin"
+    ]
+  },
+  {
+    "id": "vyziva-bmi-q06",
+    "question": "Jak bezpečně snížit hmotnost pohybem a stravou?",
+    "modelAnswer": "Zdroj upozorňuje, že rychlejší snižování hmotnosti než o **2 kg měsíčně** může být zdraví škodlivé.\n\nChcete-li snížit hmotnost o 2 kg měsíčně, musí být výdej energie o **2000 kJ vyšší** než příjem. Příjem energie dává počet kilojoulů přijatých v potravě. Výdej se skládá ze dvou částí: energie spotřebované při běžné činnosti a energie vydané při pohybových aktivitách.\n\nPomůckou je energetická hodnota uvedená na většině potravinářských výrobků. Doporučuje se několik dní zapisovat příjem energie a vypočítat denní průměr.\n\nPohybová aktivita by měla trvat nejméně 30 minut, protože tuky se do krytí energie zapojují přibližně od 12. do 20. minuty.",
+    "keyPoints": [
+      "bezpečné tempo nejvýše 2 kg měsíčně",
+      "výdej musí být o 2000 kJ vyšší než příjem",
+      "příjem je dán energií z potravy, výdej z běžné činnosti a pohybu",
+      "sledování energetické hodnoty potravin a denní průměr",
+      "pohyb alespoň 30 minut, tuky se zapojují od 12. do 20. minuty"
+    ]
+  },
+  {
+    "id": "vyziva-bmi-q07",
+    "question": "Jak se má sportovec připravit na závod z hlediska odpočinku a formy?",
+    "modelAnswer": "Svalům je třeba dopřát dostatek času na odpočinek. Cílem je před závodem nebo soutěží zařadit nejméně jeden týden zaměřený na **vyladění formy**.\n\nV tomto týdnu se střídá den tréninkového volna s dnem lehkého tréninku.\n\nPřípravu doplňuje výživa. Dostatek tekutin a energie před, při i po výkonu pomáhá zabránit dehydrataci. Tento přístup zdroj shrnuje jako pravidla odpovídající sportovní výživy.",
+    "keyPoints": [
+      "nejméně jeden týden zaměřený na vyladění formy",
+      "střídání dne tréninkového volna a dne lehkého tréninku",
+      "dostatek času na odpočinek svalů",
+      "dostatek tekutin a energie, prevence dehydratace"
+    ]
+  },
+  {
+    "id": "vyziva-bmi-q08",
+    "question": "Jaké jsou historické a komerční souvislosti sportovní výživy a jak k nim přistupovat?",
+    "modelAnswer": "Sportovní zápolení, zejména spojené s výraznými komerčními vlivy, přináší do výživy sportovců mnoho tajemných až magických praktik. Používají se nutriční suplementy, kterým je připisována zázračná moc.\n\nTéměř každá olympiáda přinesla nějaký typický produkt, například sobí mléko v Montrealu nebo karnitin, kreatin a kreatin-fosfát v posledních letech.\n\nTato snaha je velmi stará. Již v období starověkých gladiátorů a atletů v řecké Olympii jedli býčí varlata, která jsou pravděpodobně prvním použitím anabolických steroidů ve sportu.\n\nSportovní výživa by se proto měla zakládat na přirozených a plnohodnotných zdrojích a na speciální sportovní výživu se nemá spoléhat jen. Doplňovat ji lze přírodními zdroji, například banánem, vodou nebo rozinkami.",
+    "keyPoints": [
+      "komerční vlivy přinášejí zázračné suplementy",
+      "příklady: sobí mléko (Montreal), karnitin, kreatin, kreatin-fosfát",
+      "historie: býčí varlata v řecké Olympii",
+      "sportovní výživa se má zakládat na přirozených zdrojích, suplementy jen doplňují"
+    ]
+  }
+]
