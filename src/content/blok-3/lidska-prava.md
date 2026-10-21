@@ -37,7 +37,7 @@
    - **soudce musí** zadrženou osobu do **24 hodin** od převzetí vyslechnout a rozhodnout o vazbě, nebo ji propustit.
 4. **Zatčení** obviněného je možné **jen na písemný odůvodněný příkaz soudce**. Zatčená osoba musí být do **24 hodin** odevzdána soudu. Soudce ji do 24 hodin vyslechne a rozhodne o vazbě, nebo ji propustí na svobodu.
 
-> **Zapamatuj si:** Zadržení (policie, bez příkazu) a zatčení (na písemný příkaz soudce) jsou odlišné úkony. Lhůty 48 hodin a 24 hodin jsou pro zadrženou osobu klíčové.
+> **Zapamatuj si:** Zadržení (policie, se souhlasem státního zástupce) a zatčení (na písemný příkaz soudce) jsou odlišné úkony. Lhůty 48 hodin a 24 hodin jsou pro zadrženou osobu klíčové.
 
 ## Zadržení osoby podezřelé – trestní řád (zákon č. 141/1961 Sb.), § 76
 
@@ -48,6 +48,7 @@
 - Bez takového souhlasu lze zadržení provést, jen jestliže **věc nesnese odkladu** a souhlasu předem nelze dosáhnout, zejména byla-li osoba **přistižena při trestném činu** nebo zastižena na útěku.
 - Policejní orgán, který zadržení provedl, zadrženou osobu vyslechne a o výslechu sepíše protokol (místo, čas, bližší okolnosti zadržení, osobní údaje a podstatné důvody zadržení).
 - Pokud osobu nepropustí, předá státnímu zástupci protokol a důkazní materiál, aby mohl podat návrh na vzetí do vazby. Návrh musí být podán bez odkladu, aby mohla být osoba odevzdána soudu **nejpozději do 48 hodin**; jinak musí být propuštěna.
+- Policejní orgán, který zadržení provedl, zadrženou osobu **propustí bezodkladně na svobodu**, pokud se podezření rozptýlí nebo důvody zadržení z jiné příčiny odpadnou (§ 76 odst. 4).
 
 ### Omezení osobní svobody občanem
 
@@ -55,7 +56,7 @@
   - ke zjištění její totožnosti,
   - k zamezení útěku,
   - k zajištění důkazů.
-- Taková osoba musí být **ihned předána policejnímu orgánu**. Příslušníka ozbrojených sil lze předat i nejbližšímu útvaru ozbrojených sil nebo správci posádky.
+- Osoba **přistižená při trestném činu** musí být **ihned předána policejnímu orgánu** (§ 76 odst. 2). Příslušníka ozbrojených sil lze předat i nejbližšímu útvaru ozbrojených sil nebo správci posádky.
 - Nelze-li osobu ihned předat, je třeba některému z uvedených orgánů omezení osobní svobody **bez odkladu oznámit**.
 
 > **Pozor:** Zadržet podezřelou osobu smí **policie**. **Civilní osoba** smí podezřelou osobu pouze **omezit na svobodě** (a musí ji ihned předat policii).

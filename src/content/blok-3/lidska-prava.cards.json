@@ -1,7 +1,7 @@
 [
   { "id": "lidska-prava-c01", "front": "Jaký je základní princip účinné (sebe)obrany podle českého právního řádu?", "back": "Aby byla obrana účinná, musí být důraznější než útok." },
   { "id": "lidska-prava-c02", "front": "Čemu obranná akce směřuje?", "back": "K likvidaci útoku, nikoliv útočníka." },
-  { "id": "lidska-prava-c03", "front": "Co je základní limitující podmínkou pro zákonnost v sebeobraně?", "back": "Obranná akce je zaměřena na likvidaci útoku, nikoliv útočníka." },
+  { "id": "lidska-prava-c03", "front": "Co je základní limitující podmínkou pro zákonnost v sebeobraně?", "back": "Obrana musí být důraznější než útok (účinná obrana nesmí být slabší než útok)." },
   { "id": "lidska-prava-c04", "front": "Kdy nejde o nutnou obranu?", "back": "Byla-li obrana zcela zjevně nepřiměřená způsobu útoku (§ 29 odst. 2 trestního zákoníku)." },
   { "id": "lidska-prava-c05", "front": "Na čem je založeno právo občana bránit se?", "back": "Na Ústavě ČR, Listině základních práv a svobod a na ratifikovaných a vyhlášených mezinárodních smlouvách o lidských právech, jimiž je ČR vázána." },
   { "id": "lidska-prava-c06", "front": "Jak zní právo na odpor podle výuky?", "back": "Občan má právo postavit se na odpor každému, kdo by ohrožoval či porušoval lidská práva a základní svobody." },
@@ -14,5 +14,6 @@
   { "id": "lidska-prava-c13", "front": "Za jakých podmínek lze zatknout obviněného?", "back": "Jen na písemný odůvodněný příkaz soudce. Zatčená osoba musí být do 24 hodin odevzdána soudu." },
   { "id": "lidska-prava-c14", "front": "Kdo smí zadržet podezřelou osobu podle § 76 trestního řádu?", "back": "Zadržet smí policie. Civilní osoba smí podezřelou osobu pouze omezit na svobodě." },
   { "id": "lidska-prava-c15", "front": "Kdo smí omezit osobní svobodu osoby přistižené při trestném činu a k jakému účelu?", "back": "Kdokoli, pokud je to nutné ke zjištění totožnosti, k zamezení útěku nebo k zajištění důkazů. Takovou osobu je povinen ihned předat policejnímu orgánu." },
-  { "id": "lidska-prava-c16", "front": "Jaká práva má zadržená osoba podle § 76 odst. 6 trestního řádu?", "back": "- Zvolit si obhájce a hovořit s ním bez přítomnosti třetí osoby\n- Radit se s obhájcem již během zadržení\n- Požadovat, aby byl obhájce přítomen jejímu výslechu\n- Být o těchto právech poučena" }
+  { "id": "lidska-prava-c16", "front": "Jaká práva má zadržená osoba podle § 76 odst. 6 trestního řádu?", "back": "- Zvolit si obhájce a hovořit s ním bez přítomnosti třetí osoby\n- Radit se s obhájcem již během zadržení\n- Požadovat, aby byl obhájce přítomen jejímu výslechu\n- Být o těchto právech poučen" },
+  { "id": "lidska-prava-c17", "front": "Kdy musí policejní orgán zadrženou osobu propustit podle § 76 odst. 4 trestního řádu?", "back": "Bezodkladně, pokud se podezření rozptýlí nebo důvody zadržení z jiné příčiny odpadnou. Nepropustí-li ji, předá státnímu zástupci protokol a další důkazní materiál. Osoba musí být odevzdána soudu nejpozději do 48 hodin od zadržení, jinak musí být propuštěna." }
 ]

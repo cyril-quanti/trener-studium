@@ -36,7 +36,7 @@
   {
     "id": "pravo-trestni-q04",
     "question": "Od kterého věku je pachatel trestně odpovědný a jaký vliv má duševní porucha na trestní odpovědnost?",
-    "modelAnswer": "Kdo v době spáchání činu nedovršil čtrnáctý rok věku, není trestně odpovědný (§ 25). Věk je tedy objektivní hranicí, pod kterou trestní odpovědnost neexistuje.\n\nKdo pro duševní poruchu v době činu nemohl rozpoznat jeho protiprávnost nebo ovládat své jednání, není trestně odpovědný (§ 26). Pokud pro duševní poruchu měl podstatně sníženou schopnost rozpoznat protiprávnost nebo ovládat jednání, je zmenšeně příčetný (§ 27). Rozhodující je tedy stav v době spáchání činu.",
+    "modelAnswer": "Kdo v době spáchání činu nedovršil čtrnáctý rok věku, není trestně odpovědný (§ 25).\n\nKdo pro duševní poruchu v době činu nemohl rozpoznat jeho protiprávnost nebo ovládat své jednání, není trestně odpovědný (§ 26). Pokud pro duševní poruchu měl podstatně sníženou schopnost rozpoznat protiprávnost nebo ovládat jednání, je zmenšeně příčetný (§ 27). Rozhodující je tedy stav v době spáchání činu.",
     "keyPoints": [
       "věková hranice: nedovršených 14 let (§ 25)",
       "nepříčetnost pro duševní poruchu (§ 26)",

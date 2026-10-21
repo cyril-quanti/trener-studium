@@ -25,7 +25,7 @@
   {
     "id": "lidska-prava-q03",
     "question": "Jaká základní práva chrání Listina a jak je chrání český právní řád?",
-    "modelAnswer": "Mezi nejdůležitější práva, která Listina základních práv a svobod shrnuje, patří právo na život (čl. 6 odst. 4), nedotknutelnost osoby a jejího soukromí (čl. 7), osobní svoboda (čl. 8) a nedotknutelnost obydlí (čl. 12).\n\nTato práva jsou v České republice chráněna trestním zákoníkem, zákonem č. 40/2009 Sb. Trestní zákoník tedy slouží jako nástroj ochrany lidských práv a základních svobod. Chrání zájmy, které Listina a mezinárodní smlouvy garantují, a umožňuje reagovat na jejich porušení.",
+    "modelAnswer": "Mezi nejdůležitější práva, která Listina základních práv a svobod shrnuje, patří právo na život (čl. 6 odst. 4), nedotknutelnost osoby a jejího soukromí (čl. 7), osobní svoboda (čl. 8) a nedotknutelnost obydlí (čl. 12).\n\nTato práva jsou v České republice chráněna trestním zákoníkem (zákon č. 40/2009 Sb.).",
     "keyPoints": [
       "právo na život (čl. 6 odst. 4)",
       "nedotknutelnost osoby a soukromí (čl. 7)",
@@ -73,7 +73,7 @@
   {
     "id": "lidska-prava-q07",
     "question": "Jaká práva má zadržená osoba a jak musí být poučena?",
-    "modelAnswer": "Zadržená osoba má právo zvolit si obhájce a hovořit s ním bez přítomnosti třetí osoby. Může se s ním radit již v průběhu zadržení. Má také právo požadovat, aby byl obhájce přítomen jejímu výslechu, ledaže je obhájce v lhůtě 48 hodin nedosažitelný.\n\nO těchto právech musí být podezřelý poučen a musí mu být poskytnuta plná možnost jejich uplatnění. Tato práva vyplývají z § 76 odst. 6 trestního řádu a navazují na ochranu osobní svobody podle čl. 8 Listiny.",
+    "modelAnswer": "Zadržená osoba má právo zvolit si obhájce a hovořit s ním bez přítomnosti třetí osoby. Může se s ním radit již v průběhu zadržení. Má také právo požadovat, aby byl obhájce přítomen jejímu výslechu, ledaže je obhájce v lhůtě 48 hodin nedosažitelný.\n\nO těchto právech musí být podezřelý poučen a musí mu být poskytnuta plná možnost jejich uplatnění. Tato práva vyplývají z § 76 odst. 6 trestního řádu.",
     "keyPoints": [
       "právo zvolit si obhájce",
       "důvěrný rozhovor s obhájcem bez třetí osoby",
