@@ -1,0 +1,98 @@
+[
+  {
+    "id": "etapy-cykly-q01",
+    "question": "Popište etapy dlouhodobého sportovního tréninku.",
+    "modelAnswer": "Dlouhodobý sportovní trénink prochází čtyřmi etapami:\n\n1. **Etapa seznámení se sportem**\n2. **Etapa základního tréninku**\n3. **Etapa specializovaného tréninku**\n4. **Etapa vrcholového tréninku**\n\nEtapy na sebe navazují v uvedeném pořadí a vrcholový trénink je jejich posledním stupněm. Zdrojový text uvádí pouze názvy a pořadí etap, proto je zde nerozvádím podrobněji. Celý postup popisuje dlouhodobý sportovní trénink od prvního seznámení se sportem až po vrcholovou úroveň.",
+    "keyPoints": [
+      "Čtyři etapy: seznámení se sportem, základní trénink, specializovaný trénink, vrcholový trénink",
+      "Etapa seznámení se sportem je první etapou dlouhodobého tréninku",
+      "Etapa základního tréninku následuje po seznámení se sportem",
+      "Etapy na sebe navazují v uvedeném pořadí",
+      "Etapa vrcholového tréninku je poslední etapou"
+    ]
+  },
+  {
+    "id": "etapy-cykly-q02",
+    "question": "Porovnejte raný specializovaný trénink a trénink odpovídající vývoji.",
+    "modelAnswer": "V dlouhodobé koncepci tréninku existují dvě odlišné cesty.\n\n**Raná specializace** si klade za cíl dosáhnout vysokého výkonu co nejdříve. Obsah tréninku je úzce zaměřen na specializaci, což vede k jednostrannosti. Zatížení jde až na hranici únosnosti, i když jsou sportovci ještě nevyzrálí. Psychicky se trénink blíží práci dospělých, je tvrdý a klade velký tlak na výkon.\n\n**Trénink odpovídající vývoji** počítá s výkonností přiměřenou věku. Nejvyšší výkon je perspektivním cílem a dětství a mládí jsou přípravnou etapou. Obsah tréninku zahrnuje odpovídající podíl všestrannosti. Nároky na sportovce se stupňují postupně a s ohledem na individuální vývoj. Trénink přináší radost, hravost a přiměřené ocenění a omezuje tlak na výkon.\n\nPodstatný rozdíl je v tom, zda je cílem rychlý úspěch, nebo dlouhodobý rozvoj.",
+    "keyPoints": [
+      "Raná specializace směřuje k rychlému dosažení vysokého výkonu",
+      "Raná specializace vede k jednostrannosti a zatížení jde až na hranici únosnosti",
+      "Trénink odpovídající vývoji počítá s přiměřeným podílem všestrannosti",
+      "Trénink odpovídající vývoji stupňuje nároky postupně s ohledem na vývoj",
+      "Trénink odpovídající vývoji omezuje tlak na výkon a přináší radost z pohybu"
+    ]
+  },
+  {
+    "id": "etapy-cykly-q03",
+    "question": "Vysvětlete strukturu ročního tréninkového cyklu.",
+    "modelAnswer": "Roční tréninkový cyklus se dělí na čtyři období.\n\nPrvním je **přípravné období**, které má dvě etapy. V první etapě převládá **objem**, tedy obecná příprava. Ve druhé etapě převládá **intenzita**, tedy speciální příprava.\n\nDruhým obdobím je **předzávodní období**, které slouží k ladění sportovní formy. Třetím je **hlavní období**. Čtvrtým je **přechodné období**.\n\nPřípravné období tedy předchází předzávodnímu i hlavnímu období a přechodné období následuje po hlavním období. Pořadí obdobií v ročním cyklu je v zdrojovém textu uvedeno výčtem, a proto se jím řídí i tato odpověď. Roční cyklus je nejdelším cyklem tréninkového procesu.",
+    "keyPoints": [
+      "Roční cyklus má čtyři období: přípravné, předzávodní, hlavní a přechodné",
+      "Přípravné období má dvě etapy: objem (obecná příprava) a intenzita (speciální příprava)",
+      "Předzávodní období slouží k ladění sportovní formy",
+      "Hlavní období je třetím obdobím ročního cyklu",
+      "Přechodné období je čtvrtým obdobím ročního cyklu"
+    ]
+  },
+  {
+    "id": "etapy-cykly-q04",
+    "question": "Jaké jsou délky jednotlivých tréninkových cyklů a jak spolu souvisejí?",
+    "modelAnswer": "Tréninkový proces je členěn do několika navazujících cyklů různé délky.\n\nNejdelší je **roční tréninkový cyklus**, který trvá jeden rok. Následuje **makrocyklus**, který trvá 1 až 3 (6) měsíců. Kratším celkem je **mezocyklus** v délce 2 až 4 týdnů. Nejkratším cyklem je **mikrocyklus**, který trvá 2 až 10 dnů, obvykle jeden týden.\n\nNejmenší jednotkou tréninkového procesu je **tréninková jednotka**. Zdrojový text uvádí cykly v tomto pořadí od nejdelšího po nejkratší: roční tréninkový cyklus, makrocyklus, mezocyklus, mikrocyklus a tréninková jednotka.",
+    "keyPoints": [
+      "Roční tréninkový cyklus trvá jeden rok",
+      "Makrocyklus trvá 1–3 (6) měsíců",
+      "Mezocyklus trvá 2–4 týdny",
+      "Mikrocyklus trvá 2–10 dnů, obvykle 1 týden",
+      "Tréninková jednotka je nejkratší jednotkou tréninkového procesu"
+    ]
+  },
+  {
+    "id": "etapy-cykly-q05",
+    "question": "Jaké typy mikrocyklů se používají a k čemu slouží?",
+    "modelAnswer": "Mikrocyklus trvá 2–10 dnů, obvykle 1 týden. Podle zaměření se rozlišují tyto typy:\n\n- **všeobecně rozvíjející**\n- **speciálně rozvíjející**\n- **vylaďovací**\n- **stabilizační**\n- **soutěžní**\n- **regenerační**\n- **kontrolní**\n\nTypy jsou pojmenovány podle toho, na co je mikrocyklus zaměřen, například na všeobecný nebo speciální rozvoj, na vyladění, stabilizaci, soutěž, regeneraci nebo kontrolu. Zdrojový text je uvádí jako výčet bez podrobnějšího popisu, proto je zde nerozvádím dále.",
+    "keyPoints": [
+      "Mikrocyklus trvá obvykle jeden týden",
+      "Existuje sedm typů mikrocyklů",
+      "Typy mikrocyklů jsou všeobecně rozvíjející a speciálně rozvíjející",
+      "Mezi typy patří regenerační mikrocyklus",
+      "Mezi typy patří soutěžní a kontrolní mikrocyklus"
+    ]
+  },
+  {
+    "id": "etapy-cykly-q06",
+    "question": "Z jakých částí se skládá tréninková jednotka dětí?",
+    "modelAnswer": "Tréninková jednotka pro děti trvá přibližně 45 až 50 minut. Skládá se ze tří částí.\n\n**Úvodní část** má psychologickou stránku, zahrnuje přípravu organismu (rozcvičení) a průpravu na hlavní část.\n\n**Hlavní část** obsahuje koordinační cvičení a cvičení na rozvoj rychlosti, síly a vytrvalosti.\n\n**Závěrečná část** obsahuje cvičení dynamická a statická.\n\nZdroj dále uvádí tři sociálně interakční formy tréninkové jednotky: hromadnou, skupinovou a individuální.",
+    "keyPoints": [
+      "Tréninková jednotka dětí trvá 45–50 minut",
+      "Úvodní část zahrnuje psychologickou přípravu, přípravu organismu a průpravu",
+      "Hlavní část rozvíjí koordinaci, rychlost, sílu a vytrvalost",
+      "Závěrečná část obsahuje cvičení dynamická a statická",
+      "Společenské formy jsou hromadná, skupinová a individuální"
+    ]
+  },
+  {
+    "id": "etapy-cykly-q07",
+    "question": "Jak se v tréninku dětí rozděluje čas mezi speciální pohybová cvičení a herní činnosti?",
+    "modelAnswer": "Ve sportovní přípravě dětí má zásadní význam vyvážený poměr mezi cvičením a hrou. Zdrojový text uvádí poměr **70 : 30**, kde 70 % tvoří **speciální pohybová cvičení** a 30 % tvoří **herní dovednostní činnosti**.\n\nPoměr vychází ze zásady všestrannosti, která klade důraz na rozvoj všeobecných pohybových schopností.\n\nHerní činnosti podporují motivaci, protože pro děti je důležitá hravost a soupeřivost. Zdroj zdůrazňuje, že děti potřebují prožívat radost z toho, co dělají, a že není podstatné, kdo a kolikrát zvítězil.",
+    "keyPoints": [
+      "Poměr speciálních pohybových cvičení a herních činností je 70 : 30",
+      "70 % tvoří speciální pohybová cvičení",
+      "30 % tvoří herní dovednostní činnosti",
+      "Herní činnosti podporují motivaci a hravost",
+      "Poměr vychází ze zásady všestrannosti"
+    ]
+  },
+  {
+    "id": "etapy-cykly-q08",
+    "question": "Co je zlatý věk motoriky a jaký význam má pro sportovní přípravu?",
+    "modelAnswer": "Zlatý věk motoriky je v zdrojovém textu uváděn přibližně na **8 až 10 let**. Označuje období, ve kterém se děti nejsnadněji učí pohybové dovednosti. Podle zdroje stačí perfektní ukázka a učení probíhá v podstatě samo.\n\nZdroj uvádí, že v tomto věku je trenér přirozenou autoritou, a proto jsou důležité příklad, optimismus, projevený zájem a elán.\n\nZároveň zdroj uvádí obecný věkový rozsah dětí 6 až 15 let. Údaj o zlatém věku je proto třeba číst v tomto širším rámci.",
+    "keyPoints": [
+      "Zlatý věk motoriky je období, kdy se děti nejsnadněji učí pohybové dovednosti",
+      "Zdroj uvádí věk přibližně 8–10 let",
+      "Stačí perfektní ukázka a učení probíhá v podstatě samo",
+      "V tomto věku je trenér přirozenou autoritou",
+      "Obecný věk dětí ve zdroji je 6–15 let"
+    ]
+  }
+]
