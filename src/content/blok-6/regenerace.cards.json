@@ -6,7 +6,7 @@
   },
   {
     "id": "regenerace-c02",
-    "front": "Jaký je cyklus sportovního výkonu podle podkladů?",
+    "front": "Jaký je cyklus sportovního výkonu?",
     "back": "práce → únava → zotavování → práce (a opět sportovní výkon)"
   },
   {
@@ -91,7 +91,7 @@
   },
   {
     "id": "regenerace-c19",
-    "front": "Jaké možnosti terapeutického ovlivnění rozsahu pohybu uvádějí podklady?",
+    "front": "Jaké možnosti terapeutického ovlivnění rozsahu pohybu existují?",
     "back": "- Strečink (balistický/dynamický, statický)\n- PFI (postfacilitační inhibice)\n- PIR (postizometrická relaxace)\n- AGR (antigravitační relaxace; odpor terapeuta nahrazen gravitací)\n- Spray and stretch"
   },
   {
@@ -101,7 +101,7 @@
   },
   {
     "id": "regenerace-c21",
-    "front": "Jaké skupiny farmakologických prostředků regenerace uvádějí podklady?",
+    "front": "Jaké skupiny farmakologických prostředků regenerace existují?",
     "back": "- Energetický metabolismus\n- Mikrovýživové látky\n- Ochranné buněčné látky\n- Antioxidanty\n- Antikatabolické látky\n- Imunostimulátory\n- Rostlinná psychofarmaka"
   }
 ]

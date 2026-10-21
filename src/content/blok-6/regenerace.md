@@ -121,11 +121,9 @@ Cyklus: práce → únava → zotavování → práce (a opět sportovní výkon
 
 #### A) Pedagogické prostředky
 
-Prostředky jsou v podkladech pouze vyjmenovány (viz přednáška), jejich výčet je uveden výše.
-
 #### B) Psychologické prostředky
 
-- Jsou propojeny s pedagogickými.
+- Psychologické prostředky jsou propojeny s pedagogickými.
 - Hlavní úlohu má **trenér**.
 
 > **Pozor:** Nepřehánět zapojování psychologů (například testování osobnosti).
@@ -185,14 +183,14 @@ Prostředky jsou v podkladech pouze vyjmenovány (viz přednáška), jejich vý�
 
 - Projevy deprese jsou u sportovců častější.
 - Hloubka deprese závisí na dvou faktorech: 1) typu člověka, 2) závažnosti a četnosti neúspěchů.
-- Depresivní syndrom sportovci tají. Podklady uvádějí **larvovanou depresi / bulimii** u 39 %.
+- Depresivní syndrom sportovci tají. Larvovaná deprese / bulimie se vyskytuje u 39 %.
 - Projevy: megalomanské chování nebo uzavírání do sebe.
 - **Terapie:** racionální, sugestivní nebo tréninková psychoterapie, autogenní trénink.
 - Volba terapeuta je složitější – obtížně se navazuje kontakt, a to i s trenérem.
 
 **Autogenní trénink**
 
-- Podle podkladů: 2 minuty nahradí 60 minut spánku.
+- 2 minuty nahradí 60 minut spánku.
 
 *Schulzova metoda*
 
@@ -464,7 +462,7 @@ Nižší vstřebatelnost ze žaludku; nápoj by měl být:
 
 ### Farmakologické prostředky regenerace
 
-Látky podporující regeneraci organismu. Podle podkladů patří mezi ně:
+Látky podporující regeneraci organismu. Patří mezi ně:
 
 | Skupina | Příklady |
 |---------|----------|
